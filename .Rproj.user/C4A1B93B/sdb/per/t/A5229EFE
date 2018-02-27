@@ -1,0 +1,28 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1497875779645.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "A5229EFE",
+    "lastKnownWriteTime" : 3833180308419998817,
+    "last_content_update" : 1497875779645,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "flnpox6v90",
+        "caption" : "TestingCorrect",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=TestingCorrect&cache_key=flnpox6v90",
+        "displayedObservations" : 60,
+        "environment" : "",
+        "object" : "TestingCorrect",
+        "totalObservations" : 60,
+        "variables" : 5
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

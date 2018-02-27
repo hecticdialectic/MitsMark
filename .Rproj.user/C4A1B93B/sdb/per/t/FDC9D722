@@ -1,0 +1,28 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1497875351732.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "FDC9D722",
+    "lastKnownWriteTime" : 6641721330681800047,
+    "last_content_update" : 1497875351732,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "ganhzml3kp",
+        "caption" : "Training_FullWithin",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=Training_FullWithin&cache_key=ganhzml3kp",
+        "displayedObservations" : "120",
+        "environment" : "",
+        "object" : "Training_FullWithin",
+        "totalObservations" : "120",
+        "variables" : "4"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
