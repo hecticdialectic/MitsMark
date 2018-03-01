@@ -1,0 +1,73 @@
+"Id"	"Word"	"TrueMeaning"	"WordType"	"TrialType"	"TargetMeaning"	"LegalTrial"	"TrialNum"
+"325-9"	"gussuri"	"fast asleep"	"NRI"	"T"	"fast asleep"	"Y"	1
+"325-9"	"gosogoso"	"whole"	"RNRI"	"T"	"whole"	"Y"	2
+"325-9"	"bukubuku"	"chubby"	"RI"	"D"	"stiff"	"Y"	3
+"325-9"	"muku"	"pure"	"NAdj"	"T"	"pure"	"Y"	4
+"325-9"	"gowa"	"stiff"	"SRI"	"T"	"stiff"	"Y"	5
+"325-9"	"yaboyabo"	"tasteless"	"RNAdj"	"T"	"tasteless"	"Y"	6
+"325-9"	"seka"	"hasty"	"SRI"	"D"	"exact"	"Y"	7
+"325-9"	"ukiuki"	"happy"	"RI"	"D"	"offended"	"Y"	8
+"325-9"	"garagara"	"to change ocmpletely"	"RNRI"	"D"	"smooth"	"Y"	9
+"325-9"	"gayagaya"	"noisy"	"RI"	"T"	"noisy"	"Y"	10
+"325-9"	"kabi"	"gaudy"	"NAdj"	"T"	"gaudy"	"Y"	11
+"325-9"	"yawayawa"	"fragile"	"RNAdj"	"D"	"fat"	"Y"	12
+"325-9"	"zatsuzatsu"	"sloppy"	"RNAdj"	"T"	"sloppy"	"Y"	13
+"325-9"	"yawayawa"	"fragile"	"RNAdj"	"T"	"fragile"	"Y"	14
+"325-9"	"kibi"	"energetic"	"SRI"	"T"	"energetic"	"Y"	15
+"325-9"	"kakkiri"	"exact"	"NRI"	"D"	"happy"	"Y"	16
+"325-9"	"yura"	"wobbly"	"SRI"	"T"	"wobbly"	"Y"	17
+"325-9"	"himahima"	"free"	"RNAdj"	"T"	"free"	"Y"	18
+"325-9"	"fubi"	"deficient"	"NAdj"	"T"	"deficient"	"Y"	19
+"325-9"	"nopperi"	"smooth"	"NRI"	"D"	"rash"	"Y"	20
+"325-9"	"boro"	"worn out"	"SRI"	"T"	"worn out"	"Y"	21
+"325-9"	"kakkiri"	"exact"	"NRI"	"T"	"exact"	"Y"	22
+"325-9"	"hisohiso"	"whispering"	"RI"	"T"	"whispering"	"Y"	23
+"325-9"	"garagara"	"to change ocmpletely"	"RNRI"	"T"	"to change ocmpletely"	"Y"	24
+"325-9"	"mucha"	"rash"	"NAdj"	"T"	"rash"	"Y"	25
+"325-9"	"pata"	"sudden"	"NRI"	"T"	"sudden"	"Y"	26
+"325-9"	"yaboyabo"	"tasteless"	"RNAdj"	"D"	"energetic"	"Y"	27
+"325-9"	"seka"	"hasty"	"SRI"	"T"	"hasty"	"Y"	28
+"325-9"	"ukiuki"	"happy"	"RI"	"T"	"happy"	"Y"	29
+"325-9"	"jimi"	"subdued"	"NAdj"	"T"	"subdued"	"Y"	30
+"325-9"	"debudebu"	"fat"	"RI"	"T"	"fat"	"Y"	31
+"325-9"	"pata"	"sudden"	"NRI"	"D"	"resolute"	"Y"	32
+"325-9"	"hiku"	"agitated"	"SRI"	"D"	"plump"	"Y"	33
+"325-9"	"hisohiso"	"whispering"	"RI"	"D"	"whole"	"Y"	34
+"325-9"	"damedame"	"useless"	"RNAdj"	"T"	"useless"	"Y"	35
+"325-9"	"hiku"	"agitated"	"SRI"	"T"	"agitated"	"Y"	36
+"325-9"	"kokukoku"	"harsh"	"RNAdj"	"T"	"harsh"	"Y"	37
+"325-9"	"musumusu"	"sullen"	"RNRI"	"T"	"sullen"	"Y"	38
+"325-9"	"boro"	"worn out"	"SRI"	"D"	"wobbly"	"Y"	39
+"325-9"	"furi"	"disadvantaged"	"NAdj"	"D"	"pure"	"Y"	40
+"325-9"	"kukkirikukkiri"	"clear"	"RNRI"	"T"	"clear"	"Y"	41
+"325-9"	"debudebu"	"fat"	"RI"	"D"	"shivering"	"Y"	42
+"325-9"	"kibi"	"energetic"	"SRI"	"D"	"to change ocmpletely"	"Y"	43
+"325-9"	"buruburu"	"shivering"	"RI"	"T"	"shivering"	"Y"	44
+"325-9"	"musumusu"	"sullen"	"RNRI"	"D"	"fragile"	"Y"	45
+"325-9"	"gowa"	"stiff"	"SRI"	"D"	"whispering"	"Y"	46
+"325-9"	"gaku"	"dejected"	"NRI"	"D"	"deficient"	"Y"	47
+"325-9"	"potchari"	"plump"	"NRI"	"D"	"harsh"	"Y"	48
+"325-9"	"damedame"	"useless"	"RNAdj"	"D"	"tasteless"	"Y"	49
+"325-9"	"fubi"	"deficient"	"NAdj"	"D"	"clear"	"Y"	50
+"325-9"	"kokukoku"	"harsh"	"RNAdj"	"D"	"sudden"	"Y"	51
+"325-9"	"kachinkachin"	"offended"	"RNRI"	"T"	"offended"	"Y"	52
+"325-9"	"buruburu"	"shivering"	"RI"	"D"	"subdued"	"Y"	53
+"325-9"	"potchari"	"plump"	"NRI"	"T"	"plump"	"Y"	54
+"325-9"	"nopperi"	"smooth"	"NRI"	"T"	"smooth"	"Y"	55
+"325-9"	"gosogoso"	"whole"	"RNRI"	"D"	"sloppy"	"Y"	56
+"325-9"	"mucha"	"rash"	"NAdj"	"D"	"free"	"Y"	57
+"325-9"	"bassaribassari"	"resolute"	"RNRI"	"D"	"gaudy"	"Y"	58
+"325-9"	"furi"	"disadvantaged"	"NAdj"	"T"	"disadvantaged"	"Y"	59
+"325-9"	"bukubuku"	"chubby"	"RI"	"T"	"chubby"	"Y"	60
+"325-9"	"gaku"	"dejected"	"NRI"	"T"	"dejected"	"Y"	61
+"325-9"	"yura"	"wobbly"	"SRI"	"D"	"chubby"	"Y"	62
+"325-9"	"jimi"	"subdued"	"NAdj"	"D"	"agitated"	"Y"	63
+"325-9"	"kukkirikukkiri"	"clear"	"RNRI"	"D"	"sullen"	"Y"	64
+"325-9"	"gayagaya"	"noisy"	"RI"	"D"	"dejected"	"Y"	65
+"325-9"	"himahima"	"free"	"RNAdj"	"D"	"disadvantaged"	"Y"	66
+"325-9"	"muku"	"pure"	"NAdj"	"D"	"worn out"	"Y"	67
+"325-9"	"gussuri"	"fast asleep"	"NRI"	"D"	"noisy"	"Y"	68
+"325-9"	"bassaribassari"	"resolute"	"RNRI"	"T"	"resolute"	"Y"	69
+"325-9"	"zatsuzatsu"	"sloppy"	"RNAdj"	"D"	"useless"	"Y"	70
+"325-9"	"kachinkachin"	"offended"	"RNRI"	"D"	"hasty"	"Y"	71
+"325-9"	"kabi"	"gaudy"	"NAdj"	"D"	"fast asleep"	"Y"	72

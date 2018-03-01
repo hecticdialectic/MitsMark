@@ -1,0 +1,73 @@
+"Id"	"Word"	"TrueMeaning"	"WordType"	"TrialType"	"TargetMeaning"	"LegalTrial"	"TrialNum"
+"8220-10"	"maremare"	"rare"	"RNAdj"	"D"	"comfortable"	"Y"	1
+"8220-10"	"yabo"	"tasteless"	"NAdj"	"T"	"tasteless"	"Y"	2
+"8220-10"	"fubi"	"deficient"	"NAdj"	"T"	"deficient"	"Y"	3
+"8220-10"	"patapata"	"sudden"	"RNRI"	"T"	"sudden"	"Y"	4
+"8220-10"	"kukkirikukkiri"	"clear"	"RNRI"	"D"	"wobbly"	"Y"	5
+"8220-10"	"patapata"	"sudden"	"RNRI"	"D"	"clear"	"Y"	6
+"8220-10"	"yabo"	"tasteless"	"NAdj"	"D"	"gaping"	"Y"	7
+"8220-10"	"moji"	"hesitant"	"SRI"	"D"	"beneficial"	"Y"	8
+"8220-10"	"furi"	"disadvantaged"	"NAdj"	"T"	"disadvantaged"	"Y"	9
+"8220-10"	"mucha"	"rash"	"NAdj"	"D"	"plump"	"Y"	10
+"8220-10"	"ukiuki"	"happy"	"RI"	"T"	"happy"	"Y"	11
+"8220-10"	"kokukoku"	"harsh"	"RNAdj"	"T"	"harsh"	"Y"	12
+"8220-10"	"tsuya"	"glossy"	"SRI"	"T"	"glossy"	"Y"	13
+"8220-10"	"gussuri"	"fast asleep"	"NRI"	"D"	"nonchalantly"	"Y"	14
+"8220-10"	"kukkirikukkiri"	"clear"	"RNRI"	"T"	"clear"	"Y"	15
+"8220-10"	"rakuraku"	"comfortable"	"RNAdj"	"T"	"comfortable"	"Y"	16
+"8220-10"	"zukezuke"	"rude"	"RI"	"T"	"rude"	"Y"	17
+"8220-10"	"debu"	"fat"	"SRI"	"D"	"fast asleep"	"Y"	18
+"8220-10"	"gara"	"to change ocmpletely"	"NRI"	"T"	"to change ocmpletely"	"Y"	19
+"8220-10"	"tokutoku"	"beneficial"	"RNAdj"	"T"	"beneficial"	"Y"	20
+"8220-10"	"kado"	"excessive"	"NAdj"	"T"	"excessive"	"Y"	21
+"8220-10"	"pishapisha"	"decisive"	"RNRI"	"D"	"offended"	"Y"	22
+"8220-10"	"shinnari"	"supple"	"NRI"	"T"	"supple"	"Y"	23
+"8220-10"	"poka"	"gaping"	"NRI"	"T"	"gaping"	"Y"	24
+"8220-10"	"hiku"	"agitated"	"SRI"	"T"	"agitated"	"Y"	25
+"8220-10"	"poka"	"gaping"	"NRI"	"D"	"hasty"	"Y"	26
+"8220-10"	"fubi"	"deficient"	"NAdj"	"D"	"careful"	"Y"	27
+"8220-10"	"mukumuku"	"pure"	"RNAdj"	"D"	"to change ocmpletely"	"Y"	28
+"8220-10"	"hiku"	"agitated"	"SRI"	"D"	"humid"	"Y"	29
+"8220-10"	"kado"	"excessive"	"NAdj"	"D"	"supple"	"Y"	30
+"8220-10"	"mushimushi"	"humid"	"RI"	"D"	"rude"	"Y"	31
+"8220-10"	"baka"	"stupid"	"NAdj"	"T"	"stupid"	"Y"	32
+"8220-10"	"zatsuzatsu"	"sloppy"	"RNAdj"	"D"	"sudden"	"Y"	33
+"8220-10"	"kero"	"nonchalantly"	"NRI"	"T"	"nonchalantly"	"Y"	34
+"8220-10"	"bisshiribisshiri"	"crowded"	"RNRI"	"T"	"crowded"	"Y"	35
+"8220-10"	"kokukoku"	"harsh"	"RNAdj"	"D"	"excessive"	"Y"	36
+"8220-10"	"baka"	"stupid"	"NAdj"	"D"	"harsh"	"Y"	37
+"8220-10"	"gocha"	"messy"	"SRI"	"D"	"disadvantaged"	"Y"	38
+"8220-10"	"jikkurijikkuri"	"careful"	"RNRI"	"D"	"decisive"	"Y"	39
+"8220-10"	"rakuraku"	"comfortable"	"RNAdj"	"D"	"deficient"	"Y"	40
+"8220-10"	"potcharipotchari"	"plump"	"RNRI"	"D"	"fat"	"Y"	41
+"8220-10"	"pishapisha"	"decisive"	"RNRI"	"T"	"decisive"	"Y"	42
+"8220-10"	"mucha"	"rash"	"NAdj"	"T"	"rash"	"Y"	43
+"8220-10"	"potcharipotchari"	"plump"	"RNRI"	"T"	"plump"	"Y"	44
+"8220-10"	"mushimushi"	"humid"	"RI"	"T"	"humid"	"Y"	45
+"8220-10"	"furi"	"disadvantaged"	"NAdj"	"D"	"tasteless"	"Y"	46
+"8220-10"	"gocha"	"messy"	"SRI"	"T"	"messy"	"Y"	47
+"8220-10"	"sekaseka"	"hasty"	"RI"	"T"	"hasty"	"Y"	48
+"8220-10"	"bisshiribisshiri"	"crowded"	"RNRI"	"D"	"stupid"	"Y"	49
+"8220-10"	"jikkurijikkuri"	"careful"	"RNRI"	"T"	"careful"	"Y"	50
+"8220-10"	"gussuri"	"fast asleep"	"NRI"	"T"	"fast asleep"	"Y"	51
+"8220-10"	"tsuya"	"glossy"	"SRI"	"D"	"happy"	"Y"	52
+"8220-10"	"ukiuki"	"happy"	"RI"	"D"	"sloppy"	"Y"	53
+"8220-10"	"zatsuzatsu"	"sloppy"	"RNAdj"	"T"	"sloppy"	"Y"	54
+"8220-10"	"debu"	"fat"	"SRI"	"T"	"fat"	"Y"	55
+"8220-10"	"gara"	"to change ocmpletely"	"NRI"	"D"	"hesitant"	"Y"	56
+"8220-10"	"yurayura"	"wobbly"	"RI"	"T"	"wobbly"	"Y"	57
+"8220-10"	"bera"	"chatty"	"SRI"	"T"	"chatty"	"Y"	58
+"8220-10"	"shinnari"	"supple"	"NRI"	"D"	"pure"	"Y"	59
+"8220-10"	"kachin"	"offended"	"NRI"	"D"	"rare"	"Y"	60
+"8220-10"	"hokahoka"	"steaming"	"RI"	"D"	"agitated"	"Y"	61
+"8220-10"	"tokutoku"	"beneficial"	"RNAdj"	"D"	"chatty"	"Y"	62
+"8220-10"	"maremare"	"rare"	"RNAdj"	"T"	"rare"	"Y"	63
+"8220-10"	"yurayura"	"wobbly"	"RI"	"D"	"crowded"	"Y"	64
+"8220-10"	"kero"	"nonchalantly"	"NRI"	"D"	"rash"	"Y"	65
+"8220-10"	"mukumuku"	"pure"	"RNAdj"	"T"	"pure"	"Y"	66
+"8220-10"	"kachin"	"offended"	"NRI"	"T"	"offended"	"Y"	67
+"8220-10"	"sekaseka"	"hasty"	"RI"	"D"	"messy"	"Y"	68
+"8220-10"	"bera"	"chatty"	"SRI"	"D"	"steaming"	"Y"	69
+"8220-10"	"moji"	"hesitant"	"SRI"	"T"	"hesitant"	"Y"	70
+"8220-10"	"zukezuke"	"rude"	"RI"	"D"	"glossy"	"Y"	71
+"8220-10"	"hokahoka"	"steaming"	"RI"	"T"	"steaming"	"Y"	72

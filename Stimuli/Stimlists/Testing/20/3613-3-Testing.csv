@@ -1,0 +1,73 @@
+"Id"	"Word"	"TrueMeaning"	"WordType"	"TrialType"	"TargetMeaning"	"LegalTrial"	"TrialNum"
+"3613-3"	"mushi"	"humid"	"SRI"	"T"	"humid"	"Y"	1
+"3613-3"	"fubi"	"deficient"	"NAdj"	"T"	"deficient"	"Y"	2
+"3613-3"	"kukkiri"	"clear"	"NRI"	"T"	"clear"	"Y"	3
+"3613-3"	"moji"	"hesitant"	"SRI"	"D"	"suspenseful"	"Y"	4
+"3613-3"	"baka"	"stupid"	"NAdj"	"D"	"useless"	"Y"	5
+"3613-3"	"yurayura"	"wobbly"	"RI"	"D"	"to change ocmpletely"	"Y"	6
+"3613-3"	"gayagaya"	"noisy"	"RI"	"T"	"noisy"	"Y"	7
+"3613-3"	"gocha"	"messy"	"SRI"	"D"	"excessive"	"Y"	8
+"3613-3"	"zatsu"	"sloppy"	"NAdj"	"T"	"sloppy"	"Y"	9
+"3613-3"	"kadokado"	"excessive"	"RNAdj"	"D"	"stiff"	"Y"	10
+"3613-3"	"maremare"	"rare"	"RNAdj"	"D"	"humid"	"Y"	11
+"3613-3"	"shinnarishinnari"	"supple"	"RNRI"	"D"	"worn out"	"Y"	12
+"3613-3"	"baka"	"stupid"	"NAdj"	"T"	"stupid"	"Y"	13
+"3613-3"	"hikuhiku"	"agitated"	"RI"	"T"	"agitated"	"Y"	14
+"3613-3"	"pokapoka"	"gaping"	"RNRI"	"T"	"gaping"	"Y"	15
+"3613-3"	"murimuri"	"impossible"	"RNAdj"	"D"	"stupid"	"Y"	16
+"3613-3"	"berabera"	"chatty"	"RI"	"D"	"plump"	"Y"	17
+"3613-3"	"yawayawa"	"fragile"	"RNAdj"	"D"	"agitated"	"Y"	18
+"3613-3"	"bassaribassari"	"resolute"	"RNRI"	"T"	"resolute"	"Y"	19
+"3613-3"	"kakkiri"	"exact"	"NRI"	"D"	"beneficial"	"Y"	20
+"3613-3"	"gowa"	"stiff"	"SRI"	"D"	"gaping"	"Y"	21
+"3613-3"	"fubi"	"deficient"	"NAdj"	"D"	"noisy"	"Y"	22
+"3613-3"	"zatsu"	"sloppy"	"NAdj"	"D"	"smug"	"Y"	23
+"3613-3"	"shinnarishinnari"	"supple"	"RNRI"	"T"	"supple"	"Y"	24
+"3613-3"	"harahara"	"suspenseful"	"RI"	"D"	"resolute"	"Y"	25
+"3613-3"	"kizakiza"	"smug"	"RNAdj"	"D"	"steaming"	"Y"	26
+"3613-3"	"gussuri"	"fast asleep"	"NRI"	"T"	"fast asleep"	"Y"	27
+"3613-3"	"gocha"	"messy"	"SRI"	"T"	"messy"	"Y"	28
+"3613-3"	"pishapisha"	"decisive"	"RNRI"	"D"	"smooth"	"Y"	29
+"3613-3"	"yawayawa"	"fragile"	"RNAdj"	"T"	"fragile"	"Y"	30
+"3613-3"	"muchamucha"	"rash"	"RNAdj"	"D"	"hesitant"	"Y"	31
+"3613-3"	"hoka"	"steaming"	"SRI"	"D"	"dejected"	"Y"	32
+"3613-3"	"dame"	"useless"	"NAdj"	"D"	"clear"	"Y"	33
+"3613-3"	"potcharipotchari"	"plump"	"RNRI"	"D"	"impossible"	"Y"	34
+"3613-3"	"zukezuke"	"rude"	"RI"	"D"	"sloppy"	"Y"	35
+"3613-3"	"kukkiri"	"clear"	"NRI"	"D"	"chatty"	"Y"	36
+"3613-3"	"bassaribassari"	"resolute"	"RNRI"	"D"	"supple"	"Y"	37
+"3613-3"	"murimuri"	"impossible"	"RNAdj"	"T"	"impossible"	"Y"	38
+"3613-3"	"berabera"	"chatty"	"RI"	"T"	"chatty"	"Y"	39
+"3613-3"	"yurayura"	"wobbly"	"RI"	"T"	"wobbly"	"Y"	40
+"3613-3"	"muku"	"pure"	"NAdj"	"T"	"pure"	"Y"	41
+"3613-3"	"gussuri"	"fast asleep"	"NRI"	"D"	"exact"	"Y"	42
+"3613-3"	"gaku"	"dejected"	"NRI"	"D"	"wobbly"	"Y"	43
+"3613-3"	"gara"	"to change ocmpletely"	"NRI"	"D"	"pure"	"Y"	44
+"3613-3"	"gaku"	"dejected"	"NRI"	"T"	"dejected"	"Y"	45
+"3613-3"	"kakkiri"	"exact"	"NRI"	"T"	"exact"	"Y"	46
+"3613-3"	"goso"	"whole"	"NRI"	"T"	"whole"	"Y"	47
+"3613-3"	"muku"	"pure"	"NAdj"	"D"	"fragile"	"Y"	48
+"3613-3"	"potcharipotchari"	"plump"	"RNRI"	"T"	"plump"	"Y"	49
+"3613-3"	"harahara"	"suspenseful"	"RI"	"T"	"suspenseful"	"Y"	50
+"3613-3"	"nopperinopperi"	"smooth"	"RNRI"	"T"	"smooth"	"Y"	51
+"3613-3"	"gowa"	"stiff"	"SRI"	"T"	"stiff"	"Y"	52
+"3613-3"	"hikuhiku"	"agitated"	"RI"	"D"	"whole"	"Y"	53
+"3613-3"	"hoka"	"steaming"	"SRI"	"T"	"steaming"	"Y"	54
+"3613-3"	"toku"	"beneficial"	"NAdj"	"D"	"rude"	"Y"	55
+"3613-3"	"mushi"	"humid"	"SRI"	"D"	"fast asleep"	"Y"	56
+"3613-3"	"muchamucha"	"rash"	"RNAdj"	"T"	"rash"	"Y"	57
+"3613-3"	"boro"	"worn out"	"SRI"	"T"	"worn out"	"Y"	58
+"3613-3"	"toku"	"beneficial"	"NAdj"	"T"	"beneficial"	"Y"	59
+"3613-3"	"goso"	"whole"	"NRI"	"D"	"messy"	"Y"	60
+"3613-3"	"boro"	"worn out"	"SRI"	"D"	"rare"	"Y"	61
+"3613-3"	"gayagaya"	"noisy"	"RI"	"D"	"decisive"	"Y"	62
+"3613-3"	"zukezuke"	"rude"	"RI"	"T"	"rude"	"Y"	63
+"3613-3"	"kizakiza"	"smug"	"RNAdj"	"T"	"smug"	"Y"	64
+"3613-3"	"pokapoka"	"gaping"	"RNRI"	"D"	"deficient"	"Y"	65
+"3613-3"	"moji"	"hesitant"	"SRI"	"T"	"hesitant"	"Y"	66
+"3613-3"	"gara"	"to change ocmpletely"	"NRI"	"T"	"to change ocmpletely"	"Y"	67
+"3613-3"	"maremare"	"rare"	"RNAdj"	"T"	"rare"	"Y"	68
+"3613-3"	"dame"	"useless"	"NAdj"	"T"	"useless"	"Y"	69
+"3613-3"	"nopperinopperi"	"smooth"	"RNRI"	"D"	"rash"	"Y"	70
+"3613-3"	"pishapisha"	"decisive"	"RNRI"	"T"	"decisive"	"Y"	71
+"3613-3"	"kadokado"	"excessive"	"RNAdj"	"T"	"excessive"	"Y"	72

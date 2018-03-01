@@ -1,0 +1,73 @@
+"Id"	"Word"	"TrueMeaning"	"WordType"	"TrialType"	"TargetMeaning"	"LegalTrial"	"TrialNum"
+"5841-4"	"koku"	"harsh"	"NAdj"	"D"	"shivering"	"Y"	1
+"5841-4"	"muchamucha"	"rash"	"RNAdj"	"T"	"rash"	"Y"	2
+"5841-4"	"gussurigussuri"	"fast asleep"	"RNRI"	"D"	"sullen"	"Y"	3
+"5841-4"	"musu"	"sullen"	"NRI"	"D"	"supple"	"Y"	4
+"5841-4"	"kerokero"	"nonchalantly"	"RNRI"	"T"	"nonchalantly"	"Y"	5
+"5841-4"	"zoku"	"vulgar"	"NAdj"	"T"	"vulgar"	"Y"	6
+"5841-4"	"potchari"	"plump"	"NRI"	"D"	"suspenseful"	"Y"	7
+"5841-4"	"hiso"	"whispering"	"SRI"	"T"	"whispering"	"Y"	8
+"5841-4"	"yurayura"	"wobbly"	"RI"	"D"	"nonchalantly"	"Y"	9
+"5841-4"	"musu"	"sullen"	"NRI"	"T"	"sullen"	"Y"	10
+"5841-4"	"kerokero"	"nonchalantly"	"RNRI"	"D"	"resolute"	"Y"	11
+"5841-4"	"bassari"	"resolute"	"NRI"	"D"	"exact"	"Y"	12
+"5841-4"	"himahima"	"free"	"RNAdj"	"T"	"free"	"Y"	13
+"5841-4"	"uki"	"happy"	"SRI"	"T"	"happy"	"Y"	14
+"5841-4"	"gochagocha"	"messy"	"RI"	"T"	"messy"	"Y"	15
+"5841-4"	"kakkiri"	"exact"	"NRI"	"T"	"exact"	"Y"	16
+"5841-4"	"bukubuku"	"chubby"	"RI"	"D"	"plump"	"Y"	17
+"5841-4"	"nopperi"	"smooth"	"NRI"	"D"	"steaming"	"Y"	18
+"5841-4"	"gakugaku"	"dejected"	"RNRI"	"T"	"dejected"	"Y"	19
+"5841-4"	"bera"	"chatty"	"SRI"	"T"	"chatty"	"Y"	20
+"5841-4"	"tsuya"	"glossy"	"SRI"	"D"	"subdued"	"Y"	21
+"5841-4"	"bera"	"chatty"	"SRI"	"D"	"decisive"	"Y"	22
+"5841-4"	"mare"	"rare"	"NAdj"	"D"	"chubby"	"Y"	23
+"5841-4"	"mare"	"rare"	"NAdj"	"T"	"rare"	"Y"	24
+"5841-4"	"hokahoka"	"steaming"	"RI"	"D"	"beneficial"	"Y"	25
+"5841-4"	"pishapisha"	"decisive"	"RNRI"	"D"	"deficient"	"Y"	26
+"5841-4"	"kadokado"	"excessive"	"RNAdj"	"T"	"excessive"	"Y"	27
+"5841-4"	"uki"	"happy"	"SRI"	"D"	"rash"	"Y"	28
+"5841-4"	"toku"	"beneficial"	"NAdj"	"D"	"excessive"	"Y"	29
+"5841-4"	"fubi"	"deficient"	"NAdj"	"T"	"deficient"	"Y"	30
+"5841-4"	"hiso"	"whispering"	"SRI"	"D"	"hesitant"	"Y"	31
+"5841-4"	"debu"	"fat"	"SRI"	"T"	"fat"	"Y"	32
+"5841-4"	"koku"	"harsh"	"NAdj"	"T"	"harsh"	"Y"	33
+"5841-4"	"mojimoji"	"hesitant"	"RI"	"D"	"dejected"	"Y"	34
+"5841-4"	"garagara"	"to change ocmpletely"	"RNRI"	"D"	"wobbly"	"Y"	35
+"5841-4"	"gochagocha"	"messy"	"RI"	"D"	"perfect"	"Y"	36
+"5841-4"	"tsuya"	"glossy"	"SRI"	"T"	"glossy"	"Y"	37
+"5841-4"	"yawayawa"	"fragile"	"RNAdj"	"D"	"whispering"	"Y"	38
+"5841-4"	"gussurigussuri"	"fast asleep"	"RNRI"	"T"	"fast asleep"	"Y"	39
+"5841-4"	"gakugaku"	"dejected"	"RNRI"	"D"	"chatty"	"Y"	40
+"5841-4"	"buru"	"shivering"	"SRI"	"T"	"shivering"	"Y"	41
+"5841-4"	"batchiribatchiri"	"perfect"	"RNRI"	"T"	"perfect"	"Y"	42
+"5841-4"	"fubi"	"deficient"	"NAdj"	"D"	"disadvantaged"	"Y"	43
+"5841-4"	"raku"	"comfortable"	"NAdj"	"T"	"comfortable"	"Y"	44
+"5841-4"	"muchamucha"	"rash"	"RNAdj"	"D"	"smooth"	"Y"	45
+"5841-4"	"furifuri"	"disadvantaged"	"RNAdj"	"D"	"fat"	"Y"	46
+"5841-4"	"shinnari"	"supple"	"NRI"	"T"	"supple"	"Y"	47
+"5841-4"	"zoku"	"vulgar"	"NAdj"	"D"	"free"	"Y"	48
+"5841-4"	"harahara"	"suspenseful"	"RI"	"D"	"messy"	"Y"	49
+"5841-4"	"buru"	"shivering"	"SRI"	"D"	"vulgar"	"Y"	50
+"5841-4"	"kakkiri"	"exact"	"NRI"	"D"	"to change ocmpletely"	"Y"	51
+"5841-4"	"toku"	"beneficial"	"NAdj"	"T"	"beneficial"	"Y"	52
+"5841-4"	"potchari"	"plump"	"NRI"	"T"	"plump"	"Y"	53
+"5841-4"	"yurayura"	"wobbly"	"RI"	"T"	"wobbly"	"Y"	54
+"5841-4"	"batchiribatchiri"	"perfect"	"RNRI"	"D"	"happy"	"Y"	55
+"5841-4"	"himahima"	"free"	"RNAdj"	"D"	"glossy"	"Y"	56
+"5841-4"	"harahara"	"suspenseful"	"RI"	"T"	"suspenseful"	"Y"	57
+"5841-4"	"furifuri"	"disadvantaged"	"RNAdj"	"T"	"disadvantaged"	"Y"	58
+"5841-4"	"mojimoji"	"hesitant"	"RI"	"T"	"hesitant"	"Y"	59
+"5841-4"	"garagara"	"to change ocmpletely"	"RNRI"	"T"	"to change ocmpletely"	"Y"	60
+"5841-4"	"bassari"	"resolute"	"NRI"	"T"	"resolute"	"Y"	61
+"5841-4"	"nopperi"	"smooth"	"NRI"	"T"	"smooth"	"Y"	62
+"5841-4"	"jimijimi"	"subdued"	"RNAdj"	"D"	"rare"	"Y"	63
+"5841-4"	"yawayawa"	"fragile"	"RNAdj"	"T"	"fragile"	"Y"	64
+"5841-4"	"pishapisha"	"decisive"	"RNRI"	"T"	"decisive"	"Y"	65
+"5841-4"	"hokahoka"	"steaming"	"RI"	"T"	"steaming"	"Y"	66
+"5841-4"	"raku"	"comfortable"	"NAdj"	"D"	"fast asleep"	"Y"	67
+"5841-4"	"kadokado"	"excessive"	"RNAdj"	"D"	"fragile"	"Y"	68
+"5841-4"	"shinnari"	"supple"	"NRI"	"D"	"comfortable"	"Y"	69
+"5841-4"	"jimijimi"	"subdued"	"RNAdj"	"T"	"subdued"	"Y"	70
+"5841-4"	"bukubuku"	"chubby"	"RI"	"T"	"chubby"	"Y"	71
+"5841-4"	"debu"	"fat"	"SRI"	"D"	"harsh"	"Y"	72

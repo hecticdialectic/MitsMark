@@ -1,0 +1,73 @@
+"Id"	"Word"	"TrueMeaning"	"WordType"	"TrialType"	"TargetMeaning"	"LegalTrial"	"TrialNum"
+"7384-4"	"poka"	"gaping"	"NRI"	"T"	"gaping"	"Y"	1
+"7384-4"	"boroboro"	"worn out"	"RI"	"T"	"worn out"	"Y"	2
+"7384-4"	"gochagocha"	"messy"	"RI"	"T"	"messy"	"Y"	3
+"7384-4"	"damedame"	"useless"	"RNAdj"	"T"	"useless"	"Y"	4
+"7384-4"	"koku"	"harsh"	"NAdj"	"T"	"harsh"	"Y"	5
+"7384-4"	"potcharipotchari"	"plump"	"RNRI"	"T"	"plump"	"Y"	6
+"7384-4"	"buku"	"chubby"	"SRI"	"T"	"chubby"	"Y"	7
+"7384-4"	"zatsu"	"sloppy"	"NAdj"	"T"	"sloppy"	"Y"	8
+"7384-4"	"maremare"	"rare"	"RNAdj"	"D"	"steaming"	"Y"	9
+"7384-4"	"hima"	"free"	"NAdj"	"D"	"messy"	"Y"	10
+"7384-4"	"sekaseka"	"hasty"	"RI"	"T"	"hasty"	"Y"	11
+"7384-4"	"yaboyabo"	"tasteless"	"RNAdj"	"T"	"tasteless"	"Y"	12
+"7384-4"	"yawayawa"	"fragile"	"RNAdj"	"D"	"sullen"	"Y"	13
+"7384-4"	"pishapisha"	"decisive"	"RNRI"	"T"	"decisive"	"Y"	14
+"7384-4"	"zukezuke"	"rude"	"RI"	"T"	"rude"	"Y"	15
+"7384-4"	"baka"	"stupid"	"NAdj"	"T"	"stupid"	"Y"	16
+"7384-4"	"gussuri"	"fast asleep"	"NRI"	"D"	"dejected"	"Y"	17
+"7384-4"	"berabera"	"chatty"	"RI"	"T"	"chatty"	"Y"	18
+"7384-4"	"hima"	"free"	"NAdj"	"T"	"free"	"Y"	19
+"7384-4"	"hiku"	"agitated"	"SRI"	"T"	"agitated"	"Y"	20
+"7384-4"	"jimijimi"	"subdued"	"RNAdj"	"T"	"subdued"	"Y"	21
+"7384-4"	"pishapisha"	"decisive"	"RNRI"	"D"	"chubby"	"Y"	22
+"7384-4"	"hara"	"suspenseful"	"SRI"	"T"	"suspenseful"	"Y"	23
+"7384-4"	"gussuri"	"fast asleep"	"NRI"	"T"	"fast asleep"	"Y"	24
+"7384-4"	"buku"	"chubby"	"SRI"	"D"	"hasty"	"Y"	25
+"7384-4"	"gosogoso"	"whole"	"RNRI"	"T"	"whole"	"Y"	26
+"7384-4"	"kerokero"	"nonchalantly"	"RNRI"	"T"	"nonchalantly"	"Y"	27
+"7384-4"	"boroboro"	"worn out"	"RI"	"D"	"fragile"	"Y"	28
+"7384-4"	"zukezuke"	"rude"	"RI"	"D"	"harsh"	"Y"	29
+"7384-4"	"patapata"	"sudden"	"RNRI"	"T"	"sudden"	"Y"	30
+"7384-4"	"nopperi"	"smooth"	"NRI"	"D"	"agitated"	"Y"	31
+"7384-4"	"muri"	"impossible"	"NAdj"	"T"	"impossible"	"Y"	32
+"7384-4"	"potcharipotchari"	"plump"	"RNRI"	"D"	"decisive"	"Y"	33
+"7384-4"	"mushi"	"humid"	"SRI"	"T"	"humid"	"Y"	34
+"7384-4"	"gowa"	"stiff"	"SRI"	"T"	"stiff"	"Y"	35
+"7384-4"	"baka"	"stupid"	"NAdj"	"D"	"beneficial"	"Y"	36
+"7384-4"	"kukkiri"	"clear"	"NRI"	"T"	"clear"	"Y"	37
+"7384-4"	"maremare"	"rare"	"RNAdj"	"T"	"rare"	"Y"	38
+"7384-4"	"poka"	"gaping"	"NRI"	"D"	"worn out"	"Y"	39
+"7384-4"	"bassari"	"resolute"	"NRI"	"D"	"sudden"	"Y"	40
+"7384-4"	"yaboyabo"	"tasteless"	"RNAdj"	"D"	"sloppy"	"Y"	41
+"7384-4"	"zokuzoku"	"vulgar"	"RNAdj"	"T"	"vulgar"	"Y"	42
+"7384-4"	"patapata"	"sudden"	"RNRI"	"D"	"suspenseful"	"Y"	43
+"7384-4"	"kukkiri"	"clear"	"NRI"	"D"	"fat"	"Y"	44
+"7384-4"	"hiku"	"agitated"	"SRI"	"D"	"useless"	"Y"	45
+"7384-4"	"damedame"	"useless"	"RNAdj"	"D"	"impossible"	"Y"	46
+"7384-4"	"zatsu"	"sloppy"	"NAdj"	"D"	"chatty"	"Y"	47
+"7384-4"	"toku"	"beneficial"	"NAdj"	"T"	"beneficial"	"Y"	48
+"7384-4"	"hoka"	"steaming"	"SRI"	"D"	"free"	"Y"	49
+"7384-4"	"gosogoso"	"whole"	"RNRI"	"D"	"tasteless"	"Y"	50
+"7384-4"	"sekaseka"	"hasty"	"RI"	"D"	"nonchalantly"	"Y"	51
+"7384-4"	"debudebu"	"fat"	"RI"	"D"	"humid"	"Y"	52
+"7384-4"	"koku"	"harsh"	"NAdj"	"D"	"clear"	"Y"	53
+"7384-4"	"hoka"	"steaming"	"SRI"	"T"	"steaming"	"Y"	54
+"7384-4"	"gaku"	"dejected"	"NRI"	"T"	"dejected"	"Y"	55
+"7384-4"	"gaku"	"dejected"	"NRI"	"D"	"subdued"	"Y"	56
+"7384-4"	"jimijimi"	"subdued"	"RNAdj"	"D"	"vulgar"	"Y"	57
+"7384-4"	"debudebu"	"fat"	"RI"	"T"	"fat"	"Y"	58
+"7384-4"	"kerokero"	"nonchalantly"	"RNRI"	"D"	"plump"	"Y"	59
+"7384-4"	"hara"	"suspenseful"	"SRI"	"D"	"resolute"	"Y"	60
+"7384-4"	"zokuzoku"	"vulgar"	"RNAdj"	"D"	"rare"	"Y"	61
+"7384-4"	"bassari"	"resolute"	"NRI"	"T"	"resolute"	"Y"	62
+"7384-4"	"muri"	"impossible"	"NAdj"	"D"	"fast asleep"	"Y"	63
+"7384-4"	"yawayawa"	"fragile"	"RNAdj"	"T"	"fragile"	"Y"	64
+"7384-4"	"nopperi"	"smooth"	"NRI"	"T"	"smooth"	"Y"	65
+"7384-4"	"gochagocha"	"messy"	"RI"	"D"	"stiff"	"Y"	66
+"7384-4"	"mushi"	"humid"	"SRI"	"D"	"rude"	"Y"	67
+"7384-4"	"berabera"	"chatty"	"RI"	"D"	"stupid"	"Y"	68
+"7384-4"	"musumusu"	"sullen"	"RNRI"	"D"	"smooth"	"Y"	69
+"7384-4"	"gowa"	"stiff"	"SRI"	"D"	"whole"	"Y"	70
+"7384-4"	"toku"	"beneficial"	"NAdj"	"D"	"gaping"	"Y"	71
+"7384-4"	"musumusu"	"sullen"	"RNRI"	"T"	"sullen"	"Y"	72

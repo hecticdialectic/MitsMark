@@ -1,0 +1,73 @@
+"Id"	"Word"	"TrueMeaning"	"WordType"	"TrialType"	"TargetMeaning"	"LegalTrial"	"TrialNum"
+"7090-2"	"zokuzoku"	"vulgar"	"RNAdj"	"T"	"vulgar"	"Y"	1
+"7090-2"	"mojimoji"	"hesitant"	"RI"	"D"	"stiff"	"Y"	2
+"7090-2"	"baka"	"stupid"	"NAdj"	"T"	"stupid"	"Y"	3
+"7090-2"	"muchamucha"	"rash"	"RNAdj"	"D"	"beneficial"	"Y"	4
+"7090-2"	"jimi"	"subdued"	"NAdj"	"D"	"suspenseful"	"Y"	5
+"7090-2"	"bukubuku"	"chubby"	"RI"	"D"	"happy"	"Y"	6
+"7090-2"	"yawayawa"	"fragile"	"RNAdj"	"T"	"fragile"	"Y"	7
+"7090-2"	"buru"	"shivering"	"SRI"	"D"	"crowded"	"Y"	8
+"7090-2"	"kakkiri"	"exact"	"NRI"	"D"	"decisive"	"Y"	9
+"7090-2"	"poka"	"gaping"	"NRI"	"D"	"chubby"	"Y"	10
+"7090-2"	"baka"	"stupid"	"NAdj"	"D"	"gaudy"	"Y"	11
+"7090-2"	"bisshiri"	"crowded"	"NRI"	"T"	"crowded"	"Y"	12
+"7090-2"	"bukubuku"	"chubby"	"RI"	"T"	"chubby"	"Y"	13
+"7090-2"	"kukkirikukkiri"	"clear"	"RNRI"	"T"	"clear"	"Y"	14
+"7090-2"	"kibikibi"	"energetic"	"RI"	"D"	"exact"	"Y"	15
+"7090-2"	"gaya"	"noisy"	"SRI"	"T"	"noisy"	"Y"	16
+"7090-2"	"pisha"	"decisive"	"NRI"	"T"	"decisive"	"Y"	17
+"7090-2"	"kadokado"	"excessive"	"RNAdj"	"T"	"excessive"	"Y"	18
+"7090-2"	"yurayura"	"wobbly"	"RI"	"T"	"wobbly"	"Y"	19
+"7090-2"	"zokuzoku"	"vulgar"	"RNAdj"	"D"	"nonchalantly"	"Y"	20
+"7090-2"	"yurayura"	"wobbly"	"RI"	"D"	"stupid"	"Y"	21
+"7090-2"	"gussuri"	"fast asleep"	"NRI"	"T"	"fast asleep"	"Y"	22
+"7090-2"	"kokukoku"	"harsh"	"RNAdj"	"T"	"harsh"	"Y"	23
+"7090-2"	"toku"	"beneficial"	"NAdj"	"D"	"careful"	"Y"	24
+"7090-2"	"boroboro"	"worn out"	"RI"	"D"	"rash"	"Y"	25
+"7090-2"	"pisha"	"decisive"	"NRI"	"D"	"hesitant"	"Y"	26
+"7090-2"	"kabi"	"gaudy"	"NAdj"	"D"	"energetic"	"Y"	27
+"7090-2"	"kibikibi"	"energetic"	"RI"	"T"	"energetic"	"Y"	28
+"7090-2"	"shinnarishinnari"	"supple"	"RNRI"	"D"	"wobbly"	"Y"	29
+"7090-2"	"muku"	"pure"	"NAdj"	"T"	"pure"	"Y"	30
+"7090-2"	"mojimoji"	"hesitant"	"RI"	"T"	"hesitant"	"Y"	31
+"7090-2"	"gowa"	"stiff"	"SRI"	"D"	"deficient"	"Y"	32
+"7090-2"	"ukiuki"	"happy"	"RI"	"D"	"plump"	"Y"	33
+"7090-2"	"mushi"	"humid"	"SRI"	"D"	"gaping"	"Y"	34
+"7090-2"	"kokukoku"	"harsh"	"RNAdj"	"D"	"clear"	"Y"	35
+"7090-2"	"bisshiri"	"crowded"	"NRI"	"D"	"worn out"	"Y"	36
+"7090-2"	"kakkiri"	"exact"	"NRI"	"T"	"exact"	"Y"	37
+"7090-2"	"kero"	"nonchalantly"	"NRI"	"T"	"nonchalantly"	"Y"	38
+"7090-2"	"ukiuki"	"happy"	"RI"	"T"	"happy"	"Y"	39
+"7090-2"	"kukkirikukkiri"	"clear"	"RNRI"	"D"	"excessive"	"Y"	40
+"7090-2"	"poka"	"gaping"	"NRI"	"T"	"gaping"	"Y"	41
+"7090-2"	"jimi"	"subdued"	"NAdj"	"T"	"subdued"	"Y"	42
+"7090-2"	"fubifubi"	"deficient"	"RNAdj"	"D"	"fast asleep"	"Y"	43
+"7090-2"	"hara"	"suspenseful"	"SRI"	"D"	"sullen"	"Y"	44
+"7090-2"	"hara"	"suspenseful"	"SRI"	"T"	"suspenseful"	"Y"	45
+"7090-2"	"potcharipotchari"	"plump"	"RNRI"	"D"	"sloppy"	"Y"	46
+"7090-2"	"kabi"	"gaudy"	"NAdj"	"T"	"gaudy"	"Y"	47
+"7090-2"	"seka"	"hasty"	"SRI"	"D"	"vulgar"	"Y"	48
+"7090-2"	"gussuri"	"fast asleep"	"NRI"	"D"	"sudden"	"Y"	49
+"7090-2"	"buru"	"shivering"	"SRI"	"T"	"shivering"	"Y"	50
+"7090-2"	"patapata"	"sudden"	"RNRI"	"D"	"noisy"	"Y"	51
+"7090-2"	"jikkurijikkuri"	"careful"	"RNRI"	"D"	"fragile"	"Y"	52
+"7090-2"	"musumusu"	"sullen"	"RNRI"	"T"	"sullen"	"Y"	53
+"7090-2"	"muchamucha"	"rash"	"RNAdj"	"T"	"rash"	"Y"	54
+"7090-2"	"fubifubi"	"deficient"	"RNAdj"	"T"	"deficient"	"Y"	55
+"7090-2"	"kero"	"nonchalantly"	"NRI"	"D"	"harsh"	"Y"	56
+"7090-2"	"gowa"	"stiff"	"SRI"	"T"	"stiff"	"Y"	57
+"7090-2"	"mushi"	"humid"	"SRI"	"T"	"humid"	"Y"	58
+"7090-2"	"jikkurijikkuri"	"careful"	"RNRI"	"T"	"careful"	"Y"	59
+"7090-2"	"seka"	"hasty"	"SRI"	"T"	"hasty"	"Y"	60
+"7090-2"	"yawayawa"	"fragile"	"RNAdj"	"D"	"humid"	"Y"	61
+"7090-2"	"zatsu"	"sloppy"	"NAdj"	"D"	"pure"	"Y"	62
+"7090-2"	"shinnarishinnari"	"supple"	"RNRI"	"T"	"supple"	"Y"	63
+"7090-2"	"muku"	"pure"	"NAdj"	"D"	"supple"	"Y"	64
+"7090-2"	"musumusu"	"sullen"	"RNRI"	"D"	"subdued"	"Y"	65
+"7090-2"	"zatsu"	"sloppy"	"NAdj"	"T"	"sloppy"	"Y"	66
+"7090-2"	"potcharipotchari"	"plump"	"RNRI"	"T"	"plump"	"Y"	67
+"7090-2"	"gaya"	"noisy"	"SRI"	"D"	"hasty"	"Y"	68
+"7090-2"	"toku"	"beneficial"	"NAdj"	"T"	"beneficial"	"Y"	69
+"7090-2"	"kadokado"	"excessive"	"RNAdj"	"D"	"shivering"	"Y"	70
+"7090-2"	"boroboro"	"worn out"	"RI"	"T"	"worn out"	"Y"	71
+"7090-2"	"patapata"	"sudden"	"RNRI"	"T"	"sudden"	"Y"	72

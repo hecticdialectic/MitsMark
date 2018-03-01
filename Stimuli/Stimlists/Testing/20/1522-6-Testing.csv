@@ -1,0 +1,73 @@
+"Id"	"Word"	"TrueMeaning"	"WordType"	"TrialType"	"TargetMeaning"	"LegalTrial"	"TrialNum"
+"1522-6"	"mushi"	"humid"	"SRI"	"T"	"humid"	"Y"	1
+"1522-6"	"goso"	"whole"	"NRI"	"T"	"whole"	"Y"	2
+"1522-6"	"jikkuri"	"careful"	"NRI"	"T"	"careful"	"Y"	3
+"1522-6"	"muku"	"pure"	"NAdj"	"D"	"exact"	"Y"	4
+"1522-6"	"gochagocha"	"messy"	"RI"	"D"	"tasteless"	"Y"	5
+"1522-6"	"dame"	"useless"	"NAdj"	"D"	"clear"	"Y"	6
+"1522-6"	"murimuri"	"impossible"	"RNAdj"	"D"	"worn out"	"Y"	7
+"1522-6"	"mucha"	"rash"	"NAdj"	"D"	"comfortable"	"Y"	8
+"1522-6"	"buru"	"shivering"	"SRI"	"D"	"agitated"	"Y"	9
+"1522-6"	"garagara"	"to change ocmpletely"	"RNRI"	"T"	"to change ocmpletely"	"Y"	10
+"1522-6"	"kibikibi"	"energetic"	"RI"	"T"	"energetic"	"Y"	11
+"1522-6"	"kukkiri"	"clear"	"NRI"	"T"	"clear"	"Y"	12
+"1522-6"	"zokuzoku"	"vulgar"	"RNAdj"	"D"	"plump"	"Y"	13
+"1522-6"	"zatsu"	"sloppy"	"NAdj"	"D"	"decisive"	"Y"	14
+"1522-6"	"garagara"	"to change ocmpletely"	"RNRI"	"D"	"sloppy"	"Y"	15
+"1522-6"	"boro"	"worn out"	"SRI"	"T"	"worn out"	"Y"	16
+"1522-6"	"uki"	"happy"	"SRI"	"T"	"happy"	"Y"	17
+"1522-6"	"mucha"	"rash"	"NAdj"	"T"	"rash"	"Y"	18
+"1522-6"	"muku"	"pure"	"NAdj"	"T"	"pure"	"Y"	19
+"1522-6"	"musumusu"	"sullen"	"RNRI"	"T"	"sullen"	"Y"	20
+"1522-6"	"pishapisha"	"decisive"	"RNRI"	"D"	"stiff"	"Y"	21
+"1522-6"	"jikkuri"	"careful"	"NRI"	"D"	"dejected"	"Y"	22
+"1522-6"	"mojimoji"	"hesitant"	"RI"	"D"	"fast asleep"	"Y"	23
+"1522-6"	"raku"	"comfortable"	"NAdj"	"D"	"messy"	"Y"	24
+"1522-6"	"potcharipotchari"	"plump"	"RNRI"	"T"	"plump"	"Y"	25
+"1522-6"	"tsuya"	"glossy"	"SRI"	"T"	"glossy"	"Y"	26
+"1522-6"	"gowagowa"	"stiff"	"RI"	"T"	"stiff"	"Y"	27
+"1522-6"	"debu"	"fat"	"SRI"	"D"	"excessive"	"Y"	28
+"1522-6"	"gussuri"	"fast asleep"	"NRI"	"D"	"sudden"	"Y"	29
+"1522-6"	"kadokado"	"excessive"	"RNAdj"	"T"	"excessive"	"Y"	30
+"1522-6"	"raku"	"comfortable"	"NAdj"	"T"	"comfortable"	"Y"	31
+"1522-6"	"gochagocha"	"messy"	"RI"	"T"	"messy"	"Y"	32
+"1522-6"	"buru"	"shivering"	"SRI"	"T"	"shivering"	"Y"	33
+"1522-6"	"yaboyabo"	"tasteless"	"RNAdj"	"T"	"tasteless"	"Y"	34
+"1522-6"	"uki"	"happy"	"SRI"	"D"	"glossy"	"Y"	35
+"1522-6"	"hikuhiku"	"agitated"	"RI"	"T"	"agitated"	"Y"	36
+"1522-6"	"tokutoku"	"beneficial"	"RNAdj"	"T"	"beneficial"	"Y"	37
+"1522-6"	"goso"	"whole"	"NRI"	"D"	"steaming"	"Y"	38
+"1522-6"	"gakugaku"	"dejected"	"RNRI"	"D"	"hesitant"	"Y"	39
+"1522-6"	"jimijimi"	"subdued"	"RNAdj"	"D"	"energetic"	"Y"	40
+"1522-6"	"kadokado"	"excessive"	"RNAdj"	"D"	"useless"	"Y"	41
+"1522-6"	"gashi"	"sturdy"	"NRI"	"T"	"sturdy"	"Y"	42
+"1522-6"	"tsuya"	"glossy"	"SRI"	"D"	"vulgar"	"Y"	43
+"1522-6"	"mojimoji"	"hesitant"	"RI"	"T"	"hesitant"	"Y"	44
+"1522-6"	"kakkirikakkiri"	"exact"	"RNRI"	"D"	"beneficial"	"Y"	45
+"1522-6"	"boro"	"worn out"	"SRI"	"D"	"sturdy"	"Y"	46
+"1522-6"	"hokahoka"	"steaming"	"RI"	"T"	"steaming"	"Y"	47
+"1522-6"	"potcharipotchari"	"plump"	"RNRI"	"D"	"happy"	"Y"	48
+"1522-6"	"jimijimi"	"subdued"	"RNAdj"	"T"	"subdued"	"Y"	49
+"1522-6"	"dame"	"useless"	"NAdj"	"T"	"useless"	"Y"	50
+"1522-6"	"mushi"	"humid"	"SRI"	"D"	"fat"	"Y"	51
+"1522-6"	"pata"	"sudden"	"NRI"	"D"	"shivering"	"Y"	52
+"1522-6"	"musumusu"	"sullen"	"RNRI"	"D"	"pure"	"Y"	53
+"1522-6"	"murimuri"	"impossible"	"RNAdj"	"T"	"impossible"	"Y"	54
+"1522-6"	"kukkiri"	"clear"	"NRI"	"D"	"harsh"	"Y"	55
+"1522-6"	"koku"	"harsh"	"NAdj"	"T"	"harsh"	"Y"	56
+"1522-6"	"kibikibi"	"energetic"	"RI"	"D"	"rash"	"Y"	57
+"1522-6"	"koku"	"harsh"	"NAdj"	"D"	"impossible"	"Y"	58
+"1522-6"	"gakugaku"	"dejected"	"RNRI"	"T"	"dejected"	"Y"	59
+"1522-6"	"pishapisha"	"decisive"	"RNRI"	"T"	"decisive"	"Y"	60
+"1522-6"	"zokuzoku"	"vulgar"	"RNAdj"	"T"	"vulgar"	"Y"	61
+"1522-6"	"zatsu"	"sloppy"	"NAdj"	"T"	"sloppy"	"Y"	62
+"1522-6"	"tokutoku"	"beneficial"	"RNAdj"	"D"	"whole"	"Y"	63
+"1522-6"	"yaboyabo"	"tasteless"	"RNAdj"	"D"	"humid"	"Y"	64
+"1522-6"	"gashi"	"sturdy"	"NRI"	"D"	"to change ocmpletely"	"Y"	65
+"1522-6"	"hikuhiku"	"agitated"	"RI"	"D"	"subdued"	"Y"	66
+"1522-6"	"debu"	"fat"	"SRI"	"T"	"fat"	"Y"	67
+"1522-6"	"gussuri"	"fast asleep"	"NRI"	"T"	"fast asleep"	"Y"	68
+"1522-6"	"pata"	"sudden"	"NRI"	"T"	"sudden"	"Y"	69
+"1522-6"	"gowagowa"	"stiff"	"RI"	"D"	"careful"	"Y"	70
+"1522-6"	"kakkirikakkiri"	"exact"	"RNRI"	"T"	"exact"	"Y"	71
+"1522-6"	"hokahoka"	"steaming"	"RI"	"D"	"sullen"	"Y"	72

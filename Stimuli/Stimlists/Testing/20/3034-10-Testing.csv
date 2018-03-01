@@ -1,0 +1,73 @@
+"Id"	"Word"	"TrueMeaning"	"WordType"	"TrialType"	"TargetMeaning"	"LegalTrial"	"TrialNum"
+"3034-10"	"bakabaka"	"stupid"	"RNAdj"	"D"	"subdued"	"Y"	1
+"3034-10"	"raku"	"comfortable"	"NAdj"	"T"	"comfortable"	"Y"	2
+"3034-10"	"buruburu"	"shivering"	"RI"	"T"	"shivering"	"Y"	3
+"3034-10"	"batchiri"	"perfect"	"NRI"	"D"	"chubby"	"Y"	4
+"3034-10"	"gosogoso"	"whole"	"RNRI"	"D"	"comfortable"	"Y"	5
+"3034-10"	"musumusu"	"sullen"	"RNRI"	"D"	"beneficial"	"Y"	6
+"3034-10"	"buruburu"	"shivering"	"RI"	"D"	"careful"	"Y"	7
+"3034-10"	"shinnari"	"supple"	"NRI"	"D"	"pure"	"Y"	8
+"3034-10"	"jikkuri"	"careful"	"NRI"	"D"	"sullen"	"Y"	9
+"3034-10"	"mukumuku"	"pure"	"RNAdj"	"D"	"steaming"	"Y"	10
+"3034-10"	"bisshiribisshiri"	"crowded"	"RNRI"	"T"	"crowded"	"Y"	11
+"3034-10"	"toku"	"beneficial"	"NAdj"	"T"	"beneficial"	"Y"	12
+"3034-10"	"mushi"	"humid"	"SRI"	"T"	"humid"	"Y"	13
+"3034-10"	"zoku"	"vulgar"	"NAdj"	"D"	"hesitant"	"Y"	14
+"3034-10"	"hisohiso"	"whispering"	"RI"	"D"	"vulgar"	"Y"	15
+"3034-10"	"kabikabi"	"gaudy"	"RNAdj"	"T"	"gaudy"	"Y"	16
+"3034-10"	"yawa"	"fragile"	"NAdj"	"D"	"worn out"	"Y"	17
+"3034-10"	"gussuri"	"fast asleep"	"NRI"	"D"	"decisive"	"Y"	18
+"3034-10"	"gosogoso"	"whole"	"RNRI"	"T"	"whole"	"Y"	19
+"3034-10"	"zoku"	"vulgar"	"NAdj"	"T"	"vulgar"	"Y"	20
+"3034-10"	"kukkiri"	"clear"	"NRI"	"T"	"clear"	"Y"	21
+"3034-10"	"yawa"	"fragile"	"NAdj"	"T"	"fragile"	"Y"	22
+"3034-10"	"musumusu"	"sullen"	"RNRI"	"T"	"sullen"	"Y"	23
+"3034-10"	"zukezuke"	"rude"	"RI"	"D"	"perfect"	"Y"	24
+"3034-10"	"mare"	"rare"	"NAdj"	"D"	"impossible"	"Y"	25
+"3034-10"	"boroboro"	"worn out"	"RI"	"T"	"worn out"	"Y"	26
+"3034-10"	"bukubuku"	"chubby"	"RI"	"D"	"smug"	"Y"	27
+"3034-10"	"pata"	"sudden"	"NRI"	"D"	"supple"	"Y"	28
+"3034-10"	"murimuri"	"impossible"	"RNAdj"	"D"	"crowded"	"Y"	29
+"3034-10"	"mushi"	"humid"	"SRI"	"D"	"sudden"	"Y"	30
+"3034-10"	"gussuri"	"fast asleep"	"NRI"	"T"	"fast asleep"	"Y"	31
+"3034-10"	"kakkirikakkiri"	"exact"	"RNRI"	"D"	"fast asleep"	"Y"	32
+"3034-10"	"bisshiribisshiri"	"crowded"	"RNRI"	"D"	"whispering"	"Y"	33
+"3034-10"	"toku"	"beneficial"	"NAdj"	"D"	"chatty"	"Y"	34
+"3034-10"	"shinnari"	"supple"	"NRI"	"T"	"supple"	"Y"	35
+"3034-10"	"kakkirikakkiri"	"exact"	"RNRI"	"T"	"exact"	"Y"	36
+"3034-10"	"bukubuku"	"chubby"	"RI"	"T"	"chubby"	"Y"	37
+"3034-10"	"jimi"	"subdued"	"NAdj"	"T"	"subdued"	"Y"	38
+"3034-10"	"kizakiza"	"smug"	"RNAdj"	"D"	"exact"	"Y"	39
+"3034-10"	"kabikabi"	"gaudy"	"RNAdj"	"D"	"shivering"	"Y"	40
+"3034-10"	"mare"	"rare"	"NAdj"	"T"	"rare"	"Y"	41
+"3034-10"	"zatsuzatsu"	"sloppy"	"RNAdj"	"T"	"sloppy"	"Y"	42
+"3034-10"	"hoka"	"steaming"	"SRI"	"T"	"steaming"	"Y"	43
+"3034-10"	"pokapoka"	"gaping"	"RNRI"	"T"	"gaping"	"Y"	44
+"3034-10"	"gocha"	"messy"	"SRI"	"D"	"stiff"	"Y"	45
+"3034-10"	"raku"	"comfortable"	"NAdj"	"D"	"noisy"	"Y"	46
+"3034-10"	"hoka"	"steaming"	"SRI"	"D"	"clear"	"Y"	47
+"3034-10"	"pokapoka"	"gaping"	"RNRI"	"D"	"gaudy"	"Y"	48
+"3034-10"	"bakabaka"	"stupid"	"RNAdj"	"T"	"stupid"	"Y"	49
+"3034-10"	"mukumuku"	"pure"	"RNAdj"	"T"	"pure"	"Y"	50
+"3034-10"	"gaya"	"noisy"	"SRI"	"T"	"noisy"	"Y"	51
+"3034-10"	"moji"	"hesitant"	"SRI"	"D"	"humid"	"Y"	52
+"3034-10"	"pata"	"sudden"	"NRI"	"T"	"sudden"	"Y"	53
+"3034-10"	"murimuri"	"impossible"	"RNAdj"	"T"	"impossible"	"Y"	54
+"3034-10"	"boroboro"	"worn out"	"RI"	"D"	"rare"	"Y"	55
+"3034-10"	"zukezuke"	"rude"	"RI"	"T"	"rude"	"Y"	56
+"3034-10"	"moji"	"hesitant"	"SRI"	"T"	"hesitant"	"Y"	57
+"3034-10"	"pishapisha"	"decisive"	"RNRI"	"T"	"decisive"	"Y"	58
+"3034-10"	"kizakiza"	"smug"	"RNAdj"	"T"	"smug"	"Y"	59
+"3034-10"	"zatsuzatsu"	"sloppy"	"RNAdj"	"D"	"rude"	"Y"	60
+"3034-10"	"pishapisha"	"decisive"	"RNRI"	"D"	"gaping"	"Y"	61
+"3034-10"	"bera"	"chatty"	"SRI"	"T"	"chatty"	"Y"	62
+"3034-10"	"gowagowa"	"stiff"	"RI"	"D"	"fragile"	"Y"	63
+"3034-10"	"gowagowa"	"stiff"	"RI"	"T"	"stiff"	"Y"	64
+"3034-10"	"batchiri"	"perfect"	"NRI"	"T"	"perfect"	"Y"	65
+"3034-10"	"kukkiri"	"clear"	"NRI"	"D"	"stupid"	"Y"	66
+"3034-10"	"bera"	"chatty"	"SRI"	"D"	"messy"	"Y"	67
+"3034-10"	"hisohiso"	"whispering"	"RI"	"T"	"whispering"	"Y"	68
+"3034-10"	"gaya"	"noisy"	"SRI"	"D"	"whole"	"Y"	69
+"3034-10"	"jimi"	"subdued"	"NAdj"	"D"	"sloppy"	"Y"	70
+"3034-10"	"gocha"	"messy"	"SRI"	"T"	"messy"	"Y"	71
+"3034-10"	"jikkuri"	"careful"	"NRI"	"T"	"careful"	"Y"	72

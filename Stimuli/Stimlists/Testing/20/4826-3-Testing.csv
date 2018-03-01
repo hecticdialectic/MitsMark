@@ -1,0 +1,73 @@
+"Id"	"Word"	"TrueMeaning"	"WordType"	"TrialType"	"TargetMeaning"	"LegalTrial"	"TrialNum"
+"4826-3"	"gashigashi"	"sturdy"	"RNRI"	"D"	"fat"	"Y"	1
+"4826-3"	"tsuya"	"glossy"	"SRI"	"T"	"glossy"	"Y"	2
+"4826-3"	"kabi"	"gaudy"	"NAdj"	"D"	"fast asleep"	"Y"	3
+"4826-3"	"bisshiribisshiri"	"crowded"	"RNRI"	"D"	"chatty"	"Y"	4
+"4826-3"	"kadokado"	"excessive"	"RNAdj"	"T"	"excessive"	"Y"	5
+"4826-3"	"kibi"	"energetic"	"SRI"	"D"	"glossy"	"Y"	6
+"4826-3"	"kachin"	"offended"	"NRI"	"D"	"excessive"	"Y"	7
+"4826-3"	"potchari"	"plump"	"NRI"	"T"	"plump"	"Y"	8
+"4826-3"	"yura"	"wobbly"	"SRI"	"D"	"fragile"	"Y"	9
+"4826-3"	"tsuya"	"glossy"	"SRI"	"D"	"steaming"	"Y"	10
+"4826-3"	"gayagaya"	"noisy"	"RI"	"T"	"noisy"	"Y"	11
+"4826-3"	"uki"	"happy"	"SRI"	"T"	"happy"	"Y"	12
+"4826-3"	"patapata"	"sudden"	"RNRI"	"D"	"happy"	"Y"	13
+"4826-3"	"damedame"	"useless"	"RNAdj"	"D"	"sudden"	"Y"	14
+"4826-3"	"mushimushi"	"humid"	"RI"	"D"	"deficient"	"Y"	15
+"4826-3"	"mucha"	"rash"	"NAdj"	"T"	"rash"	"Y"	16
+"4826-3"	"garagara"	"to change ocmpletely"	"RNRI"	"D"	"subdued"	"Y"	17
+"4826-3"	"goso"	"whole"	"NRI"	"D"	"energetic"	"Y"	18
+"4826-3"	"muri"	"impossible"	"NAdj"	"T"	"impossible"	"Y"	19
+"4826-3"	"potchari"	"plump"	"NRI"	"D"	"rash"	"Y"	20
+"4826-3"	"mare"	"rare"	"NAdj"	"T"	"rare"	"Y"	21
+"4826-3"	"gocha"	"messy"	"SRI"	"T"	"messy"	"Y"	22
+"4826-3"	"berabera"	"chatty"	"RI"	"T"	"chatty"	"Y"	23
+"4826-3"	"gocha"	"messy"	"SRI"	"D"	"whole"	"Y"	24
+"4826-3"	"hima"	"free"	"NAdj"	"D"	"offended"	"Y"	25
+"4826-3"	"zatsuzatsu"	"sloppy"	"RNAdj"	"D"	"useless"	"Y"	26
+"4826-3"	"hima"	"free"	"NAdj"	"T"	"free"	"Y"	27
+"4826-3"	"gussuri"	"fast asleep"	"NRI"	"D"	"clear"	"Y"	28
+"4826-3"	"kabi"	"gaudy"	"NAdj"	"T"	"gaudy"	"Y"	29
+"4826-3"	"musumusu"	"sullen"	"RNRI"	"D"	"noisy"	"Y"	30
+"4826-3"	"kukkirikukkiri"	"clear"	"RNRI"	"T"	"clear"	"Y"	31
+"4826-3"	"hikuhiku"	"agitated"	"RI"	"D"	"free"	"Y"	32
+"4826-3"	"debu"	"fat"	"SRI"	"D"	"agitated"	"Y"	33
+"4826-3"	"hisohiso"	"whispering"	"RI"	"D"	"crowded"	"Y"	34
+"4826-3"	"kakkiri"	"exact"	"NRI"	"D"	"messy"	"Y"	35
+"4826-3"	"hokahoka"	"steaming"	"RI"	"D"	"wobbly"	"Y"	36
+"4826-3"	"berabera"	"chatty"	"RI"	"D"	"sturdy"	"Y"	37
+"4826-3"	"hokahoka"	"steaming"	"RI"	"T"	"steaming"	"Y"	38
+"4826-3"	"damedame"	"useless"	"RNAdj"	"T"	"useless"	"Y"	39
+"4826-3"	"jimijimi"	"subdued"	"RNAdj"	"D"	"impossible"	"Y"	40
+"4826-3"	"fubifubi"	"deficient"	"RNAdj"	"D"	"sullen"	"Y"	41
+"4826-3"	"hisohiso"	"whispering"	"RI"	"T"	"whispering"	"Y"	42
+"4826-3"	"gashigashi"	"sturdy"	"RNRI"	"T"	"sturdy"	"Y"	43
+"4826-3"	"garagara"	"to change ocmpletely"	"RNRI"	"T"	"to change ocmpletely"	"Y"	44
+"4826-3"	"zoku"	"vulgar"	"NAdj"	"T"	"vulgar"	"Y"	45
+"4826-3"	"yura"	"wobbly"	"SRI"	"T"	"wobbly"	"Y"	46
+"4826-3"	"zoku"	"vulgar"	"NAdj"	"D"	"humid"	"Y"	47
+"4826-3"	"kachin"	"offended"	"NRI"	"T"	"offended"	"Y"	48
+"4826-3"	"muri"	"impossible"	"NAdj"	"D"	"whispering"	"Y"	49
+"4826-3"	"hikuhiku"	"agitated"	"RI"	"T"	"agitated"	"Y"	50
+"4826-3"	"gayagaya"	"noisy"	"RI"	"D"	"vulgar"	"Y"	51
+"4826-3"	"yawayawa"	"fragile"	"RNAdj"	"D"	"exact"	"Y"	52
+"4826-3"	"uki"	"happy"	"SRI"	"D"	"plump"	"Y"	53
+"4826-3"	"mucha"	"rash"	"NAdj"	"D"	"to change ocmpletely"	"Y"	54
+"4826-3"	"mushimushi"	"humid"	"RI"	"T"	"humid"	"Y"	55
+"4826-3"	"zatsuzatsu"	"sloppy"	"RNAdj"	"T"	"sloppy"	"Y"	56
+"4826-3"	"jikkuri"	"careful"	"NRI"	"D"	"sloppy"	"Y"	57
+"4826-3"	"kukkirikukkiri"	"clear"	"RNRI"	"D"	"careful"	"Y"	58
+"4826-3"	"kakkiri"	"exact"	"NRI"	"T"	"exact"	"Y"	59
+"4826-3"	"jikkuri"	"careful"	"NRI"	"T"	"careful"	"Y"	60
+"4826-3"	"fubifubi"	"deficient"	"RNAdj"	"T"	"deficient"	"Y"	61
+"4826-3"	"debu"	"fat"	"SRI"	"T"	"fat"	"Y"	62
+"4826-3"	"yawayawa"	"fragile"	"RNAdj"	"T"	"fragile"	"Y"	63
+"4826-3"	"mare"	"rare"	"NAdj"	"D"	"gaudy"	"Y"	64
+"4826-3"	"kadokado"	"excessive"	"RNAdj"	"D"	"rare"	"Y"	65
+"4826-3"	"goso"	"whole"	"NRI"	"T"	"whole"	"Y"	66
+"4826-3"	"musumusu"	"sullen"	"RNRI"	"T"	"sullen"	"Y"	67
+"4826-3"	"bisshiribisshiri"	"crowded"	"RNRI"	"T"	"crowded"	"Y"	68
+"4826-3"	"gussuri"	"fast asleep"	"NRI"	"T"	"fast asleep"	"Y"	69
+"4826-3"	"jimijimi"	"subdued"	"RNAdj"	"T"	"subdued"	"Y"	70
+"4826-3"	"patapata"	"sudden"	"RNRI"	"T"	"sudden"	"Y"	71
+"4826-3"	"kibi"	"energetic"	"SRI"	"T"	"energetic"	"Y"	72

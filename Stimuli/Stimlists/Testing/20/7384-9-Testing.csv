@@ -1,0 +1,73 @@
+"Id"	"Word"	"TrueMeaning"	"WordType"	"TrialType"	"TargetMeaning"	"LegalTrial"	"TrialNum"
+"7384-9"	"potcharipotchari"	"plump"	"RNRI"	"D"	"subdued"	"Y"	1
+"7384-9"	"hiku"	"agitated"	"SRI"	"T"	"agitated"	"Y"	2
+"7384-9"	"koku"	"harsh"	"NAdj"	"T"	"harsh"	"Y"	3
+"7384-9"	"koku"	"harsh"	"NAdj"	"D"	"smooth"	"Y"	4
+"7384-9"	"bassari"	"resolute"	"NRI"	"T"	"resolute"	"Y"	5
+"7384-9"	"baka"	"stupid"	"NAdj"	"D"	"gaping"	"Y"	6
+"7384-9"	"kukkiri"	"clear"	"NRI"	"T"	"clear"	"Y"	7
+"7384-9"	"yawayawa"	"fragile"	"RNAdj"	"T"	"fragile"	"Y"	8
+"7384-9"	"gowa"	"stiff"	"SRI"	"T"	"stiff"	"Y"	9
+"7384-9"	"debudebu"	"fat"	"RI"	"D"	"worn out"	"Y"	10
+"7384-9"	"buku"	"chubby"	"SRI"	"T"	"chubby"	"Y"	11
+"7384-9"	"hoka"	"steaming"	"SRI"	"T"	"steaming"	"Y"	12
+"7384-9"	"zatsu"	"sloppy"	"NAdj"	"D"	"agitated"	"Y"	13
+"7384-9"	"patapata"	"sudden"	"RNRI"	"D"	"impossible"	"Y"	14
+"7384-9"	"buku"	"chubby"	"SRI"	"D"	"steaming"	"Y"	15
+"7384-9"	"berabera"	"chatty"	"RI"	"T"	"chatty"	"Y"	16
+"7384-9"	"musumusu"	"sullen"	"RNRI"	"D"	"vulgar"	"Y"	17
+"7384-9"	"gosogoso"	"whole"	"RNRI"	"D"	"fast asleep"	"Y"	18
+"7384-9"	"yaboyabo"	"tasteless"	"RNAdj"	"T"	"tasteless"	"Y"	19
+"7384-9"	"zukezuke"	"rude"	"RI"	"T"	"rude"	"Y"	20
+"7384-9"	"zatsu"	"sloppy"	"NAdj"	"T"	"sloppy"	"Y"	21
+"7384-9"	"hima"	"free"	"NAdj"	"D"	"plump"	"Y"	22
+"7384-9"	"toku"	"beneficial"	"NAdj"	"D"	"chubby"	"Y"	23
+"7384-9"	"gochagocha"	"messy"	"RI"	"D"	"clear"	"Y"	24
+"7384-9"	"nopperi"	"smooth"	"NRI"	"T"	"smooth"	"Y"	25
+"7384-9"	"musumusu"	"sullen"	"RNRI"	"T"	"sullen"	"Y"	26
+"7384-9"	"damedame"	"useless"	"RNAdj"	"D"	"messy"	"Y"	27
+"7384-9"	"gussuri"	"fast asleep"	"NRI"	"T"	"fast asleep"	"Y"	28
+"7384-9"	"pishapisha"	"decisive"	"RNRI"	"T"	"decisive"	"Y"	29
+"7384-9"	"hara"	"suspenseful"	"SRI"	"T"	"suspenseful"	"Y"	30
+"7384-9"	"poka"	"gaping"	"NRI"	"T"	"gaping"	"Y"	31
+"7384-9"	"kerokero"	"nonchalantly"	"RNRI"	"D"	"free"	"Y"	32
+"7384-9"	"hoka"	"steaming"	"SRI"	"D"	"whole"	"Y"	33
+"7384-9"	"boroboro"	"worn out"	"RI"	"D"	"dejected"	"Y"	34
+"7384-9"	"bassari"	"resolute"	"NRI"	"D"	"rare"	"Y"	35
+"7384-9"	"patapata"	"sudden"	"RNRI"	"T"	"sudden"	"Y"	36
+"7384-9"	"muri"	"impossible"	"NAdj"	"T"	"impossible"	"Y"	37
+"7384-9"	"kukkiri"	"clear"	"NRI"	"D"	"beneficial"	"Y"	38
+"7384-9"	"jimijimi"	"subdued"	"RNAdj"	"D"	"suspenseful"	"Y"	39
+"7384-9"	"jimijimi"	"subdued"	"RNAdj"	"T"	"subdued"	"Y"	40
+"7384-9"	"potcharipotchari"	"plump"	"RNRI"	"T"	"plump"	"Y"	41
+"7384-9"	"debudebu"	"fat"	"RI"	"T"	"fat"	"Y"	42
+"7384-9"	"boroboro"	"worn out"	"RI"	"T"	"worn out"	"Y"	43
+"7384-9"	"pishapisha"	"decisive"	"RNRI"	"D"	"sloppy"	"Y"	44
+"7384-9"	"hara"	"suspenseful"	"SRI"	"D"	"useless"	"Y"	45
+"7384-9"	"yawayawa"	"fragile"	"RNAdj"	"D"	"stiff"	"Y"	46
+"7384-9"	"maremare"	"rare"	"RNAdj"	"D"	"decisive"	"Y"	47
+"7384-9"	"nopperi"	"smooth"	"NRI"	"D"	"hasty"	"Y"	48
+"7384-9"	"mushi"	"humid"	"SRI"	"T"	"humid"	"Y"	49
+"7384-9"	"maremare"	"rare"	"RNAdj"	"T"	"rare"	"Y"	50
+"7384-9"	"mushi"	"humid"	"SRI"	"D"	"sullen"	"Y"	51
+"7384-9"	"hima"	"free"	"NAdj"	"T"	"free"	"Y"	52
+"7384-9"	"gaku"	"dejected"	"NRI"	"D"	"tasteless"	"Y"	53
+"7384-9"	"zokuzoku"	"vulgar"	"RNAdj"	"T"	"vulgar"	"Y"	54
+"7384-9"	"sekaseka"	"hasty"	"RI"	"T"	"hasty"	"Y"	55
+"7384-9"	"muri"	"impossible"	"NAdj"	"D"	"nonchalantly"	"Y"	56
+"7384-9"	"poka"	"gaping"	"NRI"	"D"	"resolute"	"Y"	57
+"7384-9"	"gaku"	"dejected"	"NRI"	"T"	"dejected"	"Y"	58
+"7384-9"	"zokuzoku"	"vulgar"	"RNAdj"	"D"	"rude"	"Y"	59
+"7384-9"	"gussuri"	"fast asleep"	"NRI"	"D"	"harsh"	"Y"	60
+"7384-9"	"sekaseka"	"hasty"	"RI"	"D"	"humid"	"Y"	61
+"7384-9"	"yaboyabo"	"tasteless"	"RNAdj"	"D"	"chatty"	"Y"	62
+"7384-9"	"gowa"	"stiff"	"SRI"	"D"	"sudden"	"Y"	63
+"7384-9"	"berabera"	"chatty"	"RI"	"D"	"stupid"	"Y"	64
+"7384-9"	"baka"	"stupid"	"NAdj"	"T"	"stupid"	"Y"	65
+"7384-9"	"gosogoso"	"whole"	"RNRI"	"T"	"whole"	"Y"	66
+"7384-9"	"kerokero"	"nonchalantly"	"RNRI"	"T"	"nonchalantly"	"Y"	67
+"7384-9"	"gochagocha"	"messy"	"RI"	"T"	"messy"	"Y"	68
+"7384-9"	"damedame"	"useless"	"RNAdj"	"T"	"useless"	"Y"	69
+"7384-9"	"toku"	"beneficial"	"NAdj"	"T"	"beneficial"	"Y"	70
+"7384-9"	"zukezuke"	"rude"	"RI"	"D"	"fragile"	"Y"	71
+"7384-9"	"hiku"	"agitated"	"SRI"	"D"	"fat"	"Y"	72

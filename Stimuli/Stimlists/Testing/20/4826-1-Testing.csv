@@ -1,0 +1,73 @@
+"Id"	"Word"	"TrueMeaning"	"WordType"	"TrialType"	"TargetMeaning"	"LegalTrial"	"TrialNum"
+"4826-1"	"hima"	"free"	"NAdj"	"D"	"sturdy"	"Y"	1
+"4826-1"	"bisshiribisshiri"	"crowded"	"RNRI"	"D"	"chatty"	"Y"	2
+"4826-1"	"tsuya"	"glossy"	"SRI"	"D"	"agitated"	"Y"	3
+"4826-1"	"gayagaya"	"noisy"	"RI"	"T"	"noisy"	"Y"	4
+"4826-1"	"jikkuri"	"careful"	"NRI"	"D"	"happy"	"Y"	5
+"4826-1"	"damedame"	"useless"	"RNAdj"	"T"	"useless"	"Y"	6
+"4826-1"	"kachin"	"offended"	"NRI"	"T"	"offended"	"Y"	7
+"4826-1"	"kabi"	"gaudy"	"NAdj"	"D"	"deficient"	"Y"	8
+"4826-1"	"kadokado"	"excessive"	"RNAdj"	"D"	"whispering"	"Y"	9
+"4826-1"	"muri"	"impossible"	"NAdj"	"T"	"impossible"	"Y"	10
+"4826-1"	"damedame"	"useless"	"RNAdj"	"D"	"impossible"	"Y"	11
+"4826-1"	"hikuhiku"	"agitated"	"RI"	"D"	"energetic"	"Y"	12
+"4826-1"	"yawayawa"	"fragile"	"RNAdj"	"T"	"fragile"	"Y"	13
+"4826-1"	"hisohiso"	"whispering"	"RI"	"D"	"whole"	"Y"	14
+"4826-1"	"potchari"	"plump"	"NRI"	"T"	"plump"	"Y"	15
+"4826-1"	"hisohiso"	"whispering"	"RI"	"T"	"whispering"	"Y"	16
+"4826-1"	"jimijimi"	"subdued"	"RNAdj"	"T"	"subdued"	"Y"	17
+"4826-1"	"bisshiribisshiri"	"crowded"	"RNRI"	"T"	"crowded"	"Y"	18
+"4826-1"	"gocha"	"messy"	"SRI"	"D"	"glossy"	"Y"	19
+"4826-1"	"goso"	"whole"	"NRI"	"D"	"exact"	"Y"	20
+"4826-1"	"yawayawa"	"fragile"	"RNAdj"	"D"	"rash"	"Y"	21
+"4826-1"	"fubifubi"	"deficient"	"RNAdj"	"D"	"vulgar"	"Y"	22
+"4826-1"	"kibi"	"energetic"	"SRI"	"T"	"energetic"	"Y"	23
+"4826-1"	"yura"	"wobbly"	"SRI"	"T"	"wobbly"	"Y"	24
+"4826-1"	"mare"	"rare"	"NAdj"	"T"	"rare"	"Y"	25
+"4826-1"	"gashigashi"	"sturdy"	"RNRI"	"T"	"sturdy"	"Y"	26
+"4826-1"	"garagara"	"to change ocmpletely"	"RNRI"	"T"	"to change ocmpletely"	"Y"	27
+"4826-1"	"berabera"	"chatty"	"RI"	"D"	"sudden"	"Y"	28
+"4826-1"	"mare"	"rare"	"NAdj"	"D"	"wobbly"	"Y"	29
+"4826-1"	"hikuhiku"	"agitated"	"RI"	"T"	"agitated"	"Y"	30
+"4826-1"	"gussuri"	"fast asleep"	"NRI"	"T"	"fast asleep"	"Y"	31
+"4826-1"	"zoku"	"vulgar"	"NAdj"	"D"	"gaudy"	"Y"	32
+"4826-1"	"zatsuzatsu"	"sloppy"	"RNAdj"	"T"	"sloppy"	"Y"	33
+"4826-1"	"yura"	"wobbly"	"SRI"	"D"	"fragile"	"Y"	34
+"4826-1"	"zatsuzatsu"	"sloppy"	"RNAdj"	"D"	"plump"	"Y"	35
+"4826-1"	"mushimushi"	"humid"	"RI"	"D"	"fat"	"Y"	36
+"4826-1"	"kukkirikukkiri"	"clear"	"RNRI"	"T"	"clear"	"Y"	37
+"4826-1"	"jimijimi"	"subdued"	"RNAdj"	"D"	"offended"	"Y"	38
+"4826-1"	"patapata"	"sudden"	"RNRI"	"T"	"sudden"	"Y"	39
+"4826-1"	"debu"	"fat"	"SRI"	"D"	"careful"	"Y"	40
+"4826-1"	"mucha"	"rash"	"NAdj"	"T"	"rash"	"Y"	41
+"4826-1"	"tsuya"	"glossy"	"SRI"	"T"	"glossy"	"Y"	42
+"4826-1"	"hokahoka"	"steaming"	"RI"	"T"	"steaming"	"Y"	43
+"4826-1"	"berabera"	"chatty"	"RI"	"T"	"chatty"	"Y"	44
+"4826-1"	"patapata"	"sudden"	"RNRI"	"D"	"clear"	"Y"	45
+"4826-1"	"kadokado"	"excessive"	"RNAdj"	"T"	"excessive"	"Y"	46
+"4826-1"	"zoku"	"vulgar"	"NAdj"	"T"	"vulgar"	"Y"	47
+"4826-1"	"kakkiri"	"exact"	"NRI"	"D"	"noisy"	"Y"	48
+"4826-1"	"musumusu"	"sullen"	"RNRI"	"T"	"sullen"	"Y"	49
+"4826-1"	"musumusu"	"sullen"	"RNRI"	"D"	"crowded"	"Y"	50
+"4826-1"	"muri"	"impossible"	"NAdj"	"D"	"messy"	"Y"	51
+"4826-1"	"gussuri"	"fast asleep"	"NRI"	"D"	"sullen"	"Y"	52
+"4826-1"	"kakkiri"	"exact"	"NRI"	"T"	"exact"	"Y"	53
+"4826-1"	"kabi"	"gaudy"	"NAdj"	"T"	"gaudy"	"Y"	54
+"4826-1"	"uki"	"happy"	"SRI"	"D"	"useless"	"Y"	55
+"4826-1"	"gashigashi"	"sturdy"	"RNRI"	"D"	"subdued"	"Y"	56
+"4826-1"	"fubifubi"	"deficient"	"RNAdj"	"T"	"deficient"	"Y"	57
+"4826-1"	"mucha"	"rash"	"NAdj"	"D"	"excessive"	"Y"	58
+"4826-1"	"kachin"	"offended"	"NRI"	"D"	"steaming"	"Y"	59
+"4826-1"	"debu"	"fat"	"SRI"	"T"	"fat"	"Y"	60
+"4826-1"	"hokahoka"	"steaming"	"RI"	"D"	"fast asleep"	"Y"	61
+"4826-1"	"potchari"	"plump"	"NRI"	"D"	"free"	"Y"	62
+"4826-1"	"jikkuri"	"careful"	"NRI"	"T"	"careful"	"Y"	63
+"4826-1"	"hima"	"free"	"NAdj"	"T"	"free"	"Y"	64
+"4826-1"	"mushimushi"	"humid"	"RI"	"T"	"humid"	"Y"	65
+"4826-1"	"garagara"	"to change ocmpletely"	"RNRI"	"D"	"sloppy"	"Y"	66
+"4826-1"	"gocha"	"messy"	"SRI"	"T"	"messy"	"Y"	67
+"4826-1"	"uki"	"happy"	"SRI"	"T"	"happy"	"Y"	68
+"4826-1"	"kukkirikukkiri"	"clear"	"RNRI"	"D"	"rare"	"Y"	69
+"4826-1"	"goso"	"whole"	"NRI"	"T"	"whole"	"Y"	70
+"4826-1"	"kibi"	"energetic"	"SRI"	"D"	"to change ocmpletely"	"Y"	71
+"4826-1"	"gayagaya"	"noisy"	"RI"	"D"	"humid"	"Y"	72

@@ -1,0 +1,73 @@
+"Id"	"Word"	"TrueMeaning"	"WordType"	"TrialType"	"TargetMeaning"	"LegalTrial"	"TrialNum"
+"1909-3"	"mucha"	"rash"	"NAdj"	"D"	"supple"	"Y"	1
+"1909-3"	"pishapisha"	"decisive"	"RNRI"	"D"	"comfortable"	"Y"	2
+"1909-3"	"garagara"	"to change ocmpletely"	"RNRI"	"T"	"to change ocmpletely"	"Y"	3
+"1909-3"	"raku"	"comfortable"	"NAdj"	"T"	"comfortable"	"Y"	4
+"1909-3"	"batchiri"	"perfect"	"NRI"	"T"	"perfect"	"Y"	5
+"1909-3"	"kabikabi"	"gaudy"	"RNAdj"	"T"	"gaudy"	"Y"	6
+"1909-3"	"kibi"	"energetic"	"SRI"	"T"	"energetic"	"Y"	7
+"1909-3"	"kakkirikakkiri"	"exact"	"RNRI"	"T"	"exact"	"Y"	8
+"1909-3"	"kokukoku"	"harsh"	"RNAdj"	"D"	"clear"	"Y"	9
+"1909-3"	"harahara"	"suspenseful"	"RI"	"T"	"suspenseful"	"Y"	10
+"1909-3"	"shinnari"	"supple"	"NRI"	"D"	"energetic"	"Y"	11
+"1909-3"	"gayagaya"	"noisy"	"RI"	"D"	"steaming"	"Y"	12
+"1909-3"	"gowa"	"stiff"	"SRI"	"D"	"fat"	"Y"	13
+"1909-3"	"baka"	"stupid"	"NAdj"	"D"	"worn out"	"Y"	14
+"1909-3"	"boroboro"	"worn out"	"RI"	"D"	"stiff"	"Y"	15
+"1909-3"	"hikuhiku"	"agitated"	"RI"	"T"	"agitated"	"Y"	16
+"1909-3"	"berabera"	"chatty"	"RI"	"T"	"chatty"	"Y"	17
+"1909-3"	"zuke"	"rude"	"SRI"	"D"	"harsh"	"Y"	18
+"1909-3"	"pishapisha"	"decisive"	"RNRI"	"T"	"decisive"	"Y"	19
+"1909-3"	"berabera"	"chatty"	"RI"	"D"	"smooth"	"Y"	20
+"1909-3"	"hokahoka"	"steaming"	"RI"	"D"	"suspenseful"	"Y"	21
+"1909-3"	"kabikabi"	"gaudy"	"RNAdj"	"D"	"chatty"	"Y"	22
+"1909-3"	"shinnari"	"supple"	"NRI"	"T"	"supple"	"Y"	23
+"1909-3"	"debu"	"fat"	"SRI"	"T"	"fat"	"Y"	24
+"1909-3"	"garagara"	"to change ocmpletely"	"RNRI"	"D"	"rash"	"Y"	25
+"1909-3"	"harahara"	"suspenseful"	"RI"	"D"	"deficient"	"Y"	26
+"1909-3"	"potcharipotchari"	"plump"	"RNRI"	"D"	"beneficial"	"Y"	27
+"1909-3"	"kukkiri"	"clear"	"NRI"	"D"	"chubby"	"Y"	28
+"1909-3"	"kizakiza"	"smug"	"RNAdj"	"T"	"smug"	"Y"	29
+"1909-3"	"kizakiza"	"smug"	"RNAdj"	"D"	"fast asleep"	"Y"	30
+"1909-3"	"zuke"	"rude"	"SRI"	"T"	"rude"	"Y"	31
+"1909-3"	"hokahoka"	"steaming"	"RI"	"T"	"steaming"	"Y"	32
+"1909-3"	"gocha"	"messy"	"SRI"	"D"	"useless"	"Y"	33
+"1909-3"	"gayagaya"	"noisy"	"RI"	"T"	"noisy"	"Y"	34
+"1909-3"	"boroboro"	"worn out"	"RI"	"T"	"worn out"	"Y"	35
+"1909-3"	"hikuhiku"	"agitated"	"RI"	"D"	"rude"	"Y"	36
+"1909-3"	"nopperi"	"smooth"	"NRI"	"T"	"smooth"	"Y"	37
+"1909-3"	"mucha"	"rash"	"NAdj"	"T"	"rash"	"Y"	38
+"1909-3"	"jimi"	"subdued"	"NAdj"	"T"	"subdued"	"Y"	39
+"1909-3"	"damedame"	"useless"	"RNAdj"	"T"	"useless"	"Y"	40
+"1909-3"	"bisshiribisshiri"	"crowded"	"RNRI"	"T"	"crowded"	"Y"	41
+"1909-3"	"bassaribassari"	"resolute"	"RNRI"	"D"	"messy"	"Y"	42
+"1909-3"	"buku"	"chubby"	"SRI"	"T"	"chubby"	"Y"	43
+"1909-3"	"baka"	"stupid"	"NAdj"	"T"	"stupid"	"Y"	44
+"1909-3"	"kokukoku"	"harsh"	"RNAdj"	"T"	"harsh"	"Y"	45
+"1909-3"	"yabo"	"tasteless"	"NAdj"	"D"	"perfect"	"Y"	46
+"1909-3"	"gocha"	"messy"	"SRI"	"T"	"messy"	"Y"	47
+"1909-3"	"jimi"	"subdued"	"NAdj"	"D"	"stupid"	"Y"	48
+"1909-3"	"damedame"	"useless"	"RNAdj"	"D"	"noisy"	"Y"	49
+"1909-3"	"tokutoku"	"beneficial"	"RNAdj"	"T"	"beneficial"	"Y"	50
+"1909-3"	"potcharipotchari"	"plump"	"RNRI"	"T"	"plump"	"Y"	51
+"1909-3"	"yabo"	"tasteless"	"NAdj"	"T"	"tasteless"	"Y"	52
+"1909-3"	"zoku"	"vulgar"	"NAdj"	"D"	"offended"	"Y"	53
+"1909-3"	"buku"	"chubby"	"SRI"	"D"	"resolute"	"Y"	54
+"1909-3"	"kachin"	"offended"	"NRI"	"T"	"offended"	"Y"	55
+"1909-3"	"batchiri"	"perfect"	"NRI"	"D"	"plump"	"Y"	56
+"1909-3"	"nopperi"	"smooth"	"NRI"	"D"	"to change ocmpletely"	"Y"	57
+"1909-3"	"gowa"	"stiff"	"SRI"	"T"	"stiff"	"Y"	58
+"1909-3"	"zoku"	"vulgar"	"NAdj"	"T"	"vulgar"	"Y"	59
+"1909-3"	"debu"	"fat"	"SRI"	"D"	"vulgar"	"Y"	60
+"1909-3"	"bisshiribisshiri"	"crowded"	"RNRI"	"D"	"tasteless"	"Y"	61
+"1909-3"	"raku"	"comfortable"	"NAdj"	"D"	"subdued"	"Y"	62
+"1909-3"	"fubifubi"	"deficient"	"RNAdj"	"D"	"smug"	"Y"	63
+"1909-3"	"fubifubi"	"deficient"	"RNAdj"	"T"	"deficient"	"Y"	64
+"1909-3"	"bassaribassari"	"resolute"	"RNRI"	"T"	"resolute"	"Y"	65
+"1909-3"	"gussuri"	"fast asleep"	"NRI"	"T"	"fast asleep"	"Y"	66
+"1909-3"	"kachin"	"offended"	"NRI"	"D"	"exact"	"Y"	67
+"1909-3"	"kibi"	"energetic"	"SRI"	"D"	"decisive"	"Y"	68
+"1909-3"	"gussuri"	"fast asleep"	"NRI"	"D"	"crowded"	"Y"	69
+"1909-3"	"kukkiri"	"clear"	"NRI"	"T"	"clear"	"Y"	70
+"1909-3"	"tokutoku"	"beneficial"	"RNAdj"	"D"	"agitated"	"Y"	71
+"1909-3"	"kakkirikakkiri"	"exact"	"RNRI"	"D"	"gaudy"	"Y"	72

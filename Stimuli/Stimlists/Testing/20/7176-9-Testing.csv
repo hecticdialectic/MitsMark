@@ -1,0 +1,73 @@
+"Id"	"Word"	"TrueMeaning"	"WordType"	"TrialType"	"TargetMeaning"	"LegalTrial"	"TrialNum"
+"7176-9"	"zatsuzatsu"	"sloppy"	"RNAdj"	"D"	"nonchalantly"	"Y"	1
+"7176-9"	"muchamucha"	"rash"	"RNAdj"	"T"	"rash"	"Y"	2
+"7176-9"	"pishapisha"	"decisive"	"RNRI"	"D"	"hasty"	"Y"	3
+"7176-9"	"jimijimi"	"subdued"	"RNAdj"	"D"	"vulgar"	"Y"	4
+"7176-9"	"kadokado"	"excessive"	"RNAdj"	"T"	"excessive"	"Y"	5
+"7176-9"	"gara"	"to change ocmpletely"	"NRI"	"T"	"to change ocmpletely"	"Y"	6
+"7176-9"	"hiku"	"agitated"	"SRI"	"D"	"stiff"	"Y"	7
+"7176-9"	"gara"	"to change ocmpletely"	"NRI"	"D"	"decisive"	"Y"	8
+"7176-9"	"kero"	"nonchalantly"	"NRI"	"T"	"nonchalantly"	"Y"	9
+"7176-9"	"boro"	"worn out"	"SRI"	"T"	"worn out"	"Y"	10
+"7176-9"	"harahara"	"suspenseful"	"RI"	"D"	"agitated"	"Y"	11
+"7176-9"	"jimijimi"	"subdued"	"RNAdj"	"T"	"subdued"	"Y"	12
+"7176-9"	"kadokado"	"excessive"	"RNAdj"	"D"	"fast asleep"	"Y"	13
+"7176-9"	"musumusu"	"sullen"	"RNRI"	"D"	"rude"	"Y"	14
+"7176-9"	"zoku"	"vulgar"	"NAdj"	"T"	"vulgar"	"Y"	15
+"7176-9"	"gowa"	"stiff"	"SRI"	"D"	"clear"	"Y"	16
+"7176-9"	"pata"	"sudden"	"NRI"	"D"	"excessive"	"Y"	17
+"7176-9"	"buruburu"	"shivering"	"RI"	"T"	"shivering"	"Y"	18
+"7176-9"	"toku"	"beneficial"	"NAdj"	"T"	"beneficial"	"Y"	19
+"7176-9"	"zatsuzatsu"	"sloppy"	"RNAdj"	"T"	"sloppy"	"Y"	20
+"7176-9"	"yabo"	"tasteless"	"NAdj"	"T"	"tasteless"	"Y"	21
+"7176-9"	"gashi"	"sturdy"	"NRI"	"D"	"whispering"	"Y"	22
+"7176-9"	"kero"	"nonchalantly"	"NRI"	"D"	"gaping"	"Y"	23
+"7176-9"	"gaya"	"noisy"	"SRI"	"T"	"noisy"	"Y"	24
+"7176-9"	"harahara"	"suspenseful"	"RI"	"T"	"suspenseful"	"Y"	25
+"7176-9"	"gowa"	"stiff"	"SRI"	"T"	"stiff"	"Y"	26
+"7176-9"	"gochagocha"	"messy"	"RI"	"D"	"to change ocmpletely"	"Y"	27
+"7176-9"	"kukkirikukkiri"	"clear"	"RNRI"	"D"	"harsh"	"Y"	28
+"7176-9"	"buruburu"	"shivering"	"RI"	"D"	"gaudy"	"Y"	29
+"7176-9"	"pishapisha"	"decisive"	"RNRI"	"T"	"decisive"	"Y"	30
+"7176-9"	"gochagocha"	"messy"	"RI"	"T"	"messy"	"Y"	31
+"7176-9"	"fubi"	"deficient"	"NAdj"	"T"	"deficient"	"Y"	32
+"7176-9"	"boro"	"worn out"	"SRI"	"D"	"energetic"	"Y"	33
+"7176-9"	"fubi"	"deficient"	"NAdj"	"D"	"messy"	"Y"	34
+"7176-9"	"muchamucha"	"rash"	"RNAdj"	"D"	"subdued"	"Y"	35
+"7176-9"	"gashi"	"sturdy"	"NRI"	"T"	"sturdy"	"Y"	36
+"7176-9"	"musumusu"	"sullen"	"RNRI"	"T"	"sullen"	"Y"	37
+"7176-9"	"berabera"	"chatty"	"RI"	"T"	"chatty"	"Y"	38
+"7176-9"	"kabi"	"gaudy"	"NAdj"	"T"	"gaudy"	"Y"	39
+"7176-9"	"kukkirikukkiri"	"clear"	"RNRI"	"T"	"clear"	"Y"	40
+"7176-9"	"hisohiso"	"whispering"	"RI"	"T"	"whispering"	"Y"	41
+"7176-9"	"pokapoka"	"gaping"	"RNRI"	"D"	"suspenseful"	"Y"	42
+"7176-9"	"rakuraku"	"comfortable"	"RNAdj"	"D"	"noisy"	"Y"	43
+"7176-9"	"pata"	"sudden"	"NRI"	"T"	"sudden"	"Y"	44
+"7176-9"	"jikkurijikkuri"	"careful"	"RNRI"	"D"	"sloppy"	"Y"	45
+"7176-9"	"gaya"	"noisy"	"SRI"	"D"	"tasteless"	"Y"	46
+"7176-9"	"zukezuke"	"rude"	"RI"	"T"	"rude"	"Y"	47
+"7176-9"	"seka"	"hasty"	"SRI"	"T"	"hasty"	"Y"	48
+"7176-9"	"kibi"	"energetic"	"SRI"	"D"	"sullen"	"Y"	49
+"7176-9"	"kokukoku"	"harsh"	"RNAdj"	"T"	"harsh"	"Y"	50
+"7176-9"	"rakuraku"	"comfortable"	"RNAdj"	"T"	"comfortable"	"Y"	51
+"7176-9"	"seka"	"hasty"	"SRI"	"D"	"worn out"	"Y"	52
+"7176-9"	"dame"	"useless"	"NAdj"	"D"	"beneficial"	"Y"	53
+"7176-9"	"berabera"	"chatty"	"RI"	"D"	"shivering"	"Y"	54
+"7176-9"	"pokapoka"	"gaping"	"RNRI"	"T"	"gaping"	"Y"	55
+"7176-9"	"potcharipotchari"	"plump"	"RNRI"	"D"	"deficient"	"Y"	56
+"7176-9"	"jikkurijikkuri"	"careful"	"RNRI"	"T"	"careful"	"Y"	57
+"7176-9"	"kakkiri"	"exact"	"NRI"	"T"	"exact"	"Y"	58
+"7176-9"	"zukezuke"	"rude"	"RI"	"D"	"comfortable"	"Y"	59
+"7176-9"	"hiku"	"agitated"	"SRI"	"T"	"agitated"	"Y"	60
+"7176-9"	"hisohiso"	"whispering"	"RI"	"D"	"useless"	"Y"	61
+"7176-9"	"kokukoku"	"harsh"	"RNAdj"	"D"	"exact"	"Y"	62
+"7176-9"	"kabi"	"gaudy"	"NAdj"	"D"	"sturdy"	"Y"	63
+"7176-9"	"gussuri"	"fast asleep"	"NRI"	"T"	"fast asleep"	"Y"	64
+"7176-9"	"zoku"	"vulgar"	"NAdj"	"D"	"rash"	"Y"	65
+"7176-9"	"kakkiri"	"exact"	"NRI"	"D"	"chatty"	"Y"	66
+"7176-9"	"potcharipotchari"	"plump"	"RNRI"	"T"	"plump"	"Y"	67
+"7176-9"	"dame"	"useless"	"NAdj"	"T"	"useless"	"Y"	68
+"7176-9"	"toku"	"beneficial"	"NAdj"	"D"	"sudden"	"Y"	69
+"7176-9"	"kibi"	"energetic"	"SRI"	"T"	"energetic"	"Y"	70
+"7176-9"	"gussuri"	"fast asleep"	"NRI"	"D"	"careful"	"Y"	71
+"7176-9"	"yabo"	"tasteless"	"NAdj"	"D"	"plump"	"Y"	72

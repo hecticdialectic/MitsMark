@@ -1,0 +1,73 @@
+"Id"	"Word"	"TrueMeaning"	"WordType"	"TrialType"	"TargetMeaning"	"LegalTrial"	"TrialNum"
+"325-3"	"gussuri"	"fast asleep"	"NRI"	"T"	"fast asleep"	"Y"	1
+"325-3"	"gayagaya"	"noisy"	"RI"	"T"	"noisy"	"Y"	2
+"325-3"	"gaku"	"dejected"	"NRI"	"T"	"dejected"	"Y"	3
+"325-3"	"bukubuku"	"chubby"	"RI"	"T"	"chubby"	"Y"	4
+"325-3"	"furi"	"disadvantaged"	"NAdj"	"T"	"disadvantaged"	"Y"	5
+"325-3"	"boro"	"worn out"	"SRI"	"T"	"worn out"	"Y"	6
+"325-3"	"pata"	"sudden"	"NRI"	"T"	"sudden"	"Y"	7
+"325-3"	"fubi"	"deficient"	"NAdj"	"T"	"deficient"	"Y"	8
+"325-3"	"damedame"	"useless"	"RNAdj"	"T"	"useless"	"Y"	9
+"325-3"	"bassaribassari"	"resolute"	"RNRI"	"D"	"wobbly"	"Y"	10
+"325-3"	"gowa"	"stiff"	"SRI"	"T"	"stiff"	"Y"	11
+"325-3"	"kibi"	"energetic"	"SRI"	"T"	"energetic"	"Y"	12
+"325-3"	"himahima"	"free"	"RNAdj"	"T"	"free"	"Y"	13
+"325-3"	"debudebu"	"fat"	"RI"	"D"	"useless"	"Y"	14
+"325-3"	"potchari"	"plump"	"NRI"	"T"	"plump"	"Y"	15
+"325-3"	"damedame"	"useless"	"RNAdj"	"D"	"happy"	"Y"	16
+"325-3"	"yawayawa"	"fragile"	"RNAdj"	"D"	"disadvantaged"	"Y"	17
+"325-3"	"gaku"	"dejected"	"NRI"	"D"	"offended"	"Y"	18
+"325-3"	"kibi"	"energetic"	"SRI"	"D"	"sloppy"	"Y"	19
+"325-3"	"gayagaya"	"noisy"	"RI"	"D"	"smooth"	"Y"	20
+"325-3"	"kukkirikukkiri"	"clear"	"RNRI"	"T"	"clear"	"Y"	21
+"325-3"	"musumusu"	"sullen"	"RNRI"	"D"	"stiff"	"Y"	22
+"325-3"	"mucha"	"rash"	"NAdj"	"D"	"resolute"	"Y"	23
+"325-3"	"jimi"	"subdued"	"NAdj"	"D"	"to change ocmpletely"	"Y"	24
+"325-3"	"seka"	"hasty"	"SRI"	"D"	"clear"	"Y"	25
+"325-3"	"muku"	"pure"	"NAdj"	"D"	"worn out"	"Y"	26
+"325-3"	"buruburu"	"shivering"	"RI"	"D"	"fragile"	"Y"	27
+"325-3"	"kakkiri"	"exact"	"NRI"	"T"	"exact"	"Y"	28
+"325-3"	"yaboyabo"	"tasteless"	"RNAdj"	"T"	"tasteless"	"Y"	29
+"325-3"	"kachinkachin"	"offended"	"RNRI"	"T"	"offended"	"Y"	30
+"325-3"	"muku"	"pure"	"NAdj"	"T"	"pure"	"Y"	31
+"325-3"	"garagara"	"to change ocmpletely"	"RNRI"	"T"	"to change ocmpletely"	"Y"	32
+"325-3"	"yaboyabo"	"tasteless"	"RNAdj"	"D"	"free"	"Y"	33
+"325-3"	"nopperi"	"smooth"	"NRI"	"D"	"whispering"	"Y"	34
+"325-3"	"nopperi"	"smooth"	"NRI"	"T"	"smooth"	"Y"	35
+"325-3"	"zatsuzatsu"	"sloppy"	"RNAdj"	"D"	"chubby"	"Y"	36
+"325-3"	"furi"	"disadvantaged"	"NAdj"	"D"	"gaudy"	"Y"	37
+"325-3"	"hisohiso"	"whispering"	"RI"	"T"	"whispering"	"Y"	38
+"325-3"	"gowa"	"stiff"	"SRI"	"D"	"plump"	"Y"	39
+"325-3"	"musumusu"	"sullen"	"RNRI"	"T"	"sullen"	"Y"	40
+"325-3"	"hiku"	"agitated"	"SRI"	"T"	"agitated"	"Y"	41
+"325-3"	"ukiuki"	"happy"	"RI"	"D"	"dejected"	"Y"	42
+"325-3"	"kakkiri"	"exact"	"NRI"	"D"	"agitated"	"Y"	43
+"325-3"	"yura"	"wobbly"	"SRI"	"T"	"wobbly"	"Y"	44
+"325-3"	"kokukoku"	"harsh"	"RNAdj"	"D"	"hasty"	"Y"	45
+"325-3"	"buruburu"	"shivering"	"RI"	"T"	"shivering"	"Y"	46
+"325-3"	"boro"	"worn out"	"SRI"	"D"	"subdued"	"Y"	47
+"325-3"	"yura"	"wobbly"	"SRI"	"D"	"harsh"	"Y"	48
+"325-3"	"bassaribassari"	"resolute"	"RNRI"	"T"	"resolute"	"Y"	49
+"325-3"	"gosogoso"	"whole"	"RNRI"	"D"	"rash"	"Y"	50
+"325-3"	"himahima"	"free"	"RNAdj"	"D"	"noisy"	"Y"	51
+"325-3"	"gosogoso"	"whole"	"RNRI"	"T"	"whole"	"Y"	52
+"325-3"	"zatsuzatsu"	"sloppy"	"RNAdj"	"T"	"sloppy"	"Y"	53
+"325-3"	"seka"	"hasty"	"SRI"	"T"	"hasty"	"Y"	54
+"325-3"	"kukkirikukkiri"	"clear"	"RNRI"	"D"	"exact"	"Y"	55
+"325-3"	"bukubuku"	"chubby"	"RI"	"D"	"sullen"	"Y"	56
+"325-3"	"gussuri"	"fast asleep"	"NRI"	"D"	"shivering"	"Y"	57
+"325-3"	"jimi"	"subdued"	"NAdj"	"T"	"subdued"	"Y"	58
+"325-3"	"kachinkachin"	"offended"	"RNRI"	"D"	"sudden"	"Y"	59
+"325-3"	"ukiuki"	"happy"	"RI"	"T"	"happy"	"Y"	60
+"325-3"	"potchari"	"plump"	"NRI"	"D"	"tasteless"	"Y"	61
+"325-3"	"pata"	"sudden"	"NRI"	"D"	"deficient"	"Y"	62
+"325-3"	"kabi"	"gaudy"	"NAdj"	"D"	"whole"	"Y"	63
+"325-3"	"debudebu"	"fat"	"RI"	"T"	"fat"	"Y"	64
+"325-3"	"mucha"	"rash"	"NAdj"	"T"	"rash"	"Y"	65
+"325-3"	"hiku"	"agitated"	"SRI"	"D"	"fat"	"Y"	66
+"325-3"	"hisohiso"	"whispering"	"RI"	"D"	"pure"	"Y"	67
+"325-3"	"fubi"	"deficient"	"NAdj"	"D"	"fast asleep"	"Y"	68
+"325-3"	"garagara"	"to change ocmpletely"	"RNRI"	"D"	"energetic"	"Y"	69
+"325-3"	"kabi"	"gaudy"	"NAdj"	"T"	"gaudy"	"Y"	70
+"325-3"	"yawayawa"	"fragile"	"RNAdj"	"T"	"fragile"	"Y"	71
+"325-3"	"kokukoku"	"harsh"	"RNAdj"	"T"	"harsh"	"Y"	72

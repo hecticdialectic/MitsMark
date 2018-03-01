@@ -1,0 +1,73 @@
+"Id"	"Word"	"TrueMeaning"	"WordType"	"TrialType"	"TargetMeaning"	"LegalTrial"	"TrialNum"
+"6894-6"	"gaku"	"dejected"	"NRI"	"D"	"wobbly"	"Y"	1
+"6894-6"	"bassari"	"resolute"	"NRI"	"T"	"resolute"	"Y"	2
+"6894-6"	"mare"	"rare"	"NAdj"	"T"	"rare"	"Y"	3
+"6894-6"	"gashigashi"	"sturdy"	"RNRI"	"T"	"sturdy"	"Y"	4
+"6894-6"	"gussuri"	"fast asleep"	"NRI"	"D"	"happy"	"Y"	5
+"6894-6"	"kakkiri"	"exact"	"NRI"	"T"	"exact"	"Y"	6
+"6894-6"	"kiza"	"smug"	"NAdj"	"T"	"smug"	"Y"	7
+"6894-6"	"zokuzoku"	"vulgar"	"RNAdj"	"D"	"deficient"	"Y"	8
+"6894-6"	"hoka"	"steaming"	"SRI"	"T"	"steaming"	"Y"	9
+"6894-6"	"buruburu"	"shivering"	"RI"	"T"	"shivering"	"Y"	10
+"6894-6"	"yura"	"wobbly"	"SRI"	"D"	"to change ocmpletely"	"Y"	11
+"6894-6"	"yura"	"wobbly"	"SRI"	"T"	"wobbly"	"Y"	12
+"6894-6"	"shinnarishinnari"	"supple"	"RNRI"	"D"	"sturdy"	"Y"	13
+"6894-6"	"koku"	"harsh"	"NAdj"	"T"	"harsh"	"Y"	14
+"6894-6"	"baka"	"stupid"	"NAdj"	"T"	"stupid"	"Y"	15
+"6894-6"	"bisshiribisshiri"	"crowded"	"RNRI"	"T"	"crowded"	"Y"	16
+"6894-6"	"koku"	"harsh"	"NAdj"	"D"	"sloppy"	"Y"	17
+"6894-6"	"debudebu"	"fat"	"RI"	"D"	"dejected"	"Y"	18
+"6894-6"	"kakkiri"	"exact"	"NRI"	"D"	"smooth"	"Y"	19
+"6894-6"	"zokuzoku"	"vulgar"	"RNAdj"	"T"	"vulgar"	"Y"	20
+"6894-6"	"bassari"	"resolute"	"NRI"	"D"	"vulgar"	"Y"	21
+"6894-6"	"mojimoji"	"hesitant"	"RI"	"D"	"disadvantaged"	"Y"	22
+"6894-6"	"ukiuki"	"happy"	"RI"	"T"	"happy"	"Y"	23
+"6894-6"	"himahima"	"free"	"RNAdj"	"T"	"free"	"Y"	24
+"6894-6"	"gussuri"	"fast asleep"	"NRI"	"T"	"fast asleep"	"Y"	25
+"6894-6"	"seka"	"hasty"	"SRI"	"D"	"rare"	"Y"	26
+"6894-6"	"gowa"	"stiff"	"SRI"	"D"	"free"	"Y"	27
+"6894-6"	"kukkiri"	"clear"	"NRI"	"D"	"perfect"	"Y"	28
+"6894-6"	"ukiuki"	"happy"	"RI"	"D"	"stiff"	"Y"	29
+"6894-6"	"shinnarishinnari"	"supple"	"RNRI"	"T"	"supple"	"Y"	30
+"6894-6"	"gocha"	"messy"	"SRI"	"T"	"messy"	"Y"	31
+"6894-6"	"batchiribatchiri"	"perfect"	"RNRI"	"D"	"suspenseful"	"Y"	32
+"6894-6"	"nopperinopperi"	"smooth"	"RNRI"	"D"	"fast asleep"	"Y"	33
+"6894-6"	"buruburu"	"shivering"	"RI"	"D"	"beneficial"	"Y"	34
+"6894-6"	"kabikabi"	"gaudy"	"RNAdj"	"T"	"gaudy"	"Y"	35
+"6894-6"	"baka"	"stupid"	"NAdj"	"D"	"shivering"	"Y"	36
+"6894-6"	"himahima"	"free"	"RNAdj"	"D"	"hesitant"	"Y"	37
+"6894-6"	"hisohiso"	"whispering"	"RI"	"T"	"whispering"	"Y"	38
+"6894-6"	"gashigashi"	"sturdy"	"RNRI"	"D"	"hasty"	"Y"	39
+"6894-6"	"yawa"	"fragile"	"NAdj"	"D"	"whispering"	"Y"	40
+"6894-6"	"gara"	"to change ocmpletely"	"NRI"	"D"	"clear"	"Y"	41
+"6894-6"	"furi"	"disadvantaged"	"NAdj"	"D"	"crowded"	"Y"	42
+"6894-6"	"gaku"	"dejected"	"NRI"	"T"	"dejected"	"Y"	43
+"6894-6"	"bisshiribisshiri"	"crowded"	"RNRI"	"D"	"messy"	"Y"	44
+"6894-6"	"furi"	"disadvantaged"	"NAdj"	"T"	"disadvantaged"	"Y"	45
+"6894-6"	"fubifubi"	"deficient"	"RNAdj"	"T"	"deficient"	"Y"	46
+"6894-6"	"gara"	"to change ocmpletely"	"NRI"	"T"	"to change ocmpletely"	"Y"	47
+"6894-6"	"debudebu"	"fat"	"RI"	"T"	"fat"	"Y"	48
+"6894-6"	"batchiribatchiri"	"perfect"	"RNRI"	"T"	"perfect"	"Y"	49
+"6894-6"	"tsuya"	"glossy"	"SRI"	"T"	"glossy"	"Y"	50
+"6894-6"	"gowa"	"stiff"	"SRI"	"T"	"stiff"	"Y"	51
+"6894-6"	"seka"	"hasty"	"SRI"	"T"	"hasty"	"Y"	52
+"6894-6"	"yawa"	"fragile"	"NAdj"	"T"	"fragile"	"Y"	53
+"6894-6"	"zatsuzatsu"	"sloppy"	"RNAdj"	"T"	"sloppy"	"Y"	54
+"6894-6"	"tokutoku"	"beneficial"	"RNAdj"	"D"	"harsh"	"Y"	55
+"6894-6"	"harahara"	"suspenseful"	"RI"	"D"	"resolute"	"Y"	56
+"6894-6"	"kiza"	"smug"	"NAdj"	"D"	"careful"	"Y"	57
+"6894-6"	"mojimoji"	"hesitant"	"RI"	"T"	"hesitant"	"Y"	58
+"6894-6"	"kabikabi"	"gaudy"	"RNAdj"	"D"	"steaming"	"Y"	59
+"6894-6"	"jikkurijikkuri"	"careful"	"RNRI"	"T"	"careful"	"Y"	60
+"6894-6"	"harahara"	"suspenseful"	"RI"	"T"	"suspenseful"	"Y"	61
+"6894-6"	"nopperinopperi"	"smooth"	"RNRI"	"T"	"smooth"	"Y"	62
+"6894-6"	"tokutoku"	"beneficial"	"RNAdj"	"T"	"beneficial"	"Y"	63
+"6894-6"	"hisohiso"	"whispering"	"RI"	"D"	"supple"	"Y"	64
+"6894-6"	"gocha"	"messy"	"SRI"	"D"	"gaudy"	"Y"	65
+"6894-6"	"tsuya"	"glossy"	"SRI"	"D"	"fat"	"Y"	66
+"6894-6"	"mare"	"rare"	"NAdj"	"D"	"exact"	"Y"	67
+"6894-6"	"kukkiri"	"clear"	"NRI"	"T"	"clear"	"Y"	68
+"6894-6"	"hoka"	"steaming"	"SRI"	"D"	"smug"	"Y"	69
+"6894-6"	"jikkurijikkuri"	"careful"	"RNRI"	"D"	"glossy"	"Y"	70
+"6894-6"	"zatsuzatsu"	"sloppy"	"RNAdj"	"D"	"fragile"	"Y"	71
+"6894-6"	"fubifubi"	"deficient"	"RNAdj"	"D"	"stupid"	"Y"	72

@@ -1,0 +1,73 @@
+"Id"	"Word"	"TrueMeaning"	"WordType"	"TrialType"	"TargetMeaning"	"LegalTrial"	"TrialNum"
+"961-5"	"gochagocha"	"messy"	"RI"	"D"	"noisy"	"Y"	1
+"961-5"	"musumusu"	"sullen"	"RNRI"	"D"	"wobbly"	"Y"	2
+"961-5"	"gaya"	"noisy"	"SRI"	"T"	"noisy"	"Y"	3
+"961-5"	"yawayawa"	"fragile"	"RNAdj"	"D"	"happy"	"Y"	4
+"961-5"	"yawayawa"	"fragile"	"RNAdj"	"T"	"fragile"	"Y"	5
+"961-5"	"gussuri"	"fast asleep"	"NRI"	"D"	"comfortable"	"Y"	6
+"961-5"	"gaku"	"dejected"	"NRI"	"T"	"dejected"	"Y"	7
+"961-5"	"nopperinopperi"	"smooth"	"RNRI"	"T"	"smooth"	"Y"	8
+"961-5"	"pata"	"sudden"	"NRI"	"T"	"sudden"	"Y"	9
+"961-5"	"kachinkachin"	"offended"	"RNRI"	"D"	"whole"	"Y"	10
+"961-5"	"sekaseka"	"hasty"	"RI"	"D"	"worn out"	"Y"	11
+"961-5"	"boroboro"	"worn out"	"RI"	"D"	"pure"	"Y"	12
+"961-5"	"yura"	"wobbly"	"SRI"	"T"	"wobbly"	"Y"	13
+"961-5"	"zokuzoku"	"vulgar"	"RNAdj"	"T"	"vulgar"	"Y"	14
+"961-5"	"bakabaka"	"stupid"	"RNAdj"	"T"	"stupid"	"Y"	15
+"961-5"	"sekaseka"	"hasty"	"RI"	"T"	"hasty"	"Y"	16
+"961-5"	"fubi"	"deficient"	"NAdj"	"D"	"plump"	"Y"	17
+"961-5"	"kibikibi"	"energetic"	"RI"	"T"	"energetic"	"Y"	18
+"961-5"	"rakuraku"	"comfortable"	"RNAdj"	"T"	"comfortable"	"Y"	19
+"961-5"	"furi"	"disadvantaged"	"NAdj"	"T"	"disadvantaged"	"Y"	20
+"961-5"	"muku"	"pure"	"NAdj"	"D"	"to change ocmpletely"	"Y"	21
+"961-5"	"fubi"	"deficient"	"NAdj"	"T"	"deficient"	"Y"	22
+"961-5"	"pata"	"sudden"	"NRI"	"D"	"smooth"	"Y"	23
+"961-5"	"bassaribassari"	"resolute"	"RNRI"	"T"	"resolute"	"Y"	24
+"961-5"	"debudebu"	"fat"	"RI"	"D"	"smug"	"Y"	25
+"961-5"	"hiso"	"whispering"	"SRI"	"T"	"whispering"	"Y"	26
+"961-5"	"kukkiri"	"clear"	"NRI"	"T"	"clear"	"Y"	27
+"961-5"	"kadokado"	"excessive"	"RNAdj"	"D"	"beneficial"	"Y"	28
+"961-5"	"gara"	"to change ocmpletely"	"NRI"	"D"	"fat"	"Y"	29
+"961-5"	"potcharipotchari"	"plump"	"RNRI"	"T"	"plump"	"Y"	30
+"961-5"	"goso"	"whole"	"NRI"	"T"	"whole"	"Y"	31
+"961-5"	"uki"	"happy"	"SRI"	"D"	"humid"	"Y"	32
+"961-5"	"gowa"	"stiff"	"SRI"	"T"	"stiff"	"Y"	33
+"961-5"	"gowa"	"stiff"	"SRI"	"D"	"clear"	"Y"	34
+"961-5"	"zokuzoku"	"vulgar"	"RNAdj"	"D"	"excessive"	"Y"	35
+"961-5"	"bakabaka"	"stupid"	"RNAdj"	"D"	"deficient"	"Y"	36
+"961-5"	"boroboro"	"worn out"	"RI"	"T"	"worn out"	"Y"	37
+"961-5"	"bassaribassari"	"resolute"	"RNRI"	"D"	"dejected"	"Y"	38
+"961-5"	"pishapisha"	"decisive"	"RNRI"	"D"	"free"	"Y"	39
+"961-5"	"potcharipotchari"	"plump"	"RNRI"	"D"	"disadvantaged"	"Y"	40
+"961-5"	"muri"	"impossible"	"NAdj"	"D"	"sullen"	"Y"	41
+"961-5"	"gaku"	"dejected"	"NRI"	"D"	"impossible"	"Y"	42
+"961-5"	"rakuraku"	"comfortable"	"RNAdj"	"D"	"offended"	"Y"	43
+"961-5"	"furi"	"disadvantaged"	"NAdj"	"D"	"fast asleep"	"Y"	44
+"961-5"	"gochagocha"	"messy"	"RI"	"T"	"messy"	"Y"	45
+"961-5"	"toku"	"beneficial"	"NAdj"	"T"	"beneficial"	"Y"	46
+"961-5"	"hiso"	"whispering"	"SRI"	"D"	"energetic"	"Y"	47
+"961-5"	"buru"	"shivering"	"SRI"	"D"	"decisive"	"Y"	48
+"961-5"	"nopperinopperi"	"smooth"	"RNRI"	"D"	"stupid"	"Y"	49
+"961-5"	"kiza"	"smug"	"NAdj"	"D"	"hasty"	"Y"	50
+"961-5"	"kadokado"	"excessive"	"RNAdj"	"T"	"excessive"	"Y"	51
+"961-5"	"toku"	"beneficial"	"NAdj"	"D"	"vulgar"	"Y"	52
+"961-5"	"uki"	"happy"	"SRI"	"T"	"happy"	"Y"	53
+"961-5"	"kiza"	"smug"	"NAdj"	"T"	"smug"	"Y"	54
+"961-5"	"kachinkachin"	"offended"	"RNRI"	"T"	"offended"	"Y"	55
+"961-5"	"himahima"	"free"	"RNAdj"	"T"	"free"	"Y"	56
+"961-5"	"muri"	"impossible"	"NAdj"	"T"	"impossible"	"Y"	57
+"961-5"	"musumusu"	"sullen"	"RNRI"	"T"	"sullen"	"Y"	58
+"961-5"	"buru"	"shivering"	"SRI"	"T"	"shivering"	"Y"	59
+"961-5"	"debudebu"	"fat"	"RI"	"T"	"fat"	"Y"	60
+"961-5"	"pishapisha"	"decisive"	"RNRI"	"T"	"decisive"	"Y"	61
+"961-5"	"himahima"	"free"	"RNAdj"	"D"	"messy"	"Y"	62
+"961-5"	"kukkiri"	"clear"	"NRI"	"D"	"whispering"	"Y"	63
+"961-5"	"gussuri"	"fast asleep"	"NRI"	"T"	"fast asleep"	"Y"	64
+"961-5"	"gaya"	"noisy"	"SRI"	"D"	"resolute"	"Y"	65
+"961-5"	"kibikibi"	"energetic"	"RI"	"D"	"sudden"	"Y"	66
+"961-5"	"muku"	"pure"	"NAdj"	"T"	"pure"	"Y"	67
+"961-5"	"mushimushi"	"humid"	"RI"	"D"	"fragile"	"Y"	68
+"961-5"	"gara"	"to change ocmpletely"	"NRI"	"T"	"to change ocmpletely"	"Y"	69
+"961-5"	"yura"	"wobbly"	"SRI"	"D"	"shivering"	"Y"	70
+"961-5"	"mushimushi"	"humid"	"RI"	"T"	"humid"	"Y"	71
+"961-5"	"goso"	"whole"	"NRI"	"D"	"stiff"	"Y"	72

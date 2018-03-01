@@ -1,0 +1,73 @@
+"Id"	"Word"	"TrueMeaning"	"WordType"	"TrialType"	"TargetMeaning"	"LegalTrial"	"TrialNum"
+"592-6"	"gakugaku"	"dejected"	"RNRI"	"D"	"energetic"	"Y"	1
+"592-6"	"kibi"	"energetic"	"SRI"	"D"	"rare"	"Y"	2
+"592-6"	"mukumuku"	"pure"	"RNAdj"	"D"	"stiff"	"Y"	3
+"592-6"	"musumusu"	"sullen"	"RNRI"	"D"	"noisy"	"Y"	4
+"592-6"	"hiso"	"whispering"	"SRI"	"T"	"whispering"	"Y"	5
+"592-6"	"kachinkachin"	"offended"	"RNRI"	"T"	"offended"	"Y"	6
+"592-6"	"baka"	"stupid"	"NAdj"	"T"	"stupid"	"Y"	7
+"592-6"	"mukumuku"	"pure"	"RNAdj"	"T"	"pure"	"Y"	8
+"592-6"	"poka"	"gaping"	"NRI"	"T"	"gaping"	"Y"	9
+"592-6"	"muri"	"impossible"	"NAdj"	"D"	"whole"	"Y"	10
+"592-6"	"kakkiri"	"exact"	"NRI"	"D"	"sullen"	"Y"	11
+"592-6"	"kakkiri"	"exact"	"NRI"	"T"	"exact"	"Y"	12
+"592-6"	"nopperi"	"smooth"	"NRI"	"D"	"exact"	"Y"	13
+"592-6"	"maremare"	"rare"	"RNAdj"	"T"	"rare"	"Y"	14
+"592-6"	"tokutoku"	"beneficial"	"RNAdj"	"D"	"rude"	"Y"	15
+"592-6"	"debudebu"	"fat"	"RI"	"T"	"fat"	"Y"	16
+"592-6"	"debudebu"	"fat"	"RI"	"D"	"stupid"	"Y"	17
+"592-6"	"harahara"	"suspenseful"	"RI"	"D"	"vulgar"	"Y"	18
+"592-6"	"zatsu"	"sloppy"	"NAdj"	"T"	"sloppy"	"Y"	19
+"592-6"	"kabi"	"gaudy"	"NAdj"	"T"	"gaudy"	"Y"	20
+"592-6"	"gakugaku"	"dejected"	"RNRI"	"T"	"dejected"	"Y"	21
+"592-6"	"gaya"	"noisy"	"SRI"	"D"	"harsh"	"Y"	22
+"592-6"	"kerokero"	"nonchalantly"	"RNRI"	"D"	"decisive"	"Y"	23
+"592-6"	"zatsu"	"sloppy"	"NAdj"	"D"	"offended"	"Y"	24
+"592-6"	"hikuhiku"	"agitated"	"RI"	"T"	"agitated"	"Y"	25
+"592-6"	"muchamucha"	"rash"	"RNAdj"	"D"	"gaudy"	"Y"	26
+"592-6"	"muri"	"impossible"	"NAdj"	"T"	"impossible"	"Y"	27
+"592-6"	"zukezuke"	"rude"	"RI"	"T"	"rude"	"Y"	28
+"592-6"	"baka"	"stupid"	"NAdj"	"D"	"wobbly"	"Y"	29
+"592-6"	"kibi"	"energetic"	"SRI"	"T"	"energetic"	"Y"	30
+"592-6"	"musumusu"	"sullen"	"RNRI"	"T"	"sullen"	"Y"	31
+"592-6"	"mushimushi"	"humid"	"RI"	"T"	"humid"	"Y"	32
+"592-6"	"hima"	"free"	"NAdj"	"D"	"shivering"	"Y"	33
+"592-6"	"kiza"	"smug"	"NAdj"	"D"	"whispering"	"Y"	34
+"592-6"	"yura"	"wobbly"	"SRI"	"D"	"free"	"Y"	35
+"592-6"	"kokukoku"	"harsh"	"RNAdj"	"D"	"impossible"	"Y"	36
+"592-6"	"kerokero"	"nonchalantly"	"RNRI"	"T"	"nonchalantly"	"Y"	37
+"592-6"	"gaya"	"noisy"	"SRI"	"T"	"noisy"	"Y"	38
+"592-6"	"yura"	"wobbly"	"SRI"	"T"	"wobbly"	"Y"	39
+"592-6"	"gowagowa"	"stiff"	"RI"	"D"	"suspenseful"	"Y"	40
+"592-6"	"buru"	"shivering"	"SRI"	"T"	"shivering"	"Y"	41
+"592-6"	"goso"	"whole"	"NRI"	"D"	"sloppy"	"Y"	42
+"592-6"	"buru"	"shivering"	"SRI"	"D"	"dejected"	"Y"	43
+"592-6"	"pishapisha"	"decisive"	"RNRI"	"T"	"decisive"	"Y"	44
+"592-6"	"nopperi"	"smooth"	"NRI"	"T"	"smooth"	"Y"	45
+"592-6"	"hima"	"free"	"NAdj"	"T"	"free"	"Y"	46
+"592-6"	"bassaribassari"	"resolute"	"RNRI"	"D"	"to change ocmpletely"	"Y"	47
+"592-6"	"mushimushi"	"humid"	"RI"	"D"	"fat"	"Y"	48
+"592-6"	"pishapisha"	"decisive"	"RNRI"	"D"	"gaping"	"Y"	49
+"592-6"	"harahara"	"suspenseful"	"RI"	"T"	"suspenseful"	"Y"	50
+"592-6"	"zokuzoku"	"vulgar"	"RNAdj"	"D"	"hasty"	"Y"	51
+"592-6"	"zokuzoku"	"vulgar"	"RNAdj"	"T"	"vulgar"	"Y"	52
+"592-6"	"zukezuke"	"rude"	"RI"	"D"	"smug"	"Y"	53
+"592-6"	"seka"	"hasty"	"SRI"	"D"	"nonchalantly"	"Y"	54
+"592-6"	"gussuri"	"fast asleep"	"NRI"	"T"	"fast asleep"	"Y"	55
+"592-6"	"goso"	"whole"	"NRI"	"T"	"whole"	"Y"	56
+"592-6"	"kokukoku"	"harsh"	"RNAdj"	"T"	"harsh"	"Y"	57
+"592-6"	"gowagowa"	"stiff"	"RI"	"T"	"stiff"	"Y"	58
+"592-6"	"bassaribassari"	"resolute"	"RNRI"	"T"	"resolute"	"Y"	59
+"592-6"	"kiza"	"smug"	"NAdj"	"T"	"smug"	"Y"	60
+"592-6"	"muchamucha"	"rash"	"RNAdj"	"T"	"rash"	"Y"	61
+"592-6"	"gara"	"to change ocmpletely"	"NRI"	"T"	"to change ocmpletely"	"Y"	62
+"592-6"	"kabi"	"gaudy"	"NAdj"	"D"	"pure"	"Y"	63
+"592-6"	"kachinkachin"	"offended"	"RNRI"	"D"	"humid"	"Y"	64
+"592-6"	"gara"	"to change ocmpletely"	"NRI"	"D"	"agitated"	"Y"	65
+"592-6"	"seka"	"hasty"	"SRI"	"T"	"hasty"	"Y"	66
+"592-6"	"hiso"	"whispering"	"SRI"	"D"	"rash"	"Y"	67
+"592-6"	"gussuri"	"fast asleep"	"NRI"	"D"	"smooth"	"Y"	68
+"592-6"	"tokutoku"	"beneficial"	"RNAdj"	"T"	"beneficial"	"Y"	69
+"592-6"	"hikuhiku"	"agitated"	"RI"	"D"	"fast asleep"	"Y"	70
+"592-6"	"poka"	"gaping"	"NRI"	"D"	"beneficial"	"Y"	71
+"592-6"	"maremare"	"rare"	"RNAdj"	"D"	"resolute"	"Y"	72

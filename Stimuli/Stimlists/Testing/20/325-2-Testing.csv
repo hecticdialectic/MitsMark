@@ -1,0 +1,73 @@
+"Id"	"Word"	"TrueMeaning"	"WordType"	"TrialType"	"TargetMeaning"	"LegalTrial"	"TrialNum"
+"325-2"	"ukiuki"	"happy"	"RI"	"D"	"useless"	"Y"	1
+"325-2"	"fubi"	"deficient"	"NAdj"	"D"	"fat"	"Y"	2
+"325-2"	"bukubuku"	"chubby"	"RI"	"D"	"deficient"	"Y"	3
+"325-2"	"mucha"	"rash"	"NAdj"	"T"	"rash"	"Y"	4
+"325-2"	"ukiuki"	"happy"	"RI"	"T"	"happy"	"Y"	5
+"325-2"	"jimi"	"subdued"	"NAdj"	"D"	"tasteless"	"Y"	6
+"325-2"	"muku"	"pure"	"NAdj"	"T"	"pure"	"Y"	7
+"325-2"	"potchari"	"plump"	"NRI"	"D"	"rash"	"Y"	8
+"325-2"	"pata"	"sudden"	"NRI"	"D"	"harsh"	"Y"	9
+"325-2"	"kakkiri"	"exact"	"NRI"	"D"	"noisy"	"Y"	10
+"325-2"	"gaku"	"dejected"	"NRI"	"T"	"dejected"	"Y"	11
+"325-2"	"hisohiso"	"whispering"	"RI"	"T"	"whispering"	"Y"	12
+"325-2"	"debudebu"	"fat"	"RI"	"T"	"fat"	"Y"	13
+"325-2"	"hisohiso"	"whispering"	"RI"	"D"	"fragile"	"Y"	14
+"325-2"	"hiku"	"agitated"	"SRI"	"D"	"plump"	"Y"	15
+"325-2"	"kabi"	"gaudy"	"NAdj"	"T"	"gaudy"	"Y"	16
+"325-2"	"gowa"	"stiff"	"SRI"	"D"	"fast asleep"	"Y"	17
+"325-2"	"kukkirikukkiri"	"clear"	"RNRI"	"D"	"sloppy"	"Y"	18
+"325-2"	"furi"	"disadvantaged"	"NAdj"	"D"	"shivering"	"Y"	19
+"325-2"	"kachinkachin"	"offended"	"RNRI"	"D"	"dejected"	"Y"	20
+"325-2"	"kibi"	"energetic"	"SRI"	"D"	"offended"	"Y"	21
+"325-2"	"yawayawa"	"fragile"	"RNAdj"	"D"	"sudden"	"Y"	22
+"325-2"	"muku"	"pure"	"NAdj"	"D"	"resolute"	"Y"	23
+"325-2"	"gowa"	"stiff"	"SRI"	"T"	"stiff"	"Y"	24
+"325-2"	"seka"	"hasty"	"SRI"	"D"	"gaudy"	"Y"	25
+"325-2"	"seka"	"hasty"	"SRI"	"T"	"hasty"	"Y"	26
+"325-2"	"kakkiri"	"exact"	"NRI"	"T"	"exact"	"Y"	27
+"325-2"	"mucha"	"rash"	"NAdj"	"D"	"to change ocmpletely"	"Y"	28
+"325-2"	"himahima"	"free"	"RNAdj"	"D"	"wobbly"	"Y"	29
+"325-2"	"furi"	"disadvantaged"	"NAdj"	"T"	"disadvantaged"	"Y"	30
+"325-2"	"yaboyabo"	"tasteless"	"RNAdj"	"T"	"tasteless"	"Y"	31
+"325-2"	"boro"	"worn out"	"SRI"	"T"	"worn out"	"Y"	32
+"325-2"	"garagara"	"to change ocmpletely"	"RNRI"	"T"	"to change ocmpletely"	"Y"	33
+"325-2"	"debudebu"	"fat"	"RI"	"D"	"pure"	"Y"	34
+"325-2"	"gaku"	"dejected"	"NRI"	"D"	"happy"	"Y"	35
+"325-2"	"zatsuzatsu"	"sloppy"	"RNAdj"	"D"	"stiff"	"Y"	36
+"325-2"	"kabi"	"gaudy"	"NAdj"	"D"	"free"	"Y"	37
+"325-2"	"bassaribassari"	"resolute"	"RNRI"	"D"	"whispering"	"Y"	38
+"325-2"	"pata"	"sudden"	"NRI"	"T"	"sudden"	"Y"	39
+"325-2"	"gussuri"	"fast asleep"	"NRI"	"T"	"fast asleep"	"Y"	40
+"325-2"	"kokukoku"	"harsh"	"RNAdj"	"T"	"harsh"	"Y"	41
+"325-2"	"musumusu"	"sullen"	"RNRI"	"T"	"sullen"	"Y"	42
+"325-2"	"gosogoso"	"whole"	"RNRI"	"T"	"whole"	"Y"	43
+"325-2"	"kibi"	"energetic"	"SRI"	"T"	"energetic"	"Y"	44
+"325-2"	"yaboyabo"	"tasteless"	"RNAdj"	"D"	"worn out"	"Y"	45
+"325-2"	"buruburu"	"shivering"	"RI"	"D"	"agitated"	"Y"	46
+"325-2"	"himahima"	"free"	"RNAdj"	"T"	"free"	"Y"	47
+"325-2"	"potchari"	"plump"	"NRI"	"T"	"plump"	"Y"	48
+"325-2"	"garagara"	"to change ocmpletely"	"RNRI"	"D"	"whole"	"Y"	49
+"325-2"	"kukkirikukkiri"	"clear"	"RNRI"	"T"	"clear"	"Y"	50
+"325-2"	"buruburu"	"shivering"	"RI"	"T"	"shivering"	"Y"	51
+"325-2"	"gayagaya"	"noisy"	"RI"	"T"	"noisy"	"Y"	52
+"325-2"	"boro"	"worn out"	"SRI"	"D"	"smooth"	"Y"	53
+"325-2"	"yawayawa"	"fragile"	"RNAdj"	"T"	"fragile"	"Y"	54
+"325-2"	"bassaribassari"	"resolute"	"RNRI"	"T"	"resolute"	"Y"	55
+"325-2"	"nopperi"	"smooth"	"NRI"	"T"	"smooth"	"Y"	56
+"325-2"	"hiku"	"agitated"	"SRI"	"T"	"agitated"	"Y"	57
+"325-2"	"yura"	"wobbly"	"SRI"	"D"	"subdued"	"Y"	58
+"325-2"	"bukubuku"	"chubby"	"RI"	"T"	"chubby"	"Y"	59
+"325-2"	"damedame"	"useless"	"RNAdj"	"D"	"energetic"	"Y"	60
+"325-2"	"zatsuzatsu"	"sloppy"	"RNAdj"	"T"	"sloppy"	"Y"	61
+"325-2"	"damedame"	"useless"	"RNAdj"	"T"	"useless"	"Y"	62
+"325-2"	"nopperi"	"smooth"	"NRI"	"D"	"disadvantaged"	"Y"	63
+"325-2"	"yura"	"wobbly"	"SRI"	"T"	"wobbly"	"Y"	64
+"325-2"	"kokukoku"	"harsh"	"RNAdj"	"D"	"exact"	"Y"	65
+"325-2"	"gayagaya"	"noisy"	"RI"	"D"	"chubby"	"Y"	66
+"325-2"	"gosogoso"	"whole"	"RNRI"	"D"	"sullen"	"Y"	67
+"325-2"	"jimi"	"subdued"	"NAdj"	"T"	"subdued"	"Y"	68
+"325-2"	"fubi"	"deficient"	"NAdj"	"T"	"deficient"	"Y"	69
+"325-2"	"gussuri"	"fast asleep"	"NRI"	"D"	"clear"	"Y"	70
+"325-2"	"musumusu"	"sullen"	"RNRI"	"D"	"hasty"	"Y"	71
+"325-2"	"kachinkachin"	"offended"	"RNRI"	"T"	"offended"	"Y"	72

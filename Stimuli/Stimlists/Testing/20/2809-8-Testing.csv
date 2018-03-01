@@ -1,0 +1,73 @@
+"Id"	"Word"	"TrueMeaning"	"WordType"	"TrialType"	"TargetMeaning"	"LegalTrial"	"TrialNum"
+"2809-8"	"gocha"	"messy"	"SRI"	"D"	"vulgar"	"Y"	1
+"2809-8"	"furifuri"	"disadvantaged"	"RNAdj"	"D"	"smooth"	"Y"	2
+"2809-8"	"potchari"	"plump"	"NRI"	"T"	"plump"	"Y"	3
+"2809-8"	"hikuhiku"	"agitated"	"RI"	"T"	"agitated"	"Y"	4
+"2809-8"	"pokapoka"	"gaping"	"RNRI"	"T"	"gaping"	"Y"	5
+"2809-8"	"kabi"	"gaudy"	"NAdj"	"D"	"clear"	"Y"	6
+"2809-8"	"hikuhiku"	"agitated"	"RI"	"D"	"energetic"	"Y"	7
+"2809-8"	"muchamucha"	"rash"	"RNAdj"	"T"	"rash"	"Y"	8
+"2809-8"	"kibi"	"energetic"	"SRI"	"D"	"plump"	"Y"	9
+"2809-8"	"jimi"	"subdued"	"NAdj"	"T"	"subdued"	"Y"	10
+"2809-8"	"potchari"	"plump"	"NRI"	"D"	"resolute"	"Y"	11
+"2809-8"	"yura"	"wobbly"	"SRI"	"T"	"wobbly"	"Y"	12
+"2809-8"	"pisha"	"decisive"	"NRI"	"D"	"worn out"	"Y"	13
+"2809-8"	"gussurigussuri"	"fast asleep"	"RNRI"	"T"	"fast asleep"	"Y"	14
+"2809-8"	"harahara"	"suspenseful"	"RI"	"D"	"exact"	"Y"	15
+"2809-8"	"himahima"	"free"	"RNAdj"	"D"	"comfortable"	"Y"	16
+"2809-8"	"harahara"	"suspenseful"	"RI"	"T"	"suspenseful"	"Y"	17
+"2809-8"	"bukubuku"	"chubby"	"RI"	"D"	"free"	"Y"	18
+"2809-8"	"nopperinopperi"	"smooth"	"RNRI"	"D"	"happy"	"Y"	19
+"2809-8"	"nopperinopperi"	"smooth"	"RNRI"	"T"	"smooth"	"Y"	20
+"2809-8"	"yawa"	"fragile"	"NAdj"	"D"	"steaming"	"Y"	21
+"2809-8"	"dame"	"useless"	"NAdj"	"D"	"supple"	"Y"	22
+"2809-8"	"buruburu"	"shivering"	"RI"	"T"	"shivering"	"Y"	23
+"2809-8"	"gocha"	"messy"	"SRI"	"T"	"messy"	"Y"	24
+"2809-8"	"hokahoka"	"steaming"	"RI"	"T"	"steaming"	"Y"	25
+"2809-8"	"kukkirikukkiri"	"clear"	"RNRI"	"D"	"wobbly"	"Y"	26
+"2809-8"	"muchamucha"	"rash"	"RNAdj"	"D"	"disadvantaged"	"Y"	27
+"2809-8"	"yabo"	"tasteless"	"NAdj"	"D"	"nonchalantly"	"Y"	28
+"2809-8"	"tokutoku"	"beneficial"	"RNAdj"	"T"	"beneficial"	"Y"	29
+"2809-8"	"tokutoku"	"beneficial"	"RNAdj"	"D"	"agitated"	"Y"	30
+"2809-8"	"rakuraku"	"comfortable"	"RNAdj"	"D"	"careful"	"Y"	31
+"2809-8"	"gaku"	"dejected"	"NRI"	"D"	"useless"	"Y"	32
+"2809-8"	"kakkiri"	"exact"	"NRI"	"D"	"decisive"	"Y"	33
+"2809-8"	"yawa"	"fragile"	"NAdj"	"T"	"fragile"	"Y"	34
+"2809-8"	"hisohiso"	"whispering"	"RI"	"T"	"whispering"	"Y"	35
+"2809-8"	"rakuraku"	"comfortable"	"RNAdj"	"T"	"comfortable"	"Y"	36
+"2809-8"	"himahima"	"free"	"RNAdj"	"T"	"free"	"Y"	37
+"2809-8"	"yabo"	"tasteless"	"NAdj"	"T"	"tasteless"	"Y"	38
+"2809-8"	"kukkirikukkiri"	"clear"	"RNRI"	"T"	"clear"	"Y"	39
+"2809-8"	"buruburu"	"shivering"	"RI"	"D"	"suspenseful"	"Y"	40
+"2809-8"	"uki"	"happy"	"SRI"	"D"	"rash"	"Y"	41
+"2809-8"	"boro"	"worn out"	"SRI"	"T"	"worn out"	"Y"	42
+"2809-8"	"kero"	"nonchalantly"	"NRI"	"T"	"nonchalantly"	"Y"	43
+"2809-8"	"bukubuku"	"chubby"	"RI"	"T"	"chubby"	"Y"	44
+"2809-8"	"boro"	"worn out"	"SRI"	"D"	"fragile"	"Y"	45
+"2809-8"	"zoku"	"vulgar"	"NAdj"	"D"	"shivering"	"Y"	46
+"2809-8"	"yura"	"wobbly"	"SRI"	"D"	"stiff"	"Y"	47
+"2809-8"	"hokahoka"	"steaming"	"RI"	"D"	"gaping"	"Y"	48
+"2809-8"	"zoku"	"vulgar"	"NAdj"	"T"	"vulgar"	"Y"	49
+"2809-8"	"gussurigussuri"	"fast asleep"	"RNRI"	"D"	"tasteless"	"Y"	50
+"2809-8"	"shinnari"	"supple"	"NRI"	"D"	"fast asleep"	"Y"	51
+"2809-8"	"gowa"	"stiff"	"SRI"	"T"	"stiff"	"Y"	52
+"2809-8"	"uki"	"happy"	"SRI"	"T"	"happy"	"Y"	53
+"2809-8"	"pisha"	"decisive"	"NRI"	"T"	"decisive"	"Y"	54
+"2809-8"	"bassaribassari"	"resolute"	"RNRI"	"D"	"whispering"	"Y"	55
+"2809-8"	"jimi"	"subdued"	"NAdj"	"D"	"harsh"	"Y"	56
+"2809-8"	"jikkurijikkuri"	"careful"	"RNRI"	"T"	"careful"	"Y"	57
+"2809-8"	"gaku"	"dejected"	"NRI"	"T"	"dejected"	"Y"	58
+"2809-8"	"kabi"	"gaudy"	"NAdj"	"T"	"gaudy"	"Y"	59
+"2809-8"	"kakkiri"	"exact"	"NRI"	"T"	"exact"	"Y"	60
+"2809-8"	"kokukoku"	"harsh"	"RNAdj"	"T"	"harsh"	"Y"	61
+"2809-8"	"kero"	"nonchalantly"	"NRI"	"D"	"dejected"	"Y"	62
+"2809-8"	"shinnari"	"supple"	"NRI"	"T"	"supple"	"Y"	63
+"2809-8"	"dame"	"useless"	"NAdj"	"T"	"useless"	"Y"	64
+"2809-8"	"jikkurijikkuri"	"careful"	"RNRI"	"D"	"chubby"	"Y"	65
+"2809-8"	"kibi"	"energetic"	"SRI"	"T"	"energetic"	"Y"	66
+"2809-8"	"furifuri"	"disadvantaged"	"RNAdj"	"T"	"disadvantaged"	"Y"	67
+"2809-8"	"hisohiso"	"whispering"	"RI"	"D"	"subdued"	"Y"	68
+"2809-8"	"kokukoku"	"harsh"	"RNAdj"	"D"	"beneficial"	"Y"	69
+"2809-8"	"bassaribassari"	"resolute"	"RNRI"	"T"	"resolute"	"Y"	70
+"2809-8"	"pokapoka"	"gaping"	"RNRI"	"D"	"gaudy"	"Y"	71
+"2809-8"	"gowa"	"stiff"	"SRI"	"D"	"messy"	"Y"	72

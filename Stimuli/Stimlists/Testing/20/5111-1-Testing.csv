@@ -1,0 +1,73 @@
+"Id"	"Word"	"TrueMeaning"	"WordType"	"TrialType"	"TargetMeaning"	"LegalTrial"	"TrialNum"
+"5111-1"	"fubifubi"	"deficient"	"RNAdj"	"D"	"subdued"	"Y"	1
+"5111-1"	"ukiuki"	"happy"	"RI"	"D"	"glossy"	"Y"	2
+"5111-1"	"poka"	"gaping"	"NRI"	"D"	"rash"	"Y"	3
+"5111-1"	"gussurigussuri"	"fast asleep"	"RNRI"	"D"	"hesitant"	"Y"	4
+"5111-1"	"patapata"	"sudden"	"RNRI"	"D"	"vulgar"	"Y"	5
+"5111-1"	"rakuraku"	"comfortable"	"RNAdj"	"T"	"comfortable"	"Y"	6
+"5111-1"	"gara"	"to change ocmpletely"	"NRI"	"D"	"stupid"	"Y"	7
+"5111-1"	"tsuya"	"glossy"	"SRI"	"D"	"noisy"	"Y"	8
+"5111-1"	"potchari"	"plump"	"NRI"	"T"	"plump"	"Y"	9
+"5111-1"	"bassari"	"resolute"	"NRI"	"T"	"resolute"	"Y"	10
+"5111-1"	"muku"	"pure"	"NAdj"	"D"	"resolute"	"Y"	11
+"5111-1"	"poka"	"gaping"	"NRI"	"T"	"gaping"	"Y"	12
+"5111-1"	"buku"	"chubby"	"SRI"	"T"	"chubby"	"Y"	13
+"5111-1"	"furi"	"disadvantaged"	"NAdj"	"D"	"humid"	"Y"	14
+"5111-1"	"tokutoku"	"beneficial"	"RNAdj"	"T"	"beneficial"	"Y"	15
+"5111-1"	"yabo"	"tasteless"	"NAdj"	"D"	"chatty"	"Y"	16
+"5111-1"	"gara"	"to change ocmpletely"	"NRI"	"T"	"to change ocmpletely"	"Y"	17
+"5111-1"	"muchamucha"	"rash"	"RNAdj"	"D"	"careful"	"Y"	18
+"5111-1"	"gosogoso"	"whole"	"RNRI"	"T"	"whole"	"Y"	19
+"5111-1"	"boroboro"	"worn out"	"RI"	"T"	"worn out"	"Y"	20
+"5111-1"	"kibikibi"	"energetic"	"RI"	"D"	"to change ocmpletely"	"Y"	21
+"5111-1"	"jimi"	"subdued"	"NAdj"	"T"	"subdued"	"Y"	22
+"5111-1"	"furi"	"disadvantaged"	"NAdj"	"T"	"disadvantaged"	"Y"	23
+"5111-1"	"mojimoji"	"hesitant"	"RI"	"D"	"happy"	"Y"	24
+"5111-1"	"kukkiri"	"clear"	"NRI"	"D"	"whole"	"Y"	25
+"5111-1"	"rakuraku"	"comfortable"	"RNAdj"	"D"	"worn out"	"Y"	26
+"5111-1"	"mushimushi"	"humid"	"RI"	"T"	"humid"	"Y"	27
+"5111-1"	"muku"	"pure"	"NAdj"	"T"	"pure"	"Y"	28
+"5111-1"	"gashigashi"	"sturdy"	"RNRI"	"T"	"sturdy"	"Y"	29
+"5111-1"	"ukiuki"	"happy"	"RI"	"T"	"happy"	"Y"	30
+"5111-1"	"kukkiri"	"clear"	"NRI"	"T"	"clear"	"Y"	31
+"5111-1"	"dame"	"useless"	"NAdj"	"D"	"fat"	"Y"	32
+"5111-1"	"jikkurijikkuri"	"careful"	"RNRI"	"D"	"comfortable"	"Y"	33
+"5111-1"	"hiso"	"whispering"	"SRI"	"T"	"whispering"	"Y"	34
+"5111-1"	"debu"	"fat"	"SRI"	"D"	"disadvantaged"	"Y"	35
+"5111-1"	"kibikibi"	"energetic"	"RI"	"T"	"energetic"	"Y"	36
+"5111-1"	"yabo"	"tasteless"	"NAdj"	"T"	"tasteless"	"Y"	37
+"5111-1"	"kabikabi"	"gaudy"	"RNAdj"	"T"	"gaudy"	"Y"	38
+"5111-1"	"bassari"	"resolute"	"NRI"	"D"	"gaping"	"Y"	39
+"5111-1"	"musu"	"sullen"	"NRI"	"D"	"deficient"	"Y"	40
+"5111-1"	"tokutoku"	"beneficial"	"RNAdj"	"D"	"nonchalantly"	"Y"	41
+"5111-1"	"dame"	"useless"	"NAdj"	"T"	"useless"	"Y"	42
+"5111-1"	"gussurigussuri"	"fast asleep"	"RNRI"	"T"	"fast asleep"	"Y"	43
+"5111-1"	"musu"	"sullen"	"NRI"	"T"	"sullen"	"Y"	44
+"5111-1"	"bera"	"chatty"	"SRI"	"D"	"pure"	"Y"	45
+"5111-1"	"mojimoji"	"hesitant"	"RI"	"T"	"hesitant"	"Y"	46
+"5111-1"	"boroboro"	"worn out"	"RI"	"D"	"sullen"	"Y"	47
+"5111-1"	"bera"	"chatty"	"SRI"	"T"	"chatty"	"Y"	48
+"5111-1"	"kerokero"	"nonchalantly"	"RNRI"	"T"	"nonchalantly"	"Y"	49
+"5111-1"	"tsuya"	"glossy"	"SRI"	"T"	"glossy"	"Y"	50
+"5111-1"	"gaya"	"noisy"	"SRI"	"D"	"energetic"	"Y"	51
+"5111-1"	"buku"	"chubby"	"SRI"	"D"	"plump"	"Y"	52
+"5111-1"	"patapata"	"sudden"	"RNRI"	"T"	"sudden"	"Y"	53
+"5111-1"	"kerokero"	"nonchalantly"	"RNRI"	"D"	"fast asleep"	"Y"	54
+"5111-1"	"bakabaka"	"stupid"	"RNAdj"	"T"	"stupid"	"Y"	55
+"5111-1"	"jikkurijikkuri"	"careful"	"RNRI"	"T"	"careful"	"Y"	56
+"5111-1"	"kabikabi"	"gaudy"	"RNAdj"	"D"	"beneficial"	"Y"	57
+"5111-1"	"gowagowa"	"stiff"	"RI"	"D"	"clear"	"Y"	58
+"5111-1"	"jimi"	"subdued"	"NAdj"	"D"	"useless"	"Y"	59
+"5111-1"	"zoku"	"vulgar"	"NAdj"	"T"	"vulgar"	"Y"	60
+"5111-1"	"zoku"	"vulgar"	"NAdj"	"D"	"stiff"	"Y"	61
+"5111-1"	"fubifubi"	"deficient"	"RNAdj"	"T"	"deficient"	"Y"	62
+"5111-1"	"mushimushi"	"humid"	"RI"	"D"	"sturdy"	"Y"	63
+"5111-1"	"gowagowa"	"stiff"	"RI"	"T"	"stiff"	"Y"	64
+"5111-1"	"debu"	"fat"	"SRI"	"T"	"fat"	"Y"	65
+"5111-1"	"gashigashi"	"sturdy"	"RNRI"	"D"	"sudden"	"Y"	66
+"5111-1"	"muchamucha"	"rash"	"RNAdj"	"T"	"rash"	"Y"	67
+"5111-1"	"potchari"	"plump"	"NRI"	"D"	"tasteless"	"Y"	68
+"5111-1"	"gosogoso"	"whole"	"RNRI"	"D"	"chubby"	"Y"	69
+"5111-1"	"bakabaka"	"stupid"	"RNAdj"	"D"	"whispering"	"Y"	70
+"5111-1"	"gaya"	"noisy"	"SRI"	"T"	"noisy"	"Y"	71
+"5111-1"	"hiso"	"whispering"	"SRI"	"D"	"gaudy"	"Y"	72

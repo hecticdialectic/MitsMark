@@ -1,0 +1,73 @@
+"Id"	"Word"	"TrueMeaning"	"WordType"	"TrialType"	"TargetMeaning"	"LegalTrial"	"TrialNum"
+"592-2"	"kabi"	"gaudy"	"NAdj"	"D"	"humid"	"Y"	1
+"592-2"	"seka"	"hasty"	"SRI"	"D"	"gaudy"	"Y"	2
+"592-2"	"hikuhiku"	"agitated"	"RI"	"T"	"agitated"	"Y"	3
+"592-2"	"nopperi"	"smooth"	"NRI"	"T"	"smooth"	"Y"	4
+"592-2"	"debudebu"	"fat"	"RI"	"T"	"fat"	"Y"	5
+"592-2"	"kabi"	"gaudy"	"NAdj"	"T"	"gaudy"	"Y"	6
+"592-2"	"buru"	"shivering"	"SRI"	"D"	"rash"	"Y"	7
+"592-2"	"musumusu"	"sullen"	"RNRI"	"D"	"suspenseful"	"Y"	8
+"592-2"	"zokuzoku"	"vulgar"	"RNAdj"	"T"	"vulgar"	"Y"	9
+"592-2"	"zukezuke"	"rude"	"RI"	"T"	"rude"	"Y"	10
+"592-2"	"yura"	"wobbly"	"SRI"	"T"	"wobbly"	"Y"	11
+"592-2"	"kokukoku"	"harsh"	"RNAdj"	"D"	"wobbly"	"Y"	12
+"592-2"	"pishapisha"	"decisive"	"RNRI"	"T"	"decisive"	"Y"	13
+"592-2"	"kibi"	"energetic"	"SRI"	"D"	"nonchalantly"	"Y"	14
+"592-2"	"muchamucha"	"rash"	"RNAdj"	"T"	"rash"	"Y"	15
+"592-2"	"kiza"	"smug"	"NAdj"	"T"	"smug"	"Y"	16
+"592-2"	"kerokero"	"nonchalantly"	"RNRI"	"T"	"nonchalantly"	"Y"	17
+"592-2"	"gussuri"	"fast asleep"	"NRI"	"D"	"sloppy"	"Y"	18
+"592-2"	"musumusu"	"sullen"	"RNRI"	"T"	"sullen"	"Y"	19
+"592-2"	"tokutoku"	"beneficial"	"RNAdj"	"T"	"beneficial"	"Y"	20
+"592-2"	"muri"	"impossible"	"NAdj"	"T"	"impossible"	"Y"	21
+"592-2"	"debudebu"	"fat"	"RI"	"D"	"decisive"	"Y"	22
+"592-2"	"zatsu"	"sloppy"	"NAdj"	"T"	"sloppy"	"Y"	23
+"592-2"	"poka"	"gaping"	"NRI"	"D"	"rude"	"Y"	24
+"592-2"	"kakkiri"	"exact"	"NRI"	"D"	"fat"	"Y"	25
+"592-2"	"poka"	"gaping"	"NRI"	"T"	"gaping"	"Y"	26
+"592-2"	"gakugaku"	"dejected"	"RNRI"	"T"	"dejected"	"Y"	27
+"592-2"	"kokukoku"	"harsh"	"RNAdj"	"T"	"harsh"	"Y"	28
+"592-2"	"seka"	"hasty"	"SRI"	"T"	"hasty"	"Y"	29
+"592-2"	"mukumuku"	"pure"	"RNAdj"	"T"	"pure"	"Y"	30
+"592-2"	"gara"	"to change ocmpletely"	"NRI"	"D"	"whispering"	"Y"	31
+"592-2"	"nopperi"	"smooth"	"NRI"	"D"	"pure"	"Y"	32
+"592-2"	"kakkiri"	"exact"	"NRI"	"T"	"exact"	"Y"	33
+"592-2"	"pishapisha"	"decisive"	"RNRI"	"D"	"noisy"	"Y"	34
+"592-2"	"zatsu"	"sloppy"	"NAdj"	"D"	"agitated"	"Y"	35
+"592-2"	"gaya"	"noisy"	"SRI"	"D"	"fast asleep"	"Y"	36
+"592-2"	"bassaribassari"	"resolute"	"RNRI"	"D"	"vulgar"	"Y"	37
+"592-2"	"yura"	"wobbly"	"SRI"	"D"	"smooth"	"Y"	38
+"592-2"	"kerokero"	"nonchalantly"	"RNRI"	"D"	"sullen"	"Y"	39
+"592-2"	"harahara"	"suspenseful"	"RI"	"D"	"harsh"	"Y"	40
+"592-2"	"zokuzoku"	"vulgar"	"RNAdj"	"D"	"energetic"	"Y"	41
+"592-2"	"maremare"	"rare"	"RNAdj"	"T"	"rare"	"Y"	42
+"592-2"	"bassaribassari"	"resolute"	"RNRI"	"T"	"resolute"	"Y"	43
+"592-2"	"mushimushi"	"humid"	"RI"	"T"	"humid"	"Y"	44
+"592-2"	"hiso"	"whispering"	"SRI"	"T"	"whispering"	"Y"	45
+"592-2"	"muri"	"impossible"	"NAdj"	"D"	"free"	"Y"	46
+"592-2"	"gowagowa"	"stiff"	"RI"	"D"	"stupid"	"Y"	47
+"592-2"	"baka"	"stupid"	"NAdj"	"D"	"stiff"	"Y"	48
+"592-2"	"baka"	"stupid"	"NAdj"	"T"	"stupid"	"Y"	49
+"592-2"	"kachinkachin"	"offended"	"RNRI"	"D"	"shivering"	"Y"	50
+"592-2"	"harahara"	"suspenseful"	"RI"	"T"	"suspenseful"	"Y"	51
+"592-2"	"goso"	"whole"	"NRI"	"T"	"whole"	"Y"	52
+"592-2"	"gussuri"	"fast asleep"	"NRI"	"T"	"fast asleep"	"Y"	53
+"592-2"	"gowagowa"	"stiff"	"RI"	"T"	"stiff"	"Y"	54
+"592-2"	"zukezuke"	"rude"	"RI"	"D"	"whole"	"Y"	55
+"592-2"	"hiso"	"whispering"	"SRI"	"D"	"resolute"	"Y"	56
+"592-2"	"muchamucha"	"rash"	"RNAdj"	"D"	"gaping"	"Y"	57
+"592-2"	"tokutoku"	"beneficial"	"RNAdj"	"D"	"offended"	"Y"	58
+"592-2"	"buru"	"shivering"	"SRI"	"T"	"shivering"	"Y"	59
+"592-2"	"hima"	"free"	"NAdj"	"D"	"beneficial"	"Y"	60
+"592-2"	"kibi"	"energetic"	"SRI"	"T"	"energetic"	"Y"	61
+"592-2"	"kachinkachin"	"offended"	"RNRI"	"T"	"offended"	"Y"	62
+"592-2"	"mushimushi"	"humid"	"RI"	"D"	"smug"	"Y"	63
+"592-2"	"hikuhiku"	"agitated"	"RI"	"D"	"rare"	"Y"	64
+"592-2"	"gara"	"to change ocmpletely"	"NRI"	"T"	"to change ocmpletely"	"Y"	65
+"592-2"	"gaya"	"noisy"	"SRI"	"T"	"noisy"	"Y"	66
+"592-2"	"maremare"	"rare"	"RNAdj"	"D"	"hasty"	"Y"	67
+"592-2"	"hima"	"free"	"NAdj"	"T"	"free"	"Y"	68
+"592-2"	"gakugaku"	"dejected"	"RNRI"	"D"	"to change ocmpletely"	"Y"	69
+"592-2"	"mukumuku"	"pure"	"RNAdj"	"D"	"exact"	"Y"	70
+"592-2"	"kiza"	"smug"	"NAdj"	"D"	"impossible"	"Y"	71
+"592-2"	"goso"	"whole"	"NRI"	"D"	"dejected"	"Y"	72

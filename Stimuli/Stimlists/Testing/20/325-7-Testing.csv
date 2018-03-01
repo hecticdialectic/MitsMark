@@ -1,0 +1,73 @@
+"Id"	"Word"	"TrueMeaning"	"WordType"	"TrialType"	"TargetMeaning"	"LegalTrial"	"TrialNum"
+"325-7"	"jimi"	"subdued"	"NAdj"	"D"	"free"	"Y"	1
+"325-7"	"kibi"	"energetic"	"SRI"	"T"	"energetic"	"Y"	2
+"325-7"	"gosogoso"	"whole"	"RNRI"	"T"	"whole"	"Y"	3
+"325-7"	"nopperi"	"smooth"	"NRI"	"T"	"smooth"	"Y"	4
+"325-7"	"gussuri"	"fast asleep"	"NRI"	"T"	"fast asleep"	"Y"	5
+"325-7"	"seka"	"hasty"	"SRI"	"D"	"fast asleep"	"Y"	6
+"325-7"	"jimi"	"subdued"	"NAdj"	"T"	"subdued"	"Y"	7
+"325-7"	"mucha"	"rash"	"NAdj"	"T"	"rash"	"Y"	8
+"325-7"	"yawayawa"	"fragile"	"RNAdj"	"T"	"fragile"	"Y"	9
+"325-7"	"kabi"	"gaudy"	"NAdj"	"T"	"gaudy"	"Y"	10
+"325-7"	"himahima"	"free"	"RNAdj"	"T"	"free"	"Y"	11
+"325-7"	"kakkiri"	"exact"	"NRI"	"D"	"hasty"	"Y"	12
+"325-7"	"yaboyabo"	"tasteless"	"RNAdj"	"T"	"tasteless"	"Y"	13
+"325-7"	"muku"	"pure"	"NAdj"	"T"	"pure"	"Y"	14
+"325-7"	"garagara"	"to change ocmpletely"	"RNRI"	"D"	"resolute"	"Y"	15
+"325-7"	"debudebu"	"fat"	"RI"	"D"	"whole"	"Y"	16
+"325-7"	"gaku"	"dejected"	"NRI"	"D"	"clear"	"Y"	17
+"325-7"	"muku"	"pure"	"NAdj"	"D"	"smooth"	"Y"	18
+"325-7"	"kukkirikukkiri"	"clear"	"RNRI"	"D"	"subdued"	"Y"	19
+"325-7"	"bukubuku"	"chubby"	"RI"	"D"	"agitated"	"Y"	20
+"325-7"	"bassaribassari"	"resolute"	"RNRI"	"D"	"wobbly"	"Y"	21
+"325-7"	"zatsuzatsu"	"sloppy"	"RNAdj"	"D"	"useless"	"Y"	22
+"325-7"	"mucha"	"rash"	"NAdj"	"D"	"sloppy"	"Y"	23
+"325-7"	"hisohiso"	"whispering"	"RI"	"D"	"rash"	"Y"	24
+"325-7"	"zatsuzatsu"	"sloppy"	"RNAdj"	"T"	"sloppy"	"Y"	25
+"325-7"	"furi"	"disadvantaged"	"NAdj"	"T"	"disadvantaged"	"Y"	26
+"325-7"	"kibi"	"energetic"	"SRI"	"D"	"stiff"	"Y"	27
+"325-7"	"fubi"	"deficient"	"NAdj"	"D"	"chubby"	"Y"	28
+"325-7"	"kukkirikukkiri"	"clear"	"RNRI"	"T"	"clear"	"Y"	29
+"325-7"	"boro"	"worn out"	"SRI"	"T"	"worn out"	"Y"	30
+"325-7"	"pata"	"sudden"	"NRI"	"T"	"sudden"	"Y"	31
+"325-7"	"potchari"	"plump"	"NRI"	"D"	"disadvantaged"	"Y"	32
+"325-7"	"gussuri"	"fast asleep"	"NRI"	"D"	"fragile"	"Y"	33
+"325-7"	"gayagaya"	"noisy"	"RI"	"T"	"noisy"	"Y"	34
+"325-7"	"buruburu"	"shivering"	"RI"	"D"	"happy"	"Y"	35
+"325-7"	"yawayawa"	"fragile"	"RNAdj"	"D"	"worn out"	"Y"	36
+"325-7"	"furi"	"disadvantaged"	"NAdj"	"D"	"exact"	"Y"	37
+"325-7"	"kabi"	"gaudy"	"NAdj"	"D"	"whispering"	"Y"	38
+"325-7"	"kachinkachin"	"offended"	"RNRI"	"T"	"offended"	"Y"	39
+"325-7"	"ukiuki"	"happy"	"RI"	"T"	"happy"	"Y"	40
+"325-7"	"nopperi"	"smooth"	"NRI"	"D"	"noisy"	"Y"	41
+"325-7"	"ukiuki"	"happy"	"RI"	"D"	"gaudy"	"Y"	42
+"325-7"	"potchari"	"plump"	"NRI"	"T"	"plump"	"Y"	43
+"325-7"	"gowa"	"stiff"	"SRI"	"D"	"offended"	"Y"	44
+"325-7"	"garagara"	"to change ocmpletely"	"RNRI"	"T"	"to change ocmpletely"	"Y"	45
+"325-7"	"yura"	"wobbly"	"SRI"	"T"	"wobbly"	"Y"	46
+"325-7"	"boro"	"worn out"	"SRI"	"D"	"shivering"	"Y"	47
+"325-7"	"himahima"	"free"	"RNAdj"	"D"	"deficient"	"Y"	48
+"325-7"	"hiku"	"agitated"	"SRI"	"T"	"agitated"	"Y"	49
+"325-7"	"seka"	"hasty"	"SRI"	"T"	"hasty"	"Y"	50
+"325-7"	"yaboyabo"	"tasteless"	"RNAdj"	"D"	"dejected"	"Y"	51
+"325-7"	"bukubuku"	"chubby"	"RI"	"T"	"chubby"	"Y"	52
+"325-7"	"kachinkachin"	"offended"	"RNRI"	"D"	"plump"	"Y"	53
+"325-7"	"gaku"	"dejected"	"NRI"	"T"	"dejected"	"Y"	54
+"325-7"	"damedame"	"useless"	"RNAdj"	"T"	"useless"	"Y"	55
+"325-7"	"musumusu"	"sullen"	"RNRI"	"D"	"harsh"	"Y"	56
+"325-7"	"gayagaya"	"noisy"	"RI"	"D"	"pure"	"Y"	57
+"325-7"	"pata"	"sudden"	"NRI"	"D"	"fat"	"Y"	58
+"325-7"	"gosogoso"	"whole"	"RNRI"	"D"	"sullen"	"Y"	59
+"325-7"	"kakkiri"	"exact"	"NRI"	"T"	"exact"	"Y"	60
+"325-7"	"gowa"	"stiff"	"SRI"	"T"	"stiff"	"Y"	61
+"325-7"	"buruburu"	"shivering"	"RI"	"T"	"shivering"	"Y"	62
+"325-7"	"yura"	"wobbly"	"SRI"	"D"	"sudden"	"Y"	63
+"325-7"	"musumusu"	"sullen"	"RNRI"	"T"	"sullen"	"Y"	64
+"325-7"	"hisohiso"	"whispering"	"RI"	"T"	"whispering"	"Y"	65
+"325-7"	"bassaribassari"	"resolute"	"RNRI"	"T"	"resolute"	"Y"	66
+"325-7"	"debudebu"	"fat"	"RI"	"T"	"fat"	"Y"	67
+"325-7"	"hiku"	"agitated"	"SRI"	"D"	"tasteless"	"Y"	68
+"325-7"	"fubi"	"deficient"	"NAdj"	"T"	"deficient"	"Y"	69
+"325-7"	"kokukoku"	"harsh"	"RNAdj"	"T"	"harsh"	"Y"	70
+"325-7"	"kokukoku"	"harsh"	"RNAdj"	"D"	"to change ocmpletely"	"Y"	71
+"325-7"	"damedame"	"useless"	"RNAdj"	"D"	"energetic"	"Y"	72

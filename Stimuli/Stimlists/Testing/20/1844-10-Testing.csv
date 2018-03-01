@@ -1,0 +1,73 @@
+"Id"	"Word"	"TrueMeaning"	"WordType"	"TrialType"	"TargetMeaning"	"LegalTrial"	"TrialNum"
+"1844-10"	"muri"	"impossible"	"NAdj"	"T"	"impossible"	"Y"	1
+"1844-10"	"kiza"	"smug"	"NAdj"	"T"	"smug"	"Y"	2
+"1844-10"	"muri"	"impossible"	"NAdj"	"D"	"excessive"	"Y"	3
+"1844-10"	"musumusu"	"sullen"	"RNRI"	"D"	"chubby"	"Y"	4
+"1844-10"	"berabera"	"chatty"	"RI"	"D"	"to change ocmpletely"	"Y"	5
+"1844-10"	"hiku"	"agitated"	"SRI"	"T"	"agitated"	"Y"	6
+"1844-10"	"yaboyabo"	"tasteless"	"RNAdj"	"T"	"tasteless"	"Y"	7
+"1844-10"	"jikkuri"	"careful"	"NRI"	"T"	"careful"	"Y"	8
+"1844-10"	"gochagocha"	"messy"	"RI"	"T"	"messy"	"Y"	9
+"1844-10"	"mushimushi"	"humid"	"RI"	"D"	"impossible"	"Y"	10
+"1844-10"	"hiku"	"agitated"	"SRI"	"D"	"careful"	"Y"	11
+"1844-10"	"buku"	"chubby"	"SRI"	"T"	"chubby"	"Y"	12
+"1844-10"	"shinnarishinnari"	"supple"	"RNRI"	"D"	"dejected"	"Y"	13
+"1844-10"	"dame"	"useless"	"NAdj"	"D"	"deficient"	"Y"	14
+"1844-10"	"muchamucha"	"rash"	"RNAdj"	"D"	"offended"	"Y"	15
+"1844-10"	"kiza"	"smug"	"NAdj"	"D"	"stupid"	"Y"	16
+"1844-10"	"zuke"	"rude"	"SRI"	"D"	"sudden"	"Y"	17
+"1844-10"	"boroboro"	"worn out"	"RI"	"T"	"worn out"	"Y"	18
+"1844-10"	"shinnarishinnari"	"supple"	"RNRI"	"T"	"supple"	"Y"	19
+"1844-10"	"mushimushi"	"humid"	"RI"	"T"	"humid"	"Y"	20
+"1844-10"	"potchari"	"plump"	"NRI"	"T"	"plump"	"Y"	21
+"1844-10"	"pokapoka"	"gaping"	"RNRI"	"T"	"gaping"	"Y"	22
+"1844-10"	"potchari"	"plump"	"NRI"	"D"	"stiff"	"Y"	23
+"1844-10"	"pokapoka"	"gaping"	"RNRI"	"D"	"wobbly"	"Y"	24
+"1844-10"	"yurayura"	"wobbly"	"RI"	"D"	"gaping"	"Y"	25
+"1844-10"	"gara"	"to change ocmpletely"	"NRI"	"T"	"to change ocmpletely"	"Y"	26
+"1844-10"	"zatsuzatsu"	"sloppy"	"RNAdj"	"D"	"beneficial"	"Y"	27
+"1844-10"	"ukiuki"	"happy"	"RI"	"T"	"happy"	"Y"	28
+"1844-10"	"jikkuri"	"careful"	"NRI"	"D"	"nonchalantly"	"Y"	29
+"1844-10"	"zoku"	"vulgar"	"NAdj"	"T"	"vulgar"	"Y"	30
+"1844-10"	"rakuraku"	"comfortable"	"RNAdj"	"T"	"comfortable"	"Y"	31
+"1844-10"	"zoku"	"vulgar"	"NAdj"	"D"	"sloppy"	"Y"	32
+"1844-10"	"zuke"	"rude"	"SRI"	"T"	"rude"	"Y"	33
+"1844-10"	"berabera"	"chatty"	"RI"	"T"	"chatty"	"Y"	34
+"1844-10"	"buku"	"chubby"	"SRI"	"D"	"rash"	"Y"	35
+"1844-10"	"bisshiri"	"crowded"	"NRI"	"D"	"suspenseful"	"Y"	36
+"1844-10"	"toku"	"beneficial"	"NAdj"	"T"	"beneficial"	"Y"	37
+"1844-10"	"dame"	"useless"	"NAdj"	"T"	"useless"	"Y"	38
+"1844-10"	"patapata"	"sudden"	"RNRI"	"D"	"sullen"	"Y"	39
+"1844-10"	"muchamucha"	"rash"	"RNAdj"	"T"	"rash"	"Y"	40
+"1844-10"	"gakugaku"	"dejected"	"RNRI"	"D"	"tasteless"	"Y"	41
+"1844-10"	"patapata"	"sudden"	"RNRI"	"T"	"sudden"	"Y"	42
+"1844-10"	"goso"	"whole"	"NRI"	"D"	"comfortable"	"Y"	43
+"1844-10"	"gara"	"to change ocmpletely"	"NRI"	"D"	"shivering"	"Y"	44
+"1844-10"	"kero"	"nonchalantly"	"NRI"	"D"	"useless"	"Y"	45
+"1844-10"	"musumusu"	"sullen"	"RNRI"	"T"	"sullen"	"Y"	46
+"1844-10"	"kero"	"nonchalantly"	"NRI"	"T"	"nonchalantly"	"Y"	47
+"1844-10"	"gakugaku"	"dejected"	"RNRI"	"T"	"dejected"	"Y"	48
+"1844-10"	"gowa"	"stiff"	"SRI"	"D"	"crowded"	"Y"	49
+"1844-10"	"gochagocha"	"messy"	"RI"	"D"	"worn out"	"Y"	50
+"1844-10"	"buru"	"shivering"	"SRI"	"D"	"plump"	"Y"	51
+"1844-10"	"bakabaka"	"stupid"	"RNAdj"	"T"	"stupid"	"Y"	52
+"1844-10"	"gowa"	"stiff"	"SRI"	"T"	"stiff"	"Y"	53
+"1844-10"	"boroboro"	"worn out"	"RI"	"D"	"agitated"	"Y"	54
+"1844-10"	"zatsuzatsu"	"sloppy"	"RNAdj"	"T"	"sloppy"	"Y"	55
+"1844-10"	"kado"	"excessive"	"NAdj"	"D"	"vulgar"	"Y"	56
+"1844-10"	"kachinkachin"	"offended"	"RNRI"	"T"	"offended"	"Y"	57
+"1844-10"	"bakabaka"	"stupid"	"RNAdj"	"D"	"smug"	"Y"	58
+"1844-10"	"goso"	"whole"	"NRI"	"T"	"whole"	"Y"	59
+"1844-10"	"fubifubi"	"deficient"	"RNAdj"	"D"	"chatty"	"Y"	60
+"1844-10"	"yurayura"	"wobbly"	"RI"	"T"	"wobbly"	"Y"	61
+"1844-10"	"kachinkachin"	"offended"	"RNRI"	"D"	"whole"	"Y"	62
+"1844-10"	"rakuraku"	"comfortable"	"RNAdj"	"D"	"rude"	"Y"	63
+"1844-10"	"toku"	"beneficial"	"NAdj"	"D"	"messy"	"Y"	64
+"1844-10"	"kado"	"excessive"	"NAdj"	"T"	"excessive"	"Y"	65
+"1844-10"	"bisshiri"	"crowded"	"NRI"	"T"	"crowded"	"Y"	66
+"1844-10"	"ukiuki"	"happy"	"RI"	"D"	"humid"	"Y"	67
+"1844-10"	"hara"	"suspenseful"	"SRI"	"T"	"suspenseful"	"Y"	68
+"1844-10"	"hara"	"suspenseful"	"SRI"	"D"	"happy"	"Y"	69
+"1844-10"	"buru"	"shivering"	"SRI"	"T"	"shivering"	"Y"	70
+"1844-10"	"fubifubi"	"deficient"	"RNAdj"	"T"	"deficient"	"Y"	71
+"1844-10"	"yaboyabo"	"tasteless"	"RNAdj"	"D"	"supple"	"Y"	72

@@ -1,0 +1,73 @@
+"Id"	"Word"	"TrueMeaning"	"WordType"	"TrialType"	"TargetMeaning"	"LegalTrial"	"TrialNum"
+"5699-10"	"bukubuku"	"chubby"	"RI"	"T"	"chubby"	"Y"	1
+"5699-10"	"yawayawa"	"fragile"	"RNAdj"	"D"	"useless"	"Y"	2
+"5699-10"	"uki"	"happy"	"SRI"	"D"	"stiff"	"Y"	3
+"5699-10"	"kachin"	"offended"	"NRI"	"T"	"offended"	"Y"	4
+"5699-10"	"damedame"	"useless"	"RNAdj"	"D"	"perfect"	"Y"	5
+"5699-10"	"baka"	"stupid"	"NAdj"	"T"	"stupid"	"Y"	6
+"5699-10"	"koku"	"harsh"	"NAdj"	"D"	"free"	"Y"	7
+"5699-10"	"berabera"	"chatty"	"RI"	"T"	"chatty"	"Y"	8
+"5699-10"	"rakuraku"	"comfortable"	"RNAdj"	"T"	"comfortable"	"Y"	9
+"5699-10"	"uki"	"happy"	"SRI"	"T"	"happy"	"Y"	10
+"5699-10"	"kakkirikakkiri"	"exact"	"RNRI"	"D"	"fat"	"Y"	11
+"5699-10"	"gosogoso"	"whole"	"RNRI"	"D"	"wobbly"	"Y"	12
+"5699-10"	"shinnari"	"supple"	"NRI"	"T"	"supple"	"Y"	13
+"5699-10"	"gowagowa"	"stiff"	"RI"	"D"	"excessive"	"Y"	14
+"5699-10"	"kerokero"	"nonchalantly"	"RNRI"	"D"	"offended"	"Y"	15
+"5699-10"	"kabi"	"gaudy"	"NAdj"	"T"	"gaudy"	"Y"	16
+"5699-10"	"gara"	"to change ocmpletely"	"NRI"	"D"	"vulgar"	"Y"	17
+"5699-10"	"berabera"	"chatty"	"RI"	"D"	"agitated"	"Y"	18
+"5699-10"	"seka"	"hasty"	"SRI"	"T"	"hasty"	"Y"	19
+"5699-10"	"baka"	"stupid"	"NAdj"	"D"	"chatty"	"Y"	20
+"5699-10"	"gocha"	"messy"	"SRI"	"T"	"messy"	"Y"	21
+"5699-10"	"pata"	"sudden"	"NRI"	"T"	"sudden"	"Y"	22
+"5699-10"	"debu"	"fat"	"SRI"	"T"	"fat"	"Y"	23
+"5699-10"	"yurayura"	"wobbly"	"RI"	"D"	"suspenseful"	"Y"	24
+"5699-10"	"himahima"	"free"	"RNAdj"	"T"	"free"	"Y"	25
+"5699-10"	"muku"	"pure"	"NAdj"	"T"	"pure"	"Y"	26
+"5699-10"	"rakuraku"	"comfortable"	"RNAdj"	"D"	"chubby"	"Y"	27
+"5699-10"	"hiku"	"agitated"	"SRI"	"T"	"agitated"	"Y"	28
+"5699-10"	"gocha"	"messy"	"SRI"	"D"	"exact"	"Y"	29
+"5699-10"	"gosogoso"	"whole"	"RNRI"	"T"	"whole"	"Y"	30
+"5699-10"	"musumusu"	"sullen"	"RNRI"	"D"	"worn out"	"Y"	31
+"5699-10"	"musumusu"	"sullen"	"RNRI"	"T"	"sullen"	"Y"	32
+"5699-10"	"yawayawa"	"fragile"	"RNAdj"	"T"	"fragile"	"Y"	33
+"5699-10"	"gussurigussuri"	"fast asleep"	"RNRI"	"T"	"fast asleep"	"Y"	34
+"5699-10"	"jimijimi"	"subdued"	"RNAdj"	"D"	"sullen"	"Y"	35
+"5699-10"	"seka"	"hasty"	"SRI"	"D"	"pure"	"Y"	36
+"5699-10"	"buru"	"shivering"	"SRI"	"D"	"nonchalantly"	"Y"	37
+"5699-10"	"boroboro"	"worn out"	"RI"	"T"	"worn out"	"Y"	38
+"5699-10"	"jikkurijikkuri"	"careful"	"RNRI"	"T"	"careful"	"Y"	39
+"5699-10"	"kakkirikakkiri"	"exact"	"RNRI"	"T"	"exact"	"Y"	40
+"5699-10"	"harahara"	"suspenseful"	"RI"	"T"	"suspenseful"	"Y"	41
+"5699-10"	"harahara"	"suspenseful"	"RI"	"D"	"harsh"	"Y"	42
+"5699-10"	"debu"	"fat"	"SRI"	"D"	"sturdy"	"Y"	43
+"5699-10"	"batchiri"	"perfect"	"NRI"	"T"	"perfect"	"Y"	44
+"5699-10"	"jikkurijikkuri"	"careful"	"RNRI"	"D"	"subdued"	"Y"	45
+"5699-10"	"kado"	"excessive"	"NAdj"	"T"	"excessive"	"Y"	46
+"5699-10"	"shinnari"	"supple"	"NRI"	"D"	"to change ocmpletely"	"Y"	47
+"5699-10"	"gashi"	"sturdy"	"NRI"	"D"	"fragile"	"Y"	48
+"5699-10"	"kado"	"excessive"	"NAdj"	"D"	"whole"	"Y"	49
+"5699-10"	"boroboro"	"worn out"	"RI"	"D"	"sudden"	"Y"	50
+"5699-10"	"kabi"	"gaudy"	"NAdj"	"D"	"happy"	"Y"	51
+"5699-10"	"maremare"	"rare"	"RNAdj"	"D"	"careful"	"Y"	52
+"5699-10"	"zoku"	"vulgar"	"NAdj"	"D"	"stupid"	"Y"	53
+"5699-10"	"yurayura"	"wobbly"	"RI"	"T"	"wobbly"	"Y"	54
+"5699-10"	"gashi"	"sturdy"	"NRI"	"T"	"sturdy"	"Y"	55
+"5699-10"	"himahima"	"free"	"RNAdj"	"D"	"gaudy"	"Y"	56
+"5699-10"	"kerokero"	"nonchalantly"	"RNRI"	"T"	"nonchalantly"	"Y"	57
+"5699-10"	"buru"	"shivering"	"SRI"	"T"	"shivering"	"Y"	58
+"5699-10"	"bukubuku"	"chubby"	"RI"	"D"	"fast asleep"	"Y"	59
+"5699-10"	"gowagowa"	"stiff"	"RI"	"T"	"stiff"	"Y"	60
+"5699-10"	"gussurigussuri"	"fast asleep"	"RNRI"	"D"	"comfortable"	"Y"	61
+"5699-10"	"kachin"	"offended"	"NRI"	"D"	"supple"	"Y"	62
+"5699-10"	"zoku"	"vulgar"	"NAdj"	"T"	"vulgar"	"Y"	63
+"5699-10"	"damedame"	"useless"	"RNAdj"	"T"	"useless"	"Y"	64
+"5699-10"	"muku"	"pure"	"NAdj"	"D"	"rare"	"Y"	65
+"5699-10"	"maremare"	"rare"	"RNAdj"	"T"	"rare"	"Y"	66
+"5699-10"	"gara"	"to change ocmpletely"	"NRI"	"T"	"to change ocmpletely"	"Y"	67
+"5699-10"	"pata"	"sudden"	"NRI"	"D"	"messy"	"Y"	68
+"5699-10"	"koku"	"harsh"	"NAdj"	"T"	"harsh"	"Y"	69
+"5699-10"	"hiku"	"agitated"	"SRI"	"D"	"shivering"	"Y"	70
+"5699-10"	"jimijimi"	"subdued"	"RNAdj"	"T"	"subdued"	"Y"	71
+"5699-10"	"batchiri"	"perfect"	"NRI"	"D"	"hasty"	"Y"	72

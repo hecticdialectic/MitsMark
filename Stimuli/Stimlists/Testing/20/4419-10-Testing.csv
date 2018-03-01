@@ -1,0 +1,73 @@
+"Id"	"Word"	"TrueMeaning"	"WordType"	"TrialType"	"TargetMeaning"	"LegalTrial"	"TrialNum"
+"4419-10"	"muri"	"impossible"	"NAdj"	"T"	"impossible"	"Y"	1
+"4419-10"	"bisshiri"	"crowded"	"NRI"	"D"	"worn out"	"Y"	2
+"4419-10"	"gussurigussuri"	"fast asleep"	"RNRI"	"D"	"glossy"	"Y"	3
+"4419-10"	"gussurigussuri"	"fast asleep"	"RNRI"	"T"	"fast asleep"	"Y"	4
+"4419-10"	"kokukoku"	"harsh"	"RNAdj"	"T"	"harsh"	"Y"	5
+"4419-10"	"kachinkachin"	"offended"	"RNRI"	"T"	"offended"	"Y"	6
+"4419-10"	"gara"	"to change ocmpletely"	"NRI"	"T"	"to change ocmpletely"	"Y"	7
+"4419-10"	"mojimoji"	"hesitant"	"RI"	"T"	"hesitant"	"Y"	8
+"4419-10"	"hoka"	"steaming"	"SRI"	"D"	"to change ocmpletely"	"Y"	9
+"4419-10"	"kakkiri"	"exact"	"NRI"	"D"	"sullen"	"Y"	10
+"4419-10"	"mucha"	"rash"	"NAdj"	"D"	"comfortable"	"Y"	11
+"4419-10"	"kokukoku"	"harsh"	"RNAdj"	"D"	"steaming"	"Y"	12
+"4419-10"	"sekaseka"	"hasty"	"RI"	"T"	"hasty"	"Y"	13
+"4419-10"	"kabikabi"	"gaudy"	"RNAdj"	"T"	"gaudy"	"Y"	14
+"4419-10"	"boroboro"	"worn out"	"RI"	"D"	"gaudy"	"Y"	15
+"4419-10"	"harahara"	"suspenseful"	"RI"	"D"	"exact"	"Y"	16
+"4419-10"	"kero"	"nonchalantly"	"NRI"	"D"	"useless"	"Y"	17
+"4419-10"	"kakkiri"	"exact"	"NRI"	"T"	"exact"	"Y"	18
+"4419-10"	"kado"	"excessive"	"NAdj"	"D"	"fast asleep"	"Y"	19
+"4419-10"	"rakuraku"	"comfortable"	"RNAdj"	"T"	"comfortable"	"Y"	20
+"4419-10"	"hoka"	"steaming"	"SRI"	"T"	"steaming"	"Y"	21
+"4419-10"	"yabo"	"tasteless"	"NAdj"	"D"	"hesitant"	"Y"	22
+"4419-10"	"toku"	"beneficial"	"NAdj"	"T"	"beneficial"	"Y"	23
+"4419-10"	"kado"	"excessive"	"NAdj"	"T"	"excessive"	"Y"	24
+"4419-10"	"boroboro"	"worn out"	"RI"	"T"	"worn out"	"Y"	25
+"4419-10"	"gocha"	"messy"	"SRI"	"D"	"offended"	"Y"	26
+"4419-10"	"gowagowa"	"stiff"	"RI"	"T"	"stiff"	"Y"	27
+"4419-10"	"kachinkachin"	"offended"	"RNRI"	"D"	"plump"	"Y"	28
+"4419-10"	"zatsuzatsu"	"sloppy"	"RNAdj"	"D"	"messy"	"Y"	29
+"4419-10"	"buku"	"chubby"	"SRI"	"D"	"stiff"	"Y"	30
+"4419-10"	"zatsuzatsu"	"sloppy"	"RNAdj"	"T"	"sloppy"	"Y"	31
+"4419-10"	"gocha"	"messy"	"SRI"	"T"	"messy"	"Y"	32
+"4419-10"	"tsuya"	"glossy"	"SRI"	"D"	"stupid"	"Y"	33
+"4419-10"	"batchiri"	"perfect"	"NRI"	"D"	"excessive"	"Y"	34
+"4419-10"	"kabikabi"	"gaudy"	"RNAdj"	"D"	"beneficial"	"Y"	35
+"4419-10"	"baka"	"stupid"	"NAdj"	"T"	"stupid"	"Y"	36
+"4419-10"	"bera"	"chatty"	"SRI"	"D"	"sudden"	"Y"	37
+"4419-10"	"potchari"	"plump"	"NRI"	"T"	"plump"	"Y"	38
+"4419-10"	"gara"	"to change ocmpletely"	"NRI"	"D"	"sloppy"	"Y"	39
+"4419-10"	"rakuraku"	"comfortable"	"RNAdj"	"D"	"rude"	"Y"	40
+"4419-10"	"kukkirikukkiri"	"clear"	"RNRI"	"D"	"noisy"	"Y"	41
+"4419-10"	"baka"	"stupid"	"NAdj"	"D"	"perfect"	"Y"	42
+"4419-10"	"buku"	"chubby"	"SRI"	"T"	"chubby"	"Y"	43
+"4419-10"	"sekaseka"	"hasty"	"RI"	"D"	"suspenseful"	"Y"	44
+"4419-10"	"mojimoji"	"hesitant"	"RI"	"D"	"chubby"	"Y"	45
+"4419-10"	"zuke"	"rude"	"SRI"	"D"	"fragile"	"Y"	46
+"4419-10"	"mucha"	"rash"	"NAdj"	"T"	"rash"	"Y"	47
+"4419-10"	"bisshiri"	"crowded"	"NRI"	"T"	"crowded"	"Y"	48
+"4419-10"	"patapata"	"sudden"	"RNRI"	"D"	"nonchalantly"	"Y"	49
+"4419-10"	"muri"	"impossible"	"NAdj"	"D"	"dejected"	"Y"	50
+"4419-10"	"gakugaku"	"dejected"	"RNRI"	"T"	"dejected"	"Y"	51
+"4419-10"	"bera"	"chatty"	"SRI"	"T"	"chatty"	"Y"	52
+"4419-10"	"tsuya"	"glossy"	"SRI"	"T"	"glossy"	"Y"	53
+"4419-10"	"toku"	"beneficial"	"NAdj"	"D"	"rash"	"Y"	54
+"4419-10"	"gakugaku"	"dejected"	"RNRI"	"D"	"tasteless"	"Y"	55
+"4419-10"	"damedame"	"useless"	"RNAdj"	"D"	"clear"	"Y"	56
+"4419-10"	"kero"	"nonchalantly"	"NRI"	"T"	"nonchalantly"	"Y"	57
+"4419-10"	"yawayawa"	"fragile"	"RNAdj"	"T"	"fragile"	"Y"	58
+"4419-10"	"damedame"	"useless"	"RNAdj"	"T"	"useless"	"Y"	59
+"4419-10"	"potchari"	"plump"	"NRI"	"D"	"hasty"	"Y"	60
+"4419-10"	"zuke"	"rude"	"SRI"	"T"	"rude"	"Y"	61
+"4419-10"	"musumusu"	"sullen"	"RNRI"	"D"	"chatty"	"Y"	62
+"4419-10"	"harahara"	"suspenseful"	"RI"	"T"	"suspenseful"	"Y"	63
+"4419-10"	"patapata"	"sudden"	"RNRI"	"T"	"sudden"	"Y"	64
+"4419-10"	"gayagaya"	"noisy"	"RI"	"D"	"impossible"	"Y"	65
+"4419-10"	"kukkirikukkiri"	"clear"	"RNRI"	"T"	"clear"	"Y"	66
+"4419-10"	"yabo"	"tasteless"	"NAdj"	"T"	"tasteless"	"Y"	67
+"4419-10"	"musumusu"	"sullen"	"RNRI"	"T"	"sullen"	"Y"	68
+"4419-10"	"yawayawa"	"fragile"	"RNAdj"	"D"	"harsh"	"Y"	69
+"4419-10"	"gayagaya"	"noisy"	"RI"	"T"	"noisy"	"Y"	70
+"4419-10"	"gowagowa"	"stiff"	"RI"	"D"	"crowded"	"Y"	71
+"4419-10"	"batchiri"	"perfect"	"NRI"	"T"	"perfect"	"Y"	72

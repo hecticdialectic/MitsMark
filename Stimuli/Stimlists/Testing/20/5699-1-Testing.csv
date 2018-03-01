@@ -1,0 +1,73 @@
+"Id"	"Word"	"TrueMeaning"	"WordType"	"TrialType"	"TargetMeaning"	"LegalTrial"	"TrialNum"
+"5699-1"	"kachin"	"offended"	"NRI"	"T"	"offended"	"Y"	1
+"5699-1"	"gowagowa"	"stiff"	"RI"	"D"	"vulgar"	"Y"	2
+"5699-1"	"gara"	"to change ocmpletely"	"NRI"	"T"	"to change ocmpletely"	"Y"	3
+"5699-1"	"uki"	"happy"	"SRI"	"D"	"rare"	"Y"	4
+"5699-1"	"harahara"	"suspenseful"	"RI"	"T"	"suspenseful"	"Y"	5
+"5699-1"	"bukubuku"	"chubby"	"RI"	"D"	"stiff"	"Y"	6
+"5699-1"	"seka"	"hasty"	"SRI"	"D"	"harsh"	"Y"	7
+"5699-1"	"harahara"	"suspenseful"	"RI"	"D"	"happy"	"Y"	8
+"5699-1"	"shinnari"	"supple"	"NRI"	"T"	"supple"	"Y"	9
+"5699-1"	"gussurigussuri"	"fast asleep"	"RNRI"	"T"	"fast asleep"	"Y"	10
+"5699-1"	"gussurigussuri"	"fast asleep"	"RNRI"	"D"	"hasty"	"Y"	11
+"5699-1"	"kakkirikakkiri"	"exact"	"RNRI"	"T"	"exact"	"Y"	12
+"5699-1"	"baka"	"stupid"	"NAdj"	"T"	"stupid"	"Y"	13
+"5699-1"	"berabera"	"chatty"	"RI"	"T"	"chatty"	"Y"	14
+"5699-1"	"berabera"	"chatty"	"RI"	"D"	"comfortable"	"Y"	15
+"5699-1"	"bukubuku"	"chubby"	"RI"	"T"	"chubby"	"Y"	16
+"5699-1"	"boroboro"	"worn out"	"RI"	"T"	"worn out"	"Y"	17
+"5699-1"	"musumusu"	"sullen"	"RNRI"	"T"	"sullen"	"Y"	18
+"5699-1"	"uki"	"happy"	"SRI"	"T"	"happy"	"Y"	19
+"5699-1"	"kerokero"	"nonchalantly"	"RNRI"	"D"	"careful"	"Y"	20
+"5699-1"	"boroboro"	"worn out"	"RI"	"D"	"exact"	"Y"	21
+"5699-1"	"shinnari"	"supple"	"NRI"	"D"	"sturdy"	"Y"	22
+"5699-1"	"gashi"	"sturdy"	"NRI"	"D"	"to change ocmpletely"	"Y"	23
+"5699-1"	"kado"	"excessive"	"NAdj"	"T"	"excessive"	"Y"	24
+"5699-1"	"kabi"	"gaudy"	"NAdj"	"T"	"gaudy"	"Y"	25
+"5699-1"	"damedame"	"useless"	"RNAdj"	"T"	"useless"	"Y"	26
+"5699-1"	"muku"	"pure"	"NAdj"	"T"	"pure"	"Y"	27
+"5699-1"	"hiku"	"agitated"	"SRI"	"T"	"agitated"	"Y"	28
+"5699-1"	"jimijimi"	"subdued"	"RNAdj"	"T"	"subdued"	"Y"	29
+"5699-1"	"kachin"	"offended"	"NRI"	"D"	"useless"	"Y"	30
+"5699-1"	"pata"	"sudden"	"NRI"	"T"	"sudden"	"Y"	31
+"5699-1"	"musumusu"	"sullen"	"RNRI"	"D"	"sudden"	"Y"	32
+"5699-1"	"gocha"	"messy"	"SRI"	"T"	"messy"	"Y"	33
+"5699-1"	"seka"	"hasty"	"SRI"	"T"	"hasty"	"Y"	34
+"5699-1"	"batchiri"	"perfect"	"NRI"	"T"	"perfect"	"Y"	35
+"5699-1"	"maremare"	"rare"	"RNAdj"	"D"	"agitated"	"Y"	36
+"5699-1"	"jimijimi"	"subdued"	"RNAdj"	"D"	"chatty"	"Y"	37
+"5699-1"	"buru"	"shivering"	"SRI"	"D"	"chubby"	"Y"	38
+"5699-1"	"debu"	"fat"	"SRI"	"D"	"suspenseful"	"Y"	39
+"5699-1"	"gosogoso"	"whole"	"RNRI"	"D"	"pure"	"Y"	40
+"5699-1"	"rakuraku"	"comfortable"	"RNAdj"	"D"	"gaudy"	"Y"	41
+"5699-1"	"yurayura"	"wobbly"	"RI"	"T"	"wobbly"	"Y"	42
+"5699-1"	"kerokero"	"nonchalantly"	"RNRI"	"T"	"nonchalantly"	"Y"	43
+"5699-1"	"batchiri"	"perfect"	"NRI"	"D"	"nonchalantly"	"Y"	44
+"5699-1"	"gara"	"to change ocmpletely"	"NRI"	"D"	"messy"	"Y"	45
+"5699-1"	"koku"	"harsh"	"NAdj"	"D"	"excessive"	"Y"	46
+"5699-1"	"himahima"	"free"	"RNAdj"	"T"	"free"	"Y"	47
+"5699-1"	"zoku"	"vulgar"	"NAdj"	"D"	"offended"	"Y"	48
+"5699-1"	"koku"	"harsh"	"NAdj"	"T"	"harsh"	"Y"	49
+"5699-1"	"gowagowa"	"stiff"	"RI"	"T"	"stiff"	"Y"	50
+"5699-1"	"pata"	"sudden"	"NRI"	"D"	"wobbly"	"Y"	51
+"5699-1"	"damedame"	"useless"	"RNAdj"	"D"	"fragile"	"Y"	52
+"5699-1"	"maremare"	"rare"	"RNAdj"	"T"	"rare"	"Y"	53
+"5699-1"	"rakuraku"	"comfortable"	"RNAdj"	"T"	"comfortable"	"Y"	54
+"5699-1"	"jikkurijikkuri"	"careful"	"RNRI"	"D"	"subdued"	"Y"	55
+"5699-1"	"kabi"	"gaudy"	"NAdj"	"D"	"worn out"	"Y"	56
+"5699-1"	"yawayawa"	"fragile"	"RNAdj"	"D"	"perfect"	"Y"	57
+"5699-1"	"gashi"	"sturdy"	"NRI"	"T"	"sturdy"	"Y"	58
+"5699-1"	"himahima"	"free"	"RNAdj"	"D"	"stupid"	"Y"	59
+"5699-1"	"baka"	"stupid"	"NAdj"	"D"	"whole"	"Y"	60
+"5699-1"	"kakkirikakkiri"	"exact"	"RNRI"	"D"	"fast asleep"	"Y"	61
+"5699-1"	"debu"	"fat"	"SRI"	"T"	"fat"	"Y"	62
+"5699-1"	"buru"	"shivering"	"SRI"	"T"	"shivering"	"Y"	63
+"5699-1"	"yawayawa"	"fragile"	"RNAdj"	"T"	"fragile"	"Y"	64
+"5699-1"	"hiku"	"agitated"	"SRI"	"D"	"supple"	"Y"	65
+"5699-1"	"yurayura"	"wobbly"	"RI"	"D"	"free"	"Y"	66
+"5699-1"	"gosogoso"	"whole"	"RNRI"	"T"	"whole"	"Y"	67
+"5699-1"	"zoku"	"vulgar"	"NAdj"	"T"	"vulgar"	"Y"	68
+"5699-1"	"gocha"	"messy"	"SRI"	"D"	"sullen"	"Y"	69
+"5699-1"	"muku"	"pure"	"NAdj"	"D"	"fat"	"Y"	70
+"5699-1"	"kado"	"excessive"	"NAdj"	"D"	"shivering"	"Y"	71
+"5699-1"	"jikkurijikkuri"	"careful"	"RNRI"	"T"	"careful"	"Y"	72

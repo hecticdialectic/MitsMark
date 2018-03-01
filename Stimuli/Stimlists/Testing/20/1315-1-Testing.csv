@@ -1,0 +1,73 @@
+"Id"	"Word"	"TrueMeaning"	"WordType"	"TrialType"	"TargetMeaning"	"LegalTrial"	"TrialNum"
+"1315-1"	"hokahoka"	"steaming"	"RI"	"D"	"harsh"	"Y"	1
+"1315-1"	"raku"	"comfortable"	"NAdj"	"D"	"supple"	"Y"	2
+"1315-1"	"kukkirikukkiri"	"clear"	"RNRI"	"T"	"clear"	"Y"	3
+"1315-1"	"jimi"	"subdued"	"NAdj"	"D"	"whole"	"Y"	4
+"1315-1"	"kabikabi"	"gaudy"	"RNAdj"	"T"	"gaudy"	"Y"	5
+"1315-1"	"koku"	"harsh"	"NAdj"	"D"	"humid"	"Y"	6
+"1315-1"	"kadokado"	"excessive"	"RNAdj"	"D"	"sudden"	"Y"	7
+"1315-1"	"kabikabi"	"gaudy"	"RNAdj"	"D"	"energetic"	"Y"	8
+"1315-1"	"nopperinopperi"	"smooth"	"RNRI"	"D"	"fast asleep"	"Y"	9
+"1315-1"	"tsuya"	"glossy"	"SRI"	"T"	"glossy"	"Y"	10
+"1315-1"	"kadokado"	"excessive"	"RNAdj"	"T"	"excessive"	"Y"	11
+"1315-1"	"kakkiri"	"exact"	"NRI"	"T"	"exact"	"Y"	12
+"1315-1"	"kukkirikukkiri"	"clear"	"RNRI"	"D"	"exact"	"Y"	13
+"1315-1"	"musu"	"sullen"	"NRI"	"D"	"wobbly"	"Y"	14
+"1315-1"	"mukumuku"	"pure"	"RNAdj"	"D"	"steaming"	"Y"	15
+"1315-1"	"bassari"	"resolute"	"NRI"	"T"	"resolute"	"Y"	16
+"1315-1"	"dame"	"useless"	"NAdj"	"D"	"sloppy"	"Y"	17
+"1315-1"	"dame"	"useless"	"NAdj"	"T"	"useless"	"Y"	18
+"1315-1"	"fubi"	"deficient"	"NAdj"	"D"	"decisive"	"Y"	19
+"1315-1"	"zatsuzatsu"	"sloppy"	"RNAdj"	"T"	"sloppy"	"Y"	20
+"1315-1"	"bukubuku"	"chubby"	"RI"	"T"	"chubby"	"Y"	21
+"1315-1"	"koku"	"harsh"	"NAdj"	"T"	"harsh"	"Y"	22
+"1315-1"	"murimuri"	"impossible"	"RNAdj"	"T"	"impossible"	"Y"	23
+"1315-1"	"mushimushi"	"humid"	"RI"	"T"	"humid"	"Y"	24
+"1315-1"	"uki"	"happy"	"SRI"	"D"	"glossy"	"Y"	25
+"1315-1"	"pishapisha"	"decisive"	"RNRI"	"D"	"resolute"	"Y"	26
+"1315-1"	"zuke"	"rude"	"SRI"	"D"	"impossible"	"Y"	27
+"1315-1"	"hokahoka"	"steaming"	"RI"	"T"	"steaming"	"Y"	28
+"1315-1"	"furifuri"	"disadvantaged"	"RNAdj"	"T"	"disadvantaged"	"Y"	29
+"1315-1"	"nopperinopperi"	"smooth"	"RNRI"	"T"	"smooth"	"Y"	30
+"1315-1"	"bisshiribisshiri"	"crowded"	"RNRI"	"D"	"agitated"	"Y"	31
+"1315-1"	"hima"	"free"	"NAdj"	"T"	"free"	"Y"	32
+"1315-1"	"hima"	"free"	"NAdj"	"D"	"dejected"	"Y"	33
+"1315-1"	"zatsuzatsu"	"sloppy"	"RNAdj"	"D"	"comfortable"	"Y"	34
+"1315-1"	"yura"	"wobbly"	"SRI"	"D"	"worn out"	"Y"	35
+"1315-1"	"gakugaku"	"dejected"	"RNRI"	"T"	"dejected"	"Y"	36
+"1315-1"	"hikuhiku"	"agitated"	"RI"	"D"	"subdued"	"Y"	37
+"1315-1"	"gussurigussuri"	"fast asleep"	"RNRI"	"D"	"free"	"Y"	38
+"1315-1"	"debudebu"	"fat"	"RI"	"D"	"clear"	"Y"	39
+"1315-1"	"buruburu"	"shivering"	"RI"	"T"	"shivering"	"Y"	40
+"1315-1"	"murimuri"	"impossible"	"RNAdj"	"D"	"gaudy"	"Y"	41
+"1315-1"	"gakugaku"	"dejected"	"RNRI"	"D"	"sullen"	"Y"	42
+"1315-1"	"bassari"	"resolute"	"NRI"	"D"	"smooth"	"Y"	43
+"1315-1"	"fubi"	"deficient"	"NAdj"	"T"	"deficient"	"Y"	44
+"1315-1"	"mukumuku"	"pure"	"RNAdj"	"T"	"pure"	"Y"	45
+"1315-1"	"goso"	"whole"	"NRI"	"D"	"disadvantaged"	"Y"	46
+"1315-1"	"tsuya"	"glossy"	"SRI"	"D"	"excessive"	"Y"	47
+"1315-1"	"uki"	"happy"	"SRI"	"T"	"happy"	"Y"	48
+"1315-1"	"gussurigussuri"	"fast asleep"	"RNRI"	"T"	"fast asleep"	"Y"	49
+"1315-1"	"shinnari"	"supple"	"NRI"	"T"	"supple"	"Y"	50
+"1315-1"	"hikuhiku"	"agitated"	"RI"	"T"	"agitated"	"Y"	51
+"1315-1"	"pata"	"sudden"	"NRI"	"D"	"shivering"	"Y"	52
+"1315-1"	"bisshiribisshiri"	"crowded"	"RNRI"	"T"	"crowded"	"Y"	53
+"1315-1"	"boro"	"worn out"	"SRI"	"D"	"useless"	"Y"	54
+"1315-1"	"bukubuku"	"chubby"	"RI"	"D"	"deficient"	"Y"	55
+"1315-1"	"yura"	"wobbly"	"SRI"	"T"	"wobbly"	"Y"	56
+"1315-1"	"raku"	"comfortable"	"NAdj"	"T"	"comfortable"	"Y"	57
+"1315-1"	"boro"	"worn out"	"SRI"	"T"	"worn out"	"Y"	58
+"1315-1"	"goso"	"whole"	"NRI"	"T"	"whole"	"Y"	59
+"1315-1"	"kibi"	"energetic"	"SRI"	"D"	"rude"	"Y"	60
+"1315-1"	"debudebu"	"fat"	"RI"	"T"	"fat"	"Y"	61
+"1315-1"	"kakkiri"	"exact"	"NRI"	"D"	"happy"	"Y"	62
+"1315-1"	"musu"	"sullen"	"NRI"	"T"	"sullen"	"Y"	63
+"1315-1"	"furifuri"	"disadvantaged"	"RNAdj"	"D"	"pure"	"Y"	64
+"1315-1"	"pishapisha"	"decisive"	"RNRI"	"T"	"decisive"	"Y"	65
+"1315-1"	"zuke"	"rude"	"SRI"	"T"	"rude"	"Y"	66
+"1315-1"	"kibi"	"energetic"	"SRI"	"T"	"energetic"	"Y"	67
+"1315-1"	"buruburu"	"shivering"	"RI"	"D"	"crowded"	"Y"	68
+"1315-1"	"shinnari"	"supple"	"NRI"	"D"	"chubby"	"Y"	69
+"1315-1"	"mushimushi"	"humid"	"RI"	"D"	"fat"	"Y"	70
+"1315-1"	"pata"	"sudden"	"NRI"	"T"	"sudden"	"Y"	71
+"1315-1"	"jimi"	"subdued"	"NAdj"	"T"	"subdued"	"Y"	72

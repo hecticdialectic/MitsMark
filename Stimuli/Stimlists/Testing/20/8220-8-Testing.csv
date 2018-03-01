@@ -1,0 +1,73 @@
+"Id"	"Word"	"TrueMeaning"	"WordType"	"TrialType"	"TargetMeaning"	"LegalTrial"	"TrialNum"
+"8220-8"	"ukiuki"	"happy"	"RI"	"D"	"fast asleep"	"Y"	1
+"8220-8"	"tokutoku"	"beneficial"	"RNAdj"	"D"	"rude"	"Y"	2
+"8220-8"	"moji"	"hesitant"	"SRI"	"T"	"hesitant"	"Y"	3
+"8220-8"	"mucha"	"rash"	"NAdj"	"T"	"rash"	"Y"	4
+"8220-8"	"bisshiribisshiri"	"crowded"	"RNRI"	"D"	"hesitant"	"Y"	5
+"8220-8"	"maremare"	"rare"	"RNAdj"	"D"	"wobbly"	"Y"	6
+"8220-8"	"bera"	"chatty"	"SRI"	"T"	"chatty"	"Y"	7
+"8220-8"	"baka"	"stupid"	"NAdj"	"D"	"clear"	"Y"	8
+"8220-8"	"pishapisha"	"decisive"	"RNRI"	"T"	"decisive"	"Y"	9
+"8220-8"	"fubi"	"deficient"	"NAdj"	"D"	"glossy"	"Y"	10
+"8220-8"	"zatsuzatsu"	"sloppy"	"RNAdj"	"T"	"sloppy"	"Y"	11
+"8220-8"	"fubi"	"deficient"	"NAdj"	"T"	"deficient"	"Y"	12
+"8220-8"	"jikkurijikkuri"	"careful"	"RNRI"	"T"	"careful"	"Y"	13
+"8220-8"	"yurayura"	"wobbly"	"RI"	"T"	"wobbly"	"Y"	14
+"8220-8"	"mushimushi"	"humid"	"RI"	"T"	"humid"	"Y"	15
+"8220-8"	"kachin"	"offended"	"NRI"	"T"	"offended"	"Y"	16
+"8220-8"	"tokutoku"	"beneficial"	"RNAdj"	"T"	"beneficial"	"Y"	17
+"8220-8"	"baka"	"stupid"	"NAdj"	"T"	"stupid"	"Y"	18
+"8220-8"	"hokahoka"	"steaming"	"RI"	"T"	"steaming"	"Y"	19
+"8220-8"	"mukumuku"	"pure"	"RNAdj"	"D"	"hasty"	"Y"	20
+"8220-8"	"sekaseka"	"hasty"	"RI"	"T"	"hasty"	"Y"	21
+"8220-8"	"potcharipotchari"	"plump"	"RNRI"	"D"	"steaming"	"Y"	22
+"8220-8"	"ukiuki"	"happy"	"RI"	"T"	"happy"	"Y"	23
+"8220-8"	"moji"	"hesitant"	"SRI"	"D"	"harsh"	"Y"	24
+"8220-8"	"zatsuzatsu"	"sloppy"	"RNAdj"	"D"	"happy"	"Y"	25
+"8220-8"	"mucha"	"rash"	"NAdj"	"D"	"gaping"	"Y"	26
+"8220-8"	"mukumuku"	"pure"	"RNAdj"	"T"	"pure"	"Y"	27
+"8220-8"	"yurayura"	"wobbly"	"RI"	"D"	"beneficial"	"Y"	28
+"8220-8"	"kokukoku"	"harsh"	"RNAdj"	"T"	"harsh"	"Y"	29
+"8220-8"	"potcharipotchari"	"plump"	"RNRI"	"T"	"plump"	"Y"	30
+"8220-8"	"hiku"	"agitated"	"SRI"	"D"	"plump"	"Y"	31
+"8220-8"	"patapata"	"sudden"	"RNRI"	"D"	"sloppy"	"Y"	32
+"8220-8"	"gussuri"	"fast asleep"	"NRI"	"T"	"fast asleep"	"Y"	33
+"8220-8"	"tsuya"	"glossy"	"SRI"	"T"	"glossy"	"Y"	34
+"8220-8"	"shinnari"	"supple"	"NRI"	"T"	"supple"	"Y"	35
+"8220-8"	"gocha"	"messy"	"SRI"	"T"	"messy"	"Y"	36
+"8220-8"	"kukkirikukkiri"	"clear"	"RNRI"	"T"	"clear"	"Y"	37
+"8220-8"	"yabo"	"tasteless"	"NAdj"	"D"	"agitated"	"Y"	38
+"8220-8"	"kokukoku"	"harsh"	"RNAdj"	"D"	"disadvantaged"	"Y"	39
+"8220-8"	"bera"	"chatty"	"SRI"	"D"	"crowded"	"Y"	40
+"8220-8"	"zukezuke"	"rude"	"RI"	"D"	"rare"	"Y"	41
+"8220-8"	"debu"	"fat"	"SRI"	"D"	"supple"	"Y"	42
+"8220-8"	"kado"	"excessive"	"NAdj"	"T"	"excessive"	"Y"	43
+"8220-8"	"kero"	"nonchalantly"	"NRI"	"D"	"to change ocmpletely"	"Y"	44
+"8220-8"	"jikkurijikkuri"	"careful"	"RNRI"	"D"	"offended"	"Y"	45
+"8220-8"	"yabo"	"tasteless"	"NAdj"	"T"	"tasteless"	"Y"	46
+"8220-8"	"furi"	"disadvantaged"	"NAdj"	"D"	"nonchalantly"	"Y"	47
+"8220-8"	"tsuya"	"glossy"	"SRI"	"D"	"humid"	"Y"	48
+"8220-8"	"kukkirikukkiri"	"clear"	"RNRI"	"D"	"deficient"	"Y"	49
+"8220-8"	"zukezuke"	"rude"	"RI"	"T"	"rude"	"Y"	50
+"8220-8"	"rakuraku"	"comfortable"	"RNAdj"	"T"	"comfortable"	"Y"	51
+"8220-8"	"gara"	"to change ocmpletely"	"NRI"	"D"	"comfortable"	"Y"	52
+"8220-8"	"shinnari"	"supple"	"NRI"	"D"	"decisive"	"Y"	53
+"8220-8"	"poka"	"gaping"	"NRI"	"T"	"gaping"	"Y"	54
+"8220-8"	"rakuraku"	"comfortable"	"RNAdj"	"D"	"pure"	"Y"	55
+"8220-8"	"sekaseka"	"hasty"	"RI"	"D"	"excessive"	"Y"	56
+"8220-8"	"hiku"	"agitated"	"SRI"	"T"	"agitated"	"Y"	57
+"8220-8"	"pishapisha"	"decisive"	"RNRI"	"D"	"stupid"	"Y"	58
+"8220-8"	"hokahoka"	"steaming"	"RI"	"D"	"tasteless"	"Y"	59
+"8220-8"	"gocha"	"messy"	"SRI"	"D"	"careful"	"Y"	60
+"8220-8"	"bisshiribisshiri"	"crowded"	"RNRI"	"T"	"crowded"	"Y"	61
+"8220-8"	"patapata"	"sudden"	"RNRI"	"T"	"sudden"	"Y"	62
+"8220-8"	"kero"	"nonchalantly"	"NRI"	"T"	"nonchalantly"	"Y"	63
+"8220-8"	"maremare"	"rare"	"RNAdj"	"T"	"rare"	"Y"	64
+"8220-8"	"furi"	"disadvantaged"	"NAdj"	"T"	"disadvantaged"	"Y"	65
+"8220-8"	"kachin"	"offended"	"NRI"	"D"	"sudden"	"Y"	66
+"8220-8"	"poka"	"gaping"	"NRI"	"D"	"messy"	"Y"	67
+"8220-8"	"mushimushi"	"humid"	"RI"	"D"	"chatty"	"Y"	68
+"8220-8"	"gussuri"	"fast asleep"	"NRI"	"D"	"fat"	"Y"	69
+"8220-8"	"kado"	"excessive"	"NAdj"	"D"	"rash"	"Y"	70
+"8220-8"	"gara"	"to change ocmpletely"	"NRI"	"T"	"to change ocmpletely"	"Y"	71
+"8220-8"	"debu"	"fat"	"SRI"	"T"	"fat"	"Y"	72

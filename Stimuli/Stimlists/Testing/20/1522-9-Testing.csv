@@ -1,0 +1,73 @@
+"Id"	"Word"	"TrueMeaning"	"WordType"	"TrialType"	"TargetMeaning"	"LegalTrial"	"TrialNum"
+"1522-9"	"mushi"	"humid"	"SRI"	"T"	"humid"	"Y"	1
+"1522-9"	"hokahoka"	"steaming"	"RI"	"T"	"steaming"	"Y"	2
+"1522-9"	"gowagowa"	"stiff"	"RI"	"D"	"sullen"	"Y"	3
+"1522-9"	"musumusu"	"sullen"	"RNRI"	"D"	"dejected"	"Y"	4
+"1522-9"	"dame"	"useless"	"NAdj"	"T"	"useless"	"Y"	5
+"1522-9"	"tsuya"	"glossy"	"SRI"	"D"	"energetic"	"Y"	6
+"1522-9"	"musumusu"	"sullen"	"RNRI"	"T"	"sullen"	"Y"	7
+"1522-9"	"zatsu"	"sloppy"	"NAdj"	"D"	"comfortable"	"Y"	8
+"1522-9"	"potcharipotchari"	"plump"	"RNRI"	"D"	"messy"	"Y"	9
+"1522-9"	"gashi"	"sturdy"	"NRI"	"D"	"impossible"	"Y"	10
+"1522-9"	"gakugaku"	"dejected"	"RNRI"	"T"	"dejected"	"Y"	11
+"1522-9"	"raku"	"comfortable"	"NAdj"	"T"	"comfortable"	"Y"	12
+"1522-9"	"mucha"	"rash"	"NAdj"	"D"	"vulgar"	"Y"	13
+"1522-9"	"debu"	"fat"	"SRI"	"T"	"fat"	"Y"	14
+"1522-9"	"tsuya"	"glossy"	"SRI"	"T"	"glossy"	"Y"	15
+"1522-9"	"hikuhiku"	"agitated"	"RI"	"D"	"pure"	"Y"	16
+"1522-9"	"murimuri"	"impossible"	"RNAdj"	"T"	"impossible"	"Y"	17
+"1522-9"	"koku"	"harsh"	"NAdj"	"T"	"harsh"	"Y"	18
+"1522-9"	"mushi"	"humid"	"SRI"	"D"	"clear"	"Y"	19
+"1522-9"	"gochagocha"	"messy"	"RI"	"D"	"whole"	"Y"	20
+"1522-9"	"raku"	"comfortable"	"NAdj"	"D"	"hesitant"	"Y"	21
+"1522-9"	"buru"	"shivering"	"SRI"	"D"	"exact"	"Y"	22
+"1522-9"	"jimijimi"	"subdued"	"RNAdj"	"T"	"subdued"	"Y"	23
+"1522-9"	"pata"	"sudden"	"NRI"	"T"	"sudden"	"Y"	24
+"1522-9"	"pata"	"sudden"	"NRI"	"D"	"stiff"	"Y"	25
+"1522-9"	"gochagocha"	"messy"	"RI"	"T"	"messy"	"Y"	26
+"1522-9"	"jikkuri"	"careful"	"NRI"	"D"	"fast asleep"	"Y"	27
+"1522-9"	"garagara"	"to change ocmpletely"	"RNRI"	"D"	"harsh"	"Y"	28
+"1522-9"	"boro"	"worn out"	"SRI"	"D"	"careful"	"Y"	29
+"1522-9"	"uki"	"happy"	"SRI"	"T"	"happy"	"Y"	30
+"1522-9"	"mucha"	"rash"	"NAdj"	"T"	"rash"	"Y"	31
+"1522-9"	"kakkirikakkiri"	"exact"	"RNRI"	"D"	"fat"	"Y"	32
+"1522-9"	"koku"	"harsh"	"NAdj"	"D"	"agitated"	"Y"	33
+"1522-9"	"jikkuri"	"careful"	"NRI"	"T"	"careful"	"Y"	34
+"1522-9"	"kukkiri"	"clear"	"NRI"	"T"	"clear"	"Y"	35
+"1522-9"	"gashi"	"sturdy"	"NRI"	"T"	"sturdy"	"Y"	36
+"1522-9"	"kukkiri"	"clear"	"NRI"	"D"	"steaming"	"Y"	37
+"1522-9"	"zokuzoku"	"vulgar"	"RNAdj"	"D"	"subdued"	"Y"	38
+"1522-9"	"gowagowa"	"stiff"	"RI"	"T"	"stiff"	"Y"	39
+"1522-9"	"tokutoku"	"beneficial"	"RNAdj"	"D"	"to change ocmpletely"	"Y"	40
+"1522-9"	"goso"	"whole"	"NRI"	"T"	"whole"	"Y"	41
+"1522-9"	"hokahoka"	"steaming"	"RI"	"D"	"sudden"	"Y"	42
+"1522-9"	"kibikibi"	"energetic"	"RI"	"D"	"tasteless"	"Y"	43
+"1522-9"	"pishapisha"	"decisive"	"RNRI"	"D"	"plump"	"Y"	44
+"1522-9"	"debu"	"fat"	"SRI"	"D"	"excessive"	"Y"	45
+"1522-9"	"tokutoku"	"beneficial"	"RNAdj"	"T"	"beneficial"	"Y"	46
+"1522-9"	"muku"	"pure"	"NAdj"	"D"	"useless"	"Y"	47
+"1522-9"	"gussuri"	"fast asleep"	"NRI"	"T"	"fast asleep"	"Y"	48
+"1522-9"	"uki"	"happy"	"SRI"	"D"	"decisive"	"Y"	49
+"1522-9"	"kibikibi"	"energetic"	"RI"	"T"	"energetic"	"Y"	50
+"1522-9"	"murimuri"	"impossible"	"RNAdj"	"D"	"worn out"	"Y"	51
+"1522-9"	"pishapisha"	"decisive"	"RNRI"	"T"	"decisive"	"Y"	52
+"1522-9"	"hikuhiku"	"agitated"	"RI"	"T"	"agitated"	"Y"	53
+"1522-9"	"jimijimi"	"subdued"	"RNAdj"	"D"	"shivering"	"Y"	54
+"1522-9"	"goso"	"whole"	"NRI"	"D"	"sturdy"	"Y"	55
+"1522-9"	"muku"	"pure"	"NAdj"	"T"	"pure"	"Y"	56
+"1522-9"	"yaboyabo"	"tasteless"	"RNAdj"	"T"	"tasteless"	"Y"	57
+"1522-9"	"mojimoji"	"hesitant"	"RI"	"D"	"glossy"	"Y"	58
+"1522-9"	"kadokado"	"excessive"	"RNAdj"	"T"	"excessive"	"Y"	59
+"1522-9"	"zatsu"	"sloppy"	"NAdj"	"T"	"sloppy"	"Y"	60
+"1522-9"	"kadokado"	"excessive"	"RNAdj"	"D"	"humid"	"Y"	61
+"1522-9"	"zokuzoku"	"vulgar"	"RNAdj"	"T"	"vulgar"	"Y"	62
+"1522-9"	"gakugaku"	"dejected"	"RNRI"	"D"	"sloppy"	"Y"	63
+"1522-9"	"mojimoji"	"hesitant"	"RI"	"T"	"hesitant"	"Y"	64
+"1522-9"	"buru"	"shivering"	"SRI"	"T"	"shivering"	"Y"	65
+"1522-9"	"boro"	"worn out"	"SRI"	"T"	"worn out"	"Y"	66
+"1522-9"	"dame"	"useless"	"NAdj"	"D"	"happy"	"Y"	67
+"1522-9"	"garagara"	"to change ocmpletely"	"RNRI"	"T"	"to change ocmpletely"	"Y"	68
+"1522-9"	"yaboyabo"	"tasteless"	"RNAdj"	"D"	"beneficial"	"Y"	69
+"1522-9"	"potcharipotchari"	"plump"	"RNRI"	"T"	"plump"	"Y"	70
+"1522-9"	"kakkirikakkiri"	"exact"	"RNRI"	"T"	"exact"	"Y"	71
+"1522-9"	"gussuri"	"fast asleep"	"NRI"	"D"	"rash"	"Y"	72

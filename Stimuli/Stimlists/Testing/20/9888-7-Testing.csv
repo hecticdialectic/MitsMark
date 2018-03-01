@@ -1,0 +1,73 @@
+"Id"	"Word"	"TrueMeaning"	"WordType"	"TrialType"	"TargetMeaning"	"LegalTrial"	"TrialNum"
+"9888-7"	"kadokado"	"excessive"	"RNAdj"	"D"	"nonchalantly"	"Y"	1
+"9888-7"	"kibikibi"	"energetic"	"RI"	"D"	"stiff"	"Y"	2
+"9888-7"	"pishapisha"	"decisive"	"RNRI"	"T"	"decisive"	"Y"	3
+"9888-7"	"kadokado"	"excessive"	"RNAdj"	"T"	"excessive"	"Y"	4
+"9888-7"	"hisohiso"	"whispering"	"RI"	"D"	"worn out"	"Y"	5
+"9888-7"	"furifuri"	"disadvantaged"	"RNAdj"	"T"	"disadvantaged"	"Y"	6
+"9888-7"	"kero"	"nonchalantly"	"NRI"	"D"	"disadvantaged"	"Y"	7
+"9888-7"	"boro"	"worn out"	"SRI"	"D"	"impossible"	"Y"	8
+"9888-7"	"hiku"	"agitated"	"SRI"	"T"	"agitated"	"Y"	9
+"9888-7"	"gussurigussuri"	"fast asleep"	"RNRI"	"D"	"shivering"	"Y"	10
+"9888-7"	"buru"	"shivering"	"SRI"	"T"	"shivering"	"Y"	11
+"9888-7"	"potchari"	"plump"	"NRI"	"D"	"dejected"	"Y"	12
+"9888-7"	"kibikibi"	"energetic"	"RI"	"T"	"energetic"	"Y"	13
+"9888-7"	"hima"	"free"	"NAdj"	"T"	"free"	"Y"	14
+"9888-7"	"pishapisha"	"decisive"	"RNRI"	"D"	"beneficial"	"Y"	15
+"9888-7"	"yura"	"wobbly"	"SRI"	"D"	"chatty"	"Y"	16
+"9888-7"	"jimijimi"	"subdued"	"RNAdj"	"D"	"suspenseful"	"Y"	17
+"9888-7"	"yabo"	"tasteless"	"NAdj"	"D"	"exact"	"Y"	18
+"9888-7"	"kakkirikakkiri"	"exact"	"RNRI"	"T"	"exact"	"Y"	19
+"9888-7"	"potchari"	"plump"	"NRI"	"T"	"plump"	"Y"	20
+"9888-7"	"bera"	"chatty"	"SRI"	"D"	"stupid"	"Y"	21
+"9888-7"	"hokahoka"	"steaming"	"RI"	"D"	"hesitant"	"Y"	22
+"9888-7"	"toku"	"beneficial"	"NAdj"	"D"	"tasteless"	"Y"	23
+"9888-7"	"muku"	"pure"	"NAdj"	"D"	"whole"	"Y"	24
+"9888-7"	"furifuri"	"disadvantaged"	"RNAdj"	"D"	"vulgar"	"Y"	25
+"9888-7"	"ukiuki"	"happy"	"RI"	"T"	"happy"	"Y"	26
+"9888-7"	"pokapoka"	"gaping"	"RNRI"	"D"	"wobbly"	"Y"	27
+"9888-7"	"kero"	"nonchalantly"	"NRI"	"T"	"nonchalantly"	"Y"	28
+"9888-7"	"gussurigussuri"	"fast asleep"	"RNRI"	"T"	"fast asleep"	"Y"	29
+"9888-7"	"boro"	"worn out"	"SRI"	"T"	"worn out"	"Y"	30
+"9888-7"	"batchiri"	"perfect"	"NRI"	"D"	"fast asleep"	"Y"	31
+"9888-7"	"zokuzoku"	"vulgar"	"RNAdj"	"T"	"vulgar"	"Y"	32
+"9888-7"	"hiku"	"agitated"	"SRI"	"D"	"comfortable"	"Y"	33
+"9888-7"	"zatsuzatsu"	"sloppy"	"RNAdj"	"D"	"pure"	"Y"	34
+"9888-7"	"hisohiso"	"whispering"	"RI"	"T"	"whispering"	"Y"	35
+"9888-7"	"ukiuki"	"happy"	"RI"	"D"	"crowded"	"Y"	36
+"9888-7"	"bera"	"chatty"	"SRI"	"T"	"chatty"	"Y"	37
+"9888-7"	"pokapoka"	"gaping"	"RNRI"	"T"	"gaping"	"Y"	38
+"9888-7"	"gowagowa"	"stiff"	"RI"	"T"	"stiff"	"Y"	39
+"9888-7"	"goso"	"whole"	"NRI"	"T"	"whole"	"Y"	40
+"9888-7"	"muri"	"impossible"	"NAdj"	"D"	"steaming"	"Y"	41
+"9888-7"	"baka"	"stupid"	"NAdj"	"T"	"stupid"	"Y"	42
+"9888-7"	"baka"	"stupid"	"NAdj"	"D"	"agitated"	"Y"	43
+"9888-7"	"gowagowa"	"stiff"	"RI"	"D"	"decisive"	"Y"	44
+"9888-7"	"yabo"	"tasteless"	"NAdj"	"T"	"tasteless"	"Y"	45
+"9888-7"	"muri"	"impossible"	"NAdj"	"T"	"impossible"	"Y"	46
+"9888-7"	"kakkirikakkiri"	"exact"	"RNRI"	"D"	"perfect"	"Y"	47
+"9888-7"	"shinnari"	"supple"	"NRI"	"D"	"plump"	"Y"	48
+"9888-7"	"zokuzoku"	"vulgar"	"RNAdj"	"D"	"supple"	"Y"	49
+"9888-7"	"bisshiribisshiri"	"crowded"	"RNRI"	"D"	"subdued"	"Y"	50
+"9888-7"	"toku"	"beneficial"	"NAdj"	"T"	"beneficial"	"Y"	51
+"9888-7"	"gaku"	"dejected"	"NRI"	"T"	"dejected"	"Y"	52
+"9888-7"	"garagara"	"to change ocmpletely"	"RNRI"	"T"	"to change ocmpletely"	"Y"	53
+"9888-7"	"shinnari"	"supple"	"NRI"	"T"	"supple"	"Y"	54
+"9888-7"	"gaku"	"dejected"	"NRI"	"D"	"happy"	"Y"	55
+"9888-7"	"batchiri"	"perfect"	"NRI"	"T"	"perfect"	"Y"	56
+"9888-7"	"buru"	"shivering"	"SRI"	"D"	"to change ocmpletely"	"Y"	57
+"9888-7"	"moji"	"hesitant"	"SRI"	"D"	"free"	"Y"	58
+"9888-7"	"hima"	"free"	"NAdj"	"D"	"gaping"	"Y"	59
+"9888-7"	"rakuraku"	"comfortable"	"RNAdj"	"T"	"comfortable"	"Y"	60
+"9888-7"	"muku"	"pure"	"NAdj"	"T"	"pure"	"Y"	61
+"9888-7"	"yura"	"wobbly"	"SRI"	"T"	"wobbly"	"Y"	62
+"9888-7"	"harahara"	"suspenseful"	"RI"	"D"	"whispering"	"Y"	63
+"9888-7"	"zatsuzatsu"	"sloppy"	"RNAdj"	"T"	"sloppy"	"Y"	64
+"9888-7"	"goso"	"whole"	"NRI"	"D"	"excessive"	"Y"	65
+"9888-7"	"jimijimi"	"subdued"	"RNAdj"	"T"	"subdued"	"Y"	66
+"9888-7"	"hokahoka"	"steaming"	"RI"	"T"	"steaming"	"Y"	67
+"9888-7"	"bisshiribisshiri"	"crowded"	"RNRI"	"T"	"crowded"	"Y"	68
+"9888-7"	"rakuraku"	"comfortable"	"RNAdj"	"D"	"energetic"	"Y"	69
+"9888-7"	"harahara"	"suspenseful"	"RI"	"T"	"suspenseful"	"Y"	70
+"9888-7"	"garagara"	"to change ocmpletely"	"RNRI"	"D"	"sloppy"	"Y"	71
+"9888-7"	"moji"	"hesitant"	"SRI"	"T"	"hesitant"	"Y"	72

@@ -1,0 +1,73 @@
+"Id"	"Word"	"TrueMeaning"	"WordType"	"TrialType"	"TargetMeaning"	"LegalTrial"	"TrialNum"
+"2033-9"	"shinnari"	"supple"	"NRI"	"T"	"supple"	"Y"	1
+"2033-9"	"jimi"	"subdued"	"NAdj"	"T"	"subdued"	"Y"	2
+"2033-9"	"zatsuzatsu"	"sloppy"	"RNAdj"	"D"	"wobbly"	"Y"	3
+"2033-9"	"yura"	"wobbly"	"SRI"	"T"	"wobbly"	"Y"	4
+"2033-9"	"bukubuku"	"chubby"	"RI"	"T"	"chubby"	"Y"	5
+"2033-9"	"kokukoku"	"harsh"	"RNAdj"	"T"	"harsh"	"Y"	6
+"2033-9"	"jikkurijikkuri"	"careful"	"RNRI"	"D"	"to change ocmpletely"	"Y"	7
+"2033-9"	"hisohiso"	"whispering"	"RI"	"T"	"whispering"	"Y"	8
+"2033-9"	"seka"	"hasty"	"SRI"	"T"	"hasty"	"Y"	9
+"2033-9"	"gara"	"to change ocmpletely"	"NRI"	"T"	"to change ocmpletely"	"Y"	10
+"2033-9"	"pokapoka"	"gaping"	"RNRI"	"T"	"gaping"	"Y"	11
+"2033-9"	"gosogoso"	"whole"	"RNRI"	"T"	"whole"	"Y"	12
+"2033-9"	"bukubuku"	"chubby"	"RI"	"D"	"rash"	"Y"	13
+"2033-9"	"bassaribassari"	"resolute"	"RNRI"	"T"	"resolute"	"Y"	14
+"2033-9"	"seka"	"hasty"	"SRI"	"D"	"agitated"	"Y"	15
+"2033-9"	"debu"	"fat"	"SRI"	"T"	"fat"	"Y"	16
+"2033-9"	"gussurigussuri"	"fast asleep"	"RNRI"	"D"	"whispering"	"Y"	17
+"2033-9"	"kokukoku"	"harsh"	"RNAdj"	"D"	"plump"	"Y"	18
+"2033-9"	"kabikabi"	"gaudy"	"RNAdj"	"D"	"sturdy"	"Y"	19
+"2033-9"	"gara"	"to change ocmpletely"	"NRI"	"D"	"careful"	"Y"	20
+"2033-9"	"mucha"	"rash"	"NAdj"	"D"	"nonchalantly"	"Y"	21
+"2033-9"	"gashigashi"	"sturdy"	"RNRI"	"D"	"supple"	"Y"	22
+"2033-9"	"kiza"	"smug"	"NAdj"	"D"	"happy"	"Y"	23
+"2033-9"	"fubi"	"deficient"	"NAdj"	"D"	"steaming"	"Y"	24
+"2033-9"	"hikuhiku"	"agitated"	"RI"	"D"	"smug"	"Y"	25
+"2033-9"	"shinnari"	"supple"	"NRI"	"D"	"deficient"	"Y"	26
+"2033-9"	"gussurigussuri"	"fast asleep"	"RNRI"	"T"	"fast asleep"	"Y"	27
+"2033-9"	"kero"	"nonchalantly"	"NRI"	"T"	"nonchalantly"	"Y"	28
+"2033-9"	"hoka"	"steaming"	"SRI"	"D"	"fast asleep"	"Y"	29
+"2033-9"	"bisshiri"	"crowded"	"NRI"	"D"	"worn out"	"Y"	30
+"2033-9"	"kero"	"nonchalantly"	"NRI"	"D"	"humid"	"Y"	31
+"2033-9"	"hisohiso"	"whispering"	"RI"	"D"	"comfortable"	"Y"	32
+"2033-9"	"kabikabi"	"gaudy"	"RNAdj"	"T"	"gaudy"	"Y"	33
+"2033-9"	"zatsuzatsu"	"sloppy"	"RNAdj"	"T"	"sloppy"	"Y"	34
+"2033-9"	"boroboro"	"worn out"	"RI"	"T"	"worn out"	"Y"	35
+"2033-9"	"jimi"	"subdued"	"NAdj"	"D"	"impossible"	"Y"	36
+"2033-9"	"bisshiri"	"crowded"	"NRI"	"T"	"crowded"	"Y"	37
+"2033-9"	"uki"	"happy"	"SRI"	"D"	"resolute"	"Y"	38
+"2033-9"	"maremare"	"rare"	"RNAdj"	"T"	"rare"	"Y"	39
+"2033-9"	"debu"	"fat"	"SRI"	"D"	"gaudy"	"Y"	40
+"2033-9"	"raku"	"comfortable"	"NAdj"	"D"	"free"	"Y"	41
+"2033-9"	"yura"	"wobbly"	"SRI"	"D"	"rare"	"Y"	42
+"2033-9"	"raku"	"comfortable"	"NAdj"	"T"	"comfortable"	"Y"	43
+"2033-9"	"uki"	"happy"	"SRI"	"T"	"happy"	"Y"	44
+"2033-9"	"zokuzoku"	"vulgar"	"RNAdj"	"T"	"vulgar"	"Y"	45
+"2033-9"	"boroboro"	"worn out"	"RI"	"D"	"hesitant"	"Y"	46
+"2033-9"	"jikkurijikkuri"	"careful"	"RNRI"	"T"	"careful"	"Y"	47
+"2033-9"	"hikuhiku"	"agitated"	"RI"	"T"	"agitated"	"Y"	48
+"2033-9"	"potchari"	"plump"	"NRI"	"T"	"plump"	"Y"	49
+"2033-9"	"kibikibi"	"energetic"	"RI"	"D"	"chubby"	"Y"	50
+"2033-9"	"hima"	"free"	"NAdj"	"T"	"free"	"Y"	51
+"2033-9"	"kiza"	"smug"	"NAdj"	"T"	"smug"	"Y"	52
+"2033-9"	"moji"	"hesitant"	"SRI"	"T"	"hesitant"	"Y"	53
+"2033-9"	"pokapoka"	"gaping"	"RNRI"	"D"	"whole"	"Y"	54
+"2033-9"	"mushimushi"	"humid"	"RI"	"D"	"harsh"	"Y"	55
+"2033-9"	"murimuri"	"impossible"	"RNAdj"	"D"	"crowded"	"Y"	56
+"2033-9"	"gosogoso"	"whole"	"RNRI"	"D"	"sudden"	"Y"	57
+"2033-9"	"maremare"	"rare"	"RNAdj"	"D"	"fat"	"Y"	58
+"2033-9"	"hoka"	"steaming"	"SRI"	"T"	"steaming"	"Y"	59
+"2033-9"	"mucha"	"rash"	"NAdj"	"T"	"rash"	"Y"	60
+"2033-9"	"moji"	"hesitant"	"SRI"	"D"	"hasty"	"Y"	61
+"2033-9"	"fubi"	"deficient"	"NAdj"	"T"	"deficient"	"Y"	62
+"2033-9"	"pata"	"sudden"	"NRI"	"D"	"vulgar"	"Y"	63
+"2033-9"	"kibikibi"	"energetic"	"RI"	"T"	"energetic"	"Y"	64
+"2033-9"	"potchari"	"plump"	"NRI"	"D"	"gaping"	"Y"	65
+"2033-9"	"hima"	"free"	"NAdj"	"D"	"sloppy"	"Y"	66
+"2033-9"	"mushimushi"	"humid"	"RI"	"T"	"humid"	"Y"	67
+"2033-9"	"murimuri"	"impossible"	"RNAdj"	"T"	"impossible"	"Y"	68
+"2033-9"	"pata"	"sudden"	"NRI"	"T"	"sudden"	"Y"	69
+"2033-9"	"gashigashi"	"sturdy"	"RNRI"	"T"	"sturdy"	"Y"	70
+"2033-9"	"zokuzoku"	"vulgar"	"RNAdj"	"D"	"energetic"	"Y"	71
+"2033-9"	"bassaribassari"	"resolute"	"RNRI"	"D"	"subdued"	"Y"	72

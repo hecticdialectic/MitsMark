@@ -1,0 +1,73 @@
+"Id"	"Word"	"TrueMeaning"	"WordType"	"TrialType"	"TargetMeaning"	"LegalTrial"	"TrialNum"
+"5844-6"	"zukezuke"	"rude"	"RI"	"T"	"rude"	"Y"	1
+"5844-6"	"muku"	"pure"	"NAdj"	"T"	"pure"	"Y"	2
+"5844-6"	"zatsuzatsu"	"sloppy"	"RNAdj"	"D"	"steaming"	"Y"	3
+"5844-6"	"hiku"	"agitated"	"SRI"	"D"	"rash"	"Y"	4
+"5844-6"	"hiku"	"agitated"	"SRI"	"T"	"agitated"	"Y"	5
+"5844-6"	"hokahoka"	"steaming"	"RI"	"T"	"steaming"	"Y"	6
+"5844-6"	"pata"	"sudden"	"NRI"	"D"	"happy"	"Y"	7
+"5844-6"	"yurayura"	"wobbly"	"RI"	"T"	"wobbly"	"Y"	8
+"5844-6"	"kakkirikakkiri"	"exact"	"RNRI"	"D"	"hasty"	"Y"	9
+"5844-6"	"boro"	"worn out"	"SRI"	"D"	"useless"	"Y"	10
+"5844-6"	"musu"	"sullen"	"NRI"	"D"	"excessive"	"Y"	11
+"5844-6"	"maremare"	"rare"	"RNAdj"	"T"	"rare"	"Y"	12
+"5844-6"	"muku"	"pure"	"NAdj"	"D"	"resolute"	"Y"	13
+"5844-6"	"muchamucha"	"rash"	"RNAdj"	"T"	"rash"	"Y"	14
+"5844-6"	"moji"	"hesitant"	"SRI"	"T"	"hesitant"	"Y"	15
+"5844-6"	"furi"	"disadvantaged"	"NAdj"	"T"	"disadvantaged"	"Y"	16
+"5844-6"	"nopperi"	"smooth"	"NRI"	"D"	"stupid"	"Y"	17
+"5844-6"	"maremare"	"rare"	"RNAdj"	"D"	"stiff"	"Y"	18
+"5844-6"	"baka"	"stupid"	"NAdj"	"T"	"stupid"	"Y"	19
+"5844-6"	"moji"	"hesitant"	"SRI"	"D"	"agitated"	"Y"	20
+"5844-6"	"kerokero"	"nonchalantly"	"RNRI"	"T"	"nonchalantly"	"Y"	21
+"5844-6"	"kukkirikukkiri"	"clear"	"RNRI"	"D"	"rare"	"Y"	22
+"5844-6"	"hiso"	"whispering"	"SRI"	"T"	"whispering"	"Y"	23
+"5844-6"	"goso"	"whole"	"NRI"	"T"	"whole"	"Y"	24
+"5844-6"	"dame"	"useless"	"NAdj"	"D"	"pure"	"Y"	25
+"5844-6"	"gowa"	"stiff"	"SRI"	"T"	"stiff"	"Y"	26
+"5844-6"	"boro"	"worn out"	"SRI"	"T"	"worn out"	"Y"	27
+"5844-6"	"pata"	"sudden"	"NRI"	"T"	"sudden"	"Y"	28
+"5844-6"	"kiza"	"smug"	"NAdj"	"T"	"smug"	"Y"	29
+"5844-6"	"hokahoka"	"steaming"	"RI"	"D"	"clear"	"Y"	30
+"5844-6"	"mushi"	"humid"	"SRI"	"T"	"humid"	"Y"	31
+"5844-6"	"toku"	"beneficial"	"NAdj"	"D"	"smooth"	"Y"	32
+"5844-6"	"himahima"	"free"	"RNAdj"	"D"	"sloppy"	"Y"	33
+"5844-6"	"furi"	"disadvantaged"	"NAdj"	"D"	"wobbly"	"Y"	34
+"5844-6"	"zukezuke"	"rude"	"RI"	"D"	"sudden"	"Y"	35
+"5844-6"	"bassari"	"resolute"	"NRI"	"T"	"resolute"	"Y"	36
+"5844-6"	"tsuyatsuya"	"glossy"	"RI"	"D"	"rude"	"Y"	37
+"5844-6"	"tsuyatsuya"	"glossy"	"RI"	"T"	"glossy"	"Y"	38
+"5844-6"	"ukiuki"	"happy"	"RI"	"D"	"disadvantaged"	"Y"	39
+"5844-6"	"baka"	"stupid"	"NAdj"	"D"	"vulgar"	"Y"	40
+"5844-6"	"potcharipotchari"	"plump"	"RNRI"	"D"	"dejected"	"Y"	41
+"5844-6"	"sekaseka"	"hasty"	"RI"	"T"	"hasty"	"Y"	42
+"5844-6"	"muchamucha"	"rash"	"RNAdj"	"D"	"nonchalantly"	"Y"	43
+"5844-6"	"kukkirikukkiri"	"clear"	"RNRI"	"T"	"clear"	"Y"	44
+"5844-6"	"kachin"	"offended"	"NRI"	"D"	"free"	"Y"	45
+"5844-6"	"nopperi"	"smooth"	"NRI"	"T"	"smooth"	"Y"	46
+"5844-6"	"potcharipotchari"	"plump"	"RNRI"	"T"	"plump"	"Y"	47
+"5844-6"	"hiso"	"whispering"	"SRI"	"D"	"worn out"	"Y"	48
+"5844-6"	"kerokero"	"nonchalantly"	"RNRI"	"D"	"plump"	"Y"	49
+"5844-6"	"kachin"	"offended"	"NRI"	"T"	"offended"	"Y"	50
+"5844-6"	"zokuzoku"	"vulgar"	"RNAdj"	"T"	"vulgar"	"Y"	51
+"5844-6"	"dame"	"useless"	"NAdj"	"T"	"useless"	"Y"	52
+"5844-6"	"musu"	"sullen"	"NRI"	"T"	"sullen"	"Y"	53
+"5844-6"	"ukiuki"	"happy"	"RI"	"T"	"happy"	"Y"	54
+"5844-6"	"kiza"	"smug"	"NAdj"	"D"	"whole"	"Y"	55
+"5844-6"	"gakugaku"	"dejected"	"RNRI"	"D"	"smug"	"Y"	56
+"5844-6"	"toku"	"beneficial"	"NAdj"	"T"	"beneficial"	"Y"	57
+"5844-6"	"sekaseka"	"hasty"	"RI"	"D"	"beneficial"	"Y"	58
+"5844-6"	"garagara"	"to change ocmpletely"	"RNRI"	"D"	"exact"	"Y"	59
+"5844-6"	"kadokado"	"excessive"	"RNAdj"	"D"	"to change ocmpletely"	"Y"	60
+"5844-6"	"zokuzoku"	"vulgar"	"RNAdj"	"D"	"glossy"	"Y"	61
+"5844-6"	"garagara"	"to change ocmpletely"	"RNRI"	"T"	"to change ocmpletely"	"Y"	62
+"5844-6"	"gakugaku"	"dejected"	"RNRI"	"T"	"dejected"	"Y"	63
+"5844-6"	"zatsuzatsu"	"sloppy"	"RNAdj"	"T"	"sloppy"	"Y"	64
+"5844-6"	"bassari"	"resolute"	"NRI"	"D"	"sullen"	"Y"	65
+"5844-6"	"kakkirikakkiri"	"exact"	"RNRI"	"T"	"exact"	"Y"	66
+"5844-6"	"himahima"	"free"	"RNAdj"	"T"	"free"	"Y"	67
+"5844-6"	"gowa"	"stiff"	"SRI"	"D"	"offended"	"Y"	68
+"5844-6"	"mushi"	"humid"	"SRI"	"D"	"whispering"	"Y"	69
+"5844-6"	"goso"	"whole"	"NRI"	"D"	"humid"	"Y"	70
+"5844-6"	"kadokado"	"excessive"	"RNAdj"	"T"	"excessive"	"Y"	71
+"5844-6"	"yurayura"	"wobbly"	"RI"	"D"	"hesitant"	"Y"	72

@@ -1,0 +1,73 @@
+"Id"	"Word"	"TrueMeaning"	"WordType"	"TrialType"	"TargetMeaning"	"LegalTrial"	"TrialNum"
+"961-2"	"toku"	"beneficial"	"NAdj"	"D"	"fat"	"Y"	1
+"961-2"	"uki"	"happy"	"SRI"	"D"	"stiff"	"Y"	2
+"961-2"	"himahima"	"free"	"RNAdj"	"T"	"free"	"Y"	3
+"961-2"	"zokuzoku"	"vulgar"	"RNAdj"	"D"	"whole"	"Y"	4
+"961-2"	"gaya"	"noisy"	"SRI"	"T"	"noisy"	"Y"	5
+"961-2"	"pata"	"sudden"	"NRI"	"D"	"comfortable"	"Y"	6
+"961-2"	"pata"	"sudden"	"NRI"	"T"	"sudden"	"Y"	7
+"961-2"	"sekaseka"	"hasty"	"RI"	"D"	"impossible"	"Y"	8
+"961-2"	"sekaseka"	"hasty"	"RI"	"T"	"hasty"	"Y"	9
+"961-2"	"kibikibi"	"energetic"	"RI"	"D"	"shivering"	"Y"	10
+"961-2"	"muri"	"impossible"	"NAdj"	"T"	"impossible"	"Y"	11
+"961-2"	"musumusu"	"sullen"	"RNRI"	"T"	"sullen"	"Y"	12
+"961-2"	"furi"	"disadvantaged"	"NAdj"	"T"	"disadvantaged"	"Y"	13
+"961-2"	"nopperinopperi"	"smooth"	"RNRI"	"D"	"pure"	"Y"	14
+"961-2"	"yawayawa"	"fragile"	"RNAdj"	"T"	"fragile"	"Y"	15
+"961-2"	"kadokado"	"excessive"	"RNAdj"	"D"	"energetic"	"Y"	16
+"961-2"	"buru"	"shivering"	"SRI"	"D"	"vulgar"	"Y"	17
+"961-2"	"bakabaka"	"stupid"	"RNAdj"	"T"	"stupid"	"Y"	18
+"961-2"	"gara"	"to change ocmpletely"	"NRI"	"D"	"offended"	"Y"	19
+"961-2"	"gowa"	"stiff"	"SRI"	"T"	"stiff"	"Y"	20
+"961-2"	"kukkiri"	"clear"	"NRI"	"D"	"deficient"	"Y"	21
+"961-2"	"gowa"	"stiff"	"SRI"	"D"	"messy"	"Y"	22
+"961-2"	"pishapisha"	"decisive"	"RNRI"	"T"	"decisive"	"Y"	23
+"961-2"	"zokuzoku"	"vulgar"	"RNAdj"	"T"	"vulgar"	"Y"	24
+"961-2"	"goso"	"whole"	"NRI"	"D"	"beneficial"	"Y"	25
+"961-2"	"muri"	"impossible"	"NAdj"	"D"	"noisy"	"Y"	26
+"961-2"	"gochagocha"	"messy"	"RI"	"D"	"to change ocmpletely"	"Y"	27
+"961-2"	"kiza"	"smug"	"NAdj"	"D"	"free"	"Y"	28
+"961-2"	"mushimushi"	"humid"	"RI"	"T"	"humid"	"Y"	29
+"961-2"	"bassaribassari"	"resolute"	"RNRI"	"T"	"resolute"	"Y"	30
+"961-2"	"gussuri"	"fast asleep"	"NRI"	"T"	"fast asleep"	"Y"	31
+"961-2"	"gochagocha"	"messy"	"RI"	"T"	"messy"	"Y"	32
+"961-2"	"buru"	"shivering"	"SRI"	"T"	"shivering"	"Y"	33
+"961-2"	"musumusu"	"sullen"	"RNRI"	"D"	"smooth"	"Y"	34
+"961-2"	"toku"	"beneficial"	"NAdj"	"T"	"beneficial"	"Y"	35
+"961-2"	"himahima"	"free"	"RNAdj"	"D"	"dejected"	"Y"	36
+"961-2"	"muku"	"pure"	"NAdj"	"T"	"pure"	"Y"	37
+"961-2"	"gaku"	"dejected"	"NRI"	"T"	"dejected"	"Y"	38
+"961-2"	"kibikibi"	"energetic"	"RI"	"T"	"energetic"	"Y"	39
+"961-2"	"furi"	"disadvantaged"	"NAdj"	"D"	"stupid"	"Y"	40
+"961-2"	"fubi"	"deficient"	"NAdj"	"T"	"deficient"	"Y"	41
+"961-2"	"fubi"	"deficient"	"NAdj"	"D"	"fast asleep"	"Y"	42
+"961-2"	"kadokado"	"excessive"	"RNAdj"	"T"	"excessive"	"Y"	43
+"961-2"	"potcharipotchari"	"plump"	"RNRI"	"D"	"whispering"	"Y"	44
+"961-2"	"gussuri"	"fast asleep"	"NRI"	"D"	"decisive"	"Y"	45
+"961-2"	"debudebu"	"fat"	"RI"	"T"	"fat"	"Y"	46
+"961-2"	"nopperinopperi"	"smooth"	"RNRI"	"T"	"smooth"	"Y"	47
+"961-2"	"potcharipotchari"	"plump"	"RNRI"	"T"	"plump"	"Y"	48
+"961-2"	"kachinkachin"	"offended"	"RNRI"	"T"	"offended"	"Y"	49
+"961-2"	"boroboro"	"worn out"	"RI"	"D"	"humid"	"Y"	50
+"961-2"	"rakuraku"	"comfortable"	"RNAdj"	"T"	"comfortable"	"Y"	51
+"961-2"	"yura"	"wobbly"	"SRI"	"D"	"hasty"	"Y"	52
+"961-2"	"yawayawa"	"fragile"	"RNAdj"	"D"	"clear"	"Y"	53
+"961-2"	"bakabaka"	"stupid"	"RNAdj"	"D"	"fragile"	"Y"	54
+"961-2"	"debudebu"	"fat"	"RI"	"D"	"excessive"	"Y"	55
+"961-2"	"kukkiri"	"clear"	"NRI"	"T"	"clear"	"Y"	56
+"961-2"	"gara"	"to change ocmpletely"	"NRI"	"T"	"to change ocmpletely"	"Y"	57
+"961-2"	"gaku"	"dejected"	"NRI"	"D"	"disadvantaged"	"Y"	58
+"961-2"	"goso"	"whole"	"NRI"	"T"	"whole"	"Y"	59
+"961-2"	"uki"	"happy"	"SRI"	"T"	"happy"	"Y"	60
+"961-2"	"muku"	"pure"	"NAdj"	"D"	"sullen"	"Y"	61
+"961-2"	"pishapisha"	"decisive"	"RNRI"	"D"	"sudden"	"Y"	62
+"961-2"	"kiza"	"smug"	"NAdj"	"T"	"smug"	"Y"	63
+"961-2"	"hiso"	"whispering"	"SRI"	"T"	"whispering"	"Y"	64
+"961-2"	"kachinkachin"	"offended"	"RNRI"	"D"	"worn out"	"Y"	65
+"961-2"	"gaya"	"noisy"	"SRI"	"D"	"smug"	"Y"	66
+"961-2"	"mushimushi"	"humid"	"RI"	"D"	"happy"	"Y"	67
+"961-2"	"bassaribassari"	"resolute"	"RNRI"	"D"	"plump"	"Y"	68
+"961-2"	"boroboro"	"worn out"	"RI"	"T"	"worn out"	"Y"	69
+"961-2"	"hiso"	"whispering"	"SRI"	"D"	"wobbly"	"Y"	70
+"961-2"	"rakuraku"	"comfortable"	"RNAdj"	"D"	"resolute"	"Y"	71
+"961-2"	"yura"	"wobbly"	"SRI"	"T"	"wobbly"	"Y"	72

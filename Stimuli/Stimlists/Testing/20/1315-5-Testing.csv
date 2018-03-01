@@ -1,0 +1,73 @@
+"Id"	"Word"	"TrueMeaning"	"WordType"	"TrialType"	"TargetMeaning"	"LegalTrial"	"TrialNum"
+"1315-5"	"uki"	"happy"	"SRI"	"T"	"happy"	"Y"	1
+"1315-5"	"kukkirikukkiri"	"clear"	"RNRI"	"T"	"clear"	"Y"	2
+"1315-5"	"hikuhiku"	"agitated"	"RI"	"T"	"agitated"	"Y"	3
+"1315-5"	"zuke"	"rude"	"SRI"	"T"	"rude"	"Y"	4
+"1315-5"	"bukubuku"	"chubby"	"RI"	"D"	"decisive"	"Y"	5
+"1315-5"	"yura"	"wobbly"	"SRI"	"T"	"wobbly"	"Y"	6
+"1315-5"	"fubi"	"deficient"	"NAdj"	"D"	"disadvantaged"	"Y"	7
+"1315-5"	"pishapisha"	"decisive"	"RNRI"	"D"	"worn out"	"Y"	8
+"1315-5"	"zatsuzatsu"	"sloppy"	"RNAdj"	"T"	"sloppy"	"Y"	9
+"1315-5"	"dame"	"useless"	"NAdj"	"D"	"clear"	"Y"	10
+"1315-5"	"mukumuku"	"pure"	"RNAdj"	"T"	"pure"	"Y"	11
+"1315-5"	"nopperinopperi"	"smooth"	"RNRI"	"T"	"smooth"	"Y"	12
+"1315-5"	"kakkiri"	"exact"	"NRI"	"T"	"exact"	"Y"	13
+"1315-5"	"koku"	"harsh"	"NAdj"	"D"	"steaming"	"Y"	14
+"1315-5"	"gakugaku"	"dejected"	"RNRI"	"D"	"impossible"	"Y"	15
+"1315-5"	"murimuri"	"impossible"	"RNAdj"	"D"	"useless"	"Y"	16
+"1315-5"	"hokahoka"	"steaming"	"RI"	"T"	"steaming"	"Y"	17
+"1315-5"	"mushimushi"	"humid"	"RI"	"T"	"humid"	"Y"	18
+"1315-5"	"bukubuku"	"chubby"	"RI"	"T"	"chubby"	"Y"	19
+"1315-5"	"kukkirikukkiri"	"clear"	"RNRI"	"D"	"wobbly"	"Y"	20
+"1315-5"	"raku"	"comfortable"	"NAdj"	"T"	"comfortable"	"Y"	21
+"1315-5"	"hima"	"free"	"NAdj"	"D"	"fat"	"Y"	22
+"1315-5"	"bisshiribisshiri"	"crowded"	"RNRI"	"D"	"exact"	"Y"	23
+"1315-5"	"fubi"	"deficient"	"NAdj"	"T"	"deficient"	"Y"	24
+"1315-5"	"tsuya"	"glossy"	"SRI"	"T"	"glossy"	"Y"	25
+"1315-5"	"furifuri"	"disadvantaged"	"RNAdj"	"T"	"disadvantaged"	"Y"	26
+"1315-5"	"kibi"	"energetic"	"SRI"	"T"	"energetic"	"Y"	27
+"1315-5"	"shinnari"	"supple"	"NRI"	"T"	"supple"	"Y"	28
+"1315-5"	"kadokado"	"excessive"	"RNAdj"	"D"	"free"	"Y"	29
+"1315-5"	"koku"	"harsh"	"NAdj"	"T"	"harsh"	"Y"	30
+"1315-5"	"bassari"	"resolute"	"NRI"	"T"	"resolute"	"Y"	31
+"1315-5"	"hikuhiku"	"agitated"	"RI"	"D"	"sudden"	"Y"	32
+"1315-5"	"kibi"	"energetic"	"SRI"	"D"	"agitated"	"Y"	33
+"1315-5"	"kabikabi"	"gaudy"	"RNAdj"	"D"	"humid"	"Y"	34
+"1315-5"	"raku"	"comfortable"	"NAdj"	"D"	"energetic"	"Y"	35
+"1315-5"	"gakugaku"	"dejected"	"RNRI"	"T"	"dejected"	"Y"	36
+"1315-5"	"pata"	"sudden"	"NRI"	"D"	"gaudy"	"Y"	37
+"1315-5"	"nopperinopperi"	"smooth"	"RNRI"	"D"	"crowded"	"Y"	38
+"1315-5"	"shinnari"	"supple"	"NRI"	"D"	"smooth"	"Y"	39
+"1315-5"	"gussurigussuri"	"fast asleep"	"RNRI"	"D"	"shivering"	"Y"	40
+"1315-5"	"bisshiribisshiri"	"crowded"	"RNRI"	"T"	"crowded"	"Y"	41
+"1315-5"	"musu"	"sullen"	"NRI"	"T"	"sullen"	"Y"	42
+"1315-5"	"pishapisha"	"decisive"	"RNRI"	"T"	"decisive"	"Y"	43
+"1315-5"	"hima"	"free"	"NAdj"	"T"	"free"	"Y"	44
+"1315-5"	"dame"	"useless"	"NAdj"	"T"	"useless"	"Y"	45
+"1315-5"	"yura"	"wobbly"	"SRI"	"D"	"whole"	"Y"	46
+"1315-5"	"kabikabi"	"gaudy"	"RNAdj"	"T"	"gaudy"	"Y"	47
+"1315-5"	"hokahoka"	"steaming"	"RI"	"D"	"deficient"	"Y"	48
+"1315-5"	"jimi"	"subdued"	"NAdj"	"T"	"subdued"	"Y"	49
+"1315-5"	"jimi"	"subdued"	"NAdj"	"D"	"comfortable"	"Y"	50
+"1315-5"	"mushimushi"	"humid"	"RI"	"D"	"excessive"	"Y"	51
+"1315-5"	"bassari"	"resolute"	"NRI"	"D"	"pure"	"Y"	52
+"1315-5"	"kakkiri"	"exact"	"NRI"	"D"	"sullen"	"Y"	53
+"1315-5"	"gussurigussuri"	"fast asleep"	"RNRI"	"T"	"fast asleep"	"Y"	54
+"1315-5"	"debudebu"	"fat"	"RI"	"D"	"happy"	"Y"	55
+"1315-5"	"zatsuzatsu"	"sloppy"	"RNAdj"	"D"	"subdued"	"Y"	56
+"1315-5"	"musu"	"sullen"	"NRI"	"D"	"fast asleep"	"Y"	57
+"1315-5"	"goso"	"whole"	"NRI"	"T"	"whole"	"Y"	58
+"1315-5"	"boro"	"worn out"	"SRI"	"T"	"worn out"	"Y"	59
+"1315-5"	"buruburu"	"shivering"	"RI"	"T"	"shivering"	"Y"	60
+"1315-5"	"furifuri"	"disadvantaged"	"RNAdj"	"D"	"supple"	"Y"	61
+"1315-5"	"mukumuku"	"pure"	"RNAdj"	"D"	"glossy"	"Y"	62
+"1315-5"	"goso"	"whole"	"NRI"	"D"	"resolute"	"Y"	63
+"1315-5"	"boro"	"worn out"	"SRI"	"D"	"chubby"	"Y"	64
+"1315-5"	"buruburu"	"shivering"	"RI"	"D"	"rude"	"Y"	65
+"1315-5"	"debudebu"	"fat"	"RI"	"T"	"fat"	"Y"	66
+"1315-5"	"kadokado"	"excessive"	"RNAdj"	"T"	"excessive"	"Y"	67
+"1315-5"	"murimuri"	"impossible"	"RNAdj"	"T"	"impossible"	"Y"	68
+"1315-5"	"zuke"	"rude"	"SRI"	"D"	"sloppy"	"Y"	69
+"1315-5"	"tsuya"	"glossy"	"SRI"	"D"	"harsh"	"Y"	70
+"1315-5"	"pata"	"sudden"	"NRI"	"T"	"sudden"	"Y"	71
+"1315-5"	"uki"	"happy"	"SRI"	"D"	"dejected"	"Y"	72

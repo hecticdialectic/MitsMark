@@ -1,0 +1,73 @@
+"Id"	"Word"	"TrueMeaning"	"WordType"	"TrialType"	"TargetMeaning"	"LegalTrial"	"TrialNum"
+"3613-6"	"yawayawa"	"fragile"	"RNAdj"	"D"	"decisive"	"Y"	1
+"3613-6"	"kakkiri"	"exact"	"NRI"	"D"	"excessive"	"Y"	2
+"3613-6"	"boro"	"worn out"	"SRI"	"T"	"worn out"	"Y"	3
+"3613-6"	"gaku"	"dejected"	"NRI"	"T"	"dejected"	"Y"	4
+"3613-6"	"toku"	"beneficial"	"NAdj"	"T"	"beneficial"	"Y"	5
+"3613-6"	"mushi"	"humid"	"SRI"	"D"	"fast asleep"	"Y"	6
+"3613-6"	"kukkiri"	"clear"	"NRI"	"T"	"clear"	"Y"	7
+"3613-6"	"bassaribassari"	"resolute"	"RNRI"	"T"	"resolute"	"Y"	8
+"3613-6"	"muku"	"pure"	"NAdj"	"T"	"pure"	"Y"	9
+"3613-6"	"gocha"	"messy"	"SRI"	"D"	"impossible"	"Y"	10
+"3613-6"	"muchamucha"	"rash"	"RNAdj"	"T"	"rash"	"Y"	11
+"3613-6"	"gowa"	"stiff"	"SRI"	"D"	"dejected"	"Y"	12
+"3613-6"	"potcharipotchari"	"plump"	"RNRI"	"T"	"plump"	"Y"	13
+"3613-6"	"kizakiza"	"smug"	"RNAdj"	"D"	"useless"	"Y"	14
+"3613-6"	"boro"	"worn out"	"SRI"	"D"	"stiff"	"Y"	15
+"3613-6"	"murimuri"	"impossible"	"RNAdj"	"D"	"steaming"	"Y"	16
+"3613-6"	"moji"	"hesitant"	"SRI"	"T"	"hesitant"	"Y"	17
+"3613-6"	"maremare"	"rare"	"RNAdj"	"T"	"rare"	"Y"	18
+"3613-6"	"kizakiza"	"smug"	"RNAdj"	"T"	"smug"	"Y"	19
+"3613-6"	"hikuhiku"	"agitated"	"RI"	"D"	"exact"	"Y"	20
+"3613-6"	"berabera"	"chatty"	"RI"	"D"	"fragile"	"Y"	21
+"3613-6"	"maremare"	"rare"	"RNAdj"	"D"	"noisy"	"Y"	22
+"3613-6"	"pokapoka"	"gaping"	"RNRI"	"D"	"agitated"	"Y"	23
+"3613-6"	"harahara"	"suspenseful"	"RI"	"D"	"rash"	"Y"	24
+"3613-6"	"moji"	"hesitant"	"SRI"	"D"	"deficient"	"Y"	25
+"3613-6"	"pokapoka"	"gaping"	"RNRI"	"T"	"gaping"	"Y"	26
+"3613-6"	"muchamucha"	"rash"	"RNAdj"	"D"	"pure"	"Y"	27
+"3613-6"	"yurayura"	"wobbly"	"RI"	"T"	"wobbly"	"Y"	28
+"3613-6"	"harahara"	"suspenseful"	"RI"	"T"	"suspenseful"	"Y"	29
+"3613-6"	"goso"	"whole"	"NRI"	"D"	"worn out"	"Y"	30
+"3613-6"	"zukezuke"	"rude"	"RI"	"D"	"smooth"	"Y"	31
+"3613-6"	"hoka"	"steaming"	"SRI"	"T"	"steaming"	"Y"	32
+"3613-6"	"bassaribassari"	"resolute"	"RNRI"	"D"	"to change ocmpletely"	"Y"	33
+"3613-6"	"baka"	"stupid"	"NAdj"	"D"	"wobbly"	"Y"	34
+"3613-6"	"murimuri"	"impossible"	"RNAdj"	"T"	"impossible"	"Y"	35
+"3613-6"	"zatsu"	"sloppy"	"NAdj"	"T"	"sloppy"	"Y"	36
+"3613-6"	"gara"	"to change ocmpletely"	"NRI"	"D"	"beneficial"	"Y"	37
+"3613-6"	"gocha"	"messy"	"SRI"	"T"	"messy"	"Y"	38
+"3613-6"	"pishapisha"	"decisive"	"RNRI"	"D"	"whole"	"Y"	39
+"3613-6"	"kadokado"	"excessive"	"RNAdj"	"D"	"sloppy"	"Y"	40
+"3613-6"	"nopperinopperi"	"smooth"	"RNRI"	"T"	"smooth"	"Y"	41
+"3613-6"	"toku"	"beneficial"	"NAdj"	"D"	"rare"	"Y"	42
+"3613-6"	"kakkiri"	"exact"	"NRI"	"T"	"exact"	"Y"	43
+"3613-6"	"gussuri"	"fast asleep"	"NRI"	"T"	"fast asleep"	"Y"	44
+"3613-6"	"mushi"	"humid"	"SRI"	"T"	"humid"	"Y"	45
+"3613-6"	"zukezuke"	"rude"	"RI"	"T"	"rude"	"Y"	46
+"3613-6"	"berabera"	"chatty"	"RI"	"T"	"chatty"	"Y"	47
+"3613-6"	"gussuri"	"fast asleep"	"NRI"	"D"	"smug"	"Y"	48
+"3613-6"	"hoka"	"steaming"	"SRI"	"D"	"suspenseful"	"Y"	49
+"3613-6"	"hikuhiku"	"agitated"	"RI"	"T"	"agitated"	"Y"	50
+"3613-6"	"pishapisha"	"decisive"	"RNRI"	"T"	"decisive"	"Y"	51
+"3613-6"	"kadokado"	"excessive"	"RNAdj"	"T"	"excessive"	"Y"	52
+"3613-6"	"muku"	"pure"	"NAdj"	"D"	"supple"	"Y"	53
+"3613-6"	"goso"	"whole"	"NRI"	"T"	"whole"	"Y"	54
+"3613-6"	"fubi"	"deficient"	"NAdj"	"T"	"deficient"	"Y"	55
+"3613-6"	"baka"	"stupid"	"NAdj"	"T"	"stupid"	"Y"	56
+"3613-6"	"gowa"	"stiff"	"SRI"	"T"	"stiff"	"Y"	57
+"3613-6"	"dame"	"useless"	"NAdj"	"D"	"gaping"	"Y"	58
+"3613-6"	"gayagaya"	"noisy"	"RI"	"T"	"noisy"	"Y"	59
+"3613-6"	"gara"	"to change ocmpletely"	"NRI"	"T"	"to change ocmpletely"	"Y"	60
+"3613-6"	"shinnarishinnari"	"supple"	"RNRI"	"T"	"supple"	"Y"	61
+"3613-6"	"nopperinopperi"	"smooth"	"RNRI"	"D"	"resolute"	"Y"	62
+"3613-6"	"gayagaya"	"noisy"	"RI"	"D"	"humid"	"Y"	63
+"3613-6"	"kukkiri"	"clear"	"NRI"	"D"	"messy"	"Y"	64
+"3613-6"	"gaku"	"dejected"	"NRI"	"D"	"plump"	"Y"	65
+"3613-6"	"shinnarishinnari"	"supple"	"RNRI"	"D"	"chatty"	"Y"	66
+"3613-6"	"fubi"	"deficient"	"NAdj"	"D"	"stupid"	"Y"	67
+"3613-6"	"yawayawa"	"fragile"	"RNAdj"	"T"	"fragile"	"Y"	68
+"3613-6"	"zatsu"	"sloppy"	"NAdj"	"D"	"hesitant"	"Y"	69
+"3613-6"	"potcharipotchari"	"plump"	"RNRI"	"D"	"rude"	"Y"	70
+"3613-6"	"yurayura"	"wobbly"	"RI"	"D"	"clear"	"Y"	71
+"3613-6"	"dame"	"useless"	"NAdj"	"T"	"useless"	"Y"	72

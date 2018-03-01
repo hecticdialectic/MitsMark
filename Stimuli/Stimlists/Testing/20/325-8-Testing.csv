@@ -1,0 +1,73 @@
+"Id"	"Word"	"TrueMeaning"	"WordType"	"TrialType"	"TargetMeaning"	"LegalTrial"	"TrialNum"
+"325-8"	"yawayawa"	"fragile"	"RNAdj"	"T"	"fragile"	"Y"	1
+"325-8"	"gosogoso"	"whole"	"RNRI"	"T"	"whole"	"Y"	2
+"325-8"	"bukubuku"	"chubby"	"RI"	"T"	"chubby"	"Y"	3
+"325-8"	"gayagaya"	"noisy"	"RI"	"T"	"noisy"	"Y"	4
+"325-8"	"potchari"	"plump"	"NRI"	"D"	"chubby"	"Y"	5
+"325-8"	"seka"	"hasty"	"SRI"	"D"	"offended"	"Y"	6
+"325-8"	"fubi"	"deficient"	"NAdj"	"T"	"deficient"	"Y"	7
+"325-8"	"kabi"	"gaudy"	"NAdj"	"D"	"whole"	"Y"	8
+"325-8"	"damedame"	"useless"	"RNAdj"	"T"	"useless"	"Y"	9
+"325-8"	"gaku"	"dejected"	"NRI"	"T"	"dejected"	"Y"	10
+"325-8"	"yura"	"wobbly"	"SRI"	"T"	"wobbly"	"Y"	11
+"325-8"	"gowa"	"stiff"	"SRI"	"D"	"sloppy"	"Y"	12
+"325-8"	"garagara"	"to change ocmpletely"	"RNRI"	"D"	"energetic"	"Y"	13
+"325-8"	"musumusu"	"sullen"	"RNRI"	"D"	"sudden"	"Y"	14
+"325-8"	"zatsuzatsu"	"sloppy"	"RNAdj"	"D"	"tasteless"	"Y"	15
+"325-8"	"mucha"	"rash"	"NAdj"	"D"	"noisy"	"Y"	16
+"325-8"	"hisohiso"	"whispering"	"RI"	"D"	"sullen"	"Y"	17
+"325-8"	"bassaribassari"	"resolute"	"RNRI"	"T"	"resolute"	"Y"	18
+"325-8"	"buruburu"	"shivering"	"RI"	"T"	"shivering"	"Y"	19
+"325-8"	"himahima"	"free"	"RNAdj"	"T"	"free"	"Y"	20
+"325-8"	"gayagaya"	"noisy"	"RI"	"D"	"dejected"	"Y"	21
+"325-8"	"kakkiri"	"exact"	"NRI"	"T"	"exact"	"Y"	22
+"325-8"	"boro"	"worn out"	"SRI"	"T"	"worn out"	"Y"	23
+"325-8"	"gowa"	"stiff"	"SRI"	"T"	"stiff"	"Y"	24
+"325-8"	"seka"	"hasty"	"SRI"	"T"	"hasty"	"Y"	25
+"325-8"	"gaku"	"dejected"	"NRI"	"D"	"deficient"	"Y"	26
+"325-8"	"furi"	"disadvantaged"	"NAdj"	"D"	"clear"	"Y"	27
+"325-8"	"garagara"	"to change ocmpletely"	"RNRI"	"T"	"to change ocmpletely"	"Y"	28
+"325-8"	"kakkiri"	"exact"	"NRI"	"D"	"pure"	"Y"	29
+"325-8"	"boro"	"worn out"	"SRI"	"D"	"agitated"	"Y"	30
+"325-8"	"musumusu"	"sullen"	"RNRI"	"T"	"sullen"	"Y"	31
+"325-8"	"pata"	"sudden"	"NRI"	"T"	"sudden"	"Y"	32
+"325-8"	"fubi"	"deficient"	"NAdj"	"D"	"smooth"	"Y"	33
+"325-8"	"muku"	"pure"	"NAdj"	"T"	"pure"	"Y"	34
+"325-8"	"bukubuku"	"chubby"	"RI"	"D"	"happy"	"Y"	35
+"325-8"	"ukiuki"	"happy"	"RI"	"T"	"happy"	"Y"	36
+"325-8"	"kokukoku"	"harsh"	"RNAdj"	"T"	"harsh"	"Y"	37
+"325-8"	"hiku"	"agitated"	"SRI"	"D"	"gaudy"	"Y"	38
+"325-8"	"kibi"	"energetic"	"SRI"	"D"	"free"	"Y"	39
+"325-8"	"debudebu"	"fat"	"RI"	"T"	"fat"	"Y"	40
+"325-8"	"bassaribassari"	"resolute"	"RNRI"	"D"	"plump"	"Y"	41
+"325-8"	"potchari"	"plump"	"NRI"	"T"	"plump"	"Y"	42
+"325-8"	"debudebu"	"fat"	"RI"	"D"	"useless"	"Y"	43
+"325-8"	"kabi"	"gaudy"	"NAdj"	"T"	"gaudy"	"Y"	44
+"325-8"	"kukkirikukkiri"	"clear"	"RNRI"	"D"	"whispering"	"Y"	45
+"325-8"	"kibi"	"energetic"	"SRI"	"T"	"energetic"	"Y"	46
+"325-8"	"kukkirikukkiri"	"clear"	"RNRI"	"T"	"clear"	"Y"	47
+"325-8"	"pata"	"sudden"	"NRI"	"D"	"to change ocmpletely"	"Y"	48
+"325-8"	"buruburu"	"shivering"	"RI"	"D"	"subdued"	"Y"	49
+"325-8"	"ukiuki"	"happy"	"RI"	"D"	"shivering"	"Y"	50
+"325-8"	"furi"	"disadvantaged"	"NAdj"	"T"	"disadvantaged"	"Y"	51
+"325-8"	"yaboyabo"	"tasteless"	"RNAdj"	"T"	"tasteless"	"Y"	52
+"325-8"	"muku"	"pure"	"NAdj"	"D"	"harsh"	"Y"	53
+"325-8"	"kokukoku"	"harsh"	"RNAdj"	"D"	"worn out"	"Y"	54
+"325-8"	"yura"	"wobbly"	"SRI"	"D"	"disadvantaged"	"Y"	55
+"325-8"	"mucha"	"rash"	"NAdj"	"T"	"rash"	"Y"	56
+"325-8"	"jimi"	"subdued"	"NAdj"	"D"	"fast asleep"	"Y"	57
+"325-8"	"yaboyabo"	"tasteless"	"RNAdj"	"D"	"fat"	"Y"	58
+"325-8"	"gussuri"	"fast asleep"	"NRI"	"T"	"fast asleep"	"Y"	59
+"325-8"	"hisohiso"	"whispering"	"RI"	"T"	"whispering"	"Y"	60
+"325-8"	"yawayawa"	"fragile"	"RNAdj"	"D"	"hasty"	"Y"	61
+"325-8"	"damedame"	"useless"	"RNAdj"	"D"	"resolute"	"Y"	62
+"325-8"	"nopperi"	"smooth"	"NRI"	"T"	"smooth"	"Y"	63
+"325-8"	"kachinkachin"	"offended"	"RNRI"	"T"	"offended"	"Y"	64
+"325-8"	"himahima"	"free"	"RNAdj"	"D"	"wobbly"	"Y"	65
+"325-8"	"jimi"	"subdued"	"NAdj"	"T"	"subdued"	"Y"	66
+"325-8"	"gosogoso"	"whole"	"RNRI"	"D"	"stiff"	"Y"	67
+"325-8"	"nopperi"	"smooth"	"NRI"	"D"	"exact"	"Y"	68
+"325-8"	"kachinkachin"	"offended"	"RNRI"	"D"	"rash"	"Y"	69
+"325-8"	"gussuri"	"fast asleep"	"NRI"	"D"	"fragile"	"Y"	70
+"325-8"	"zatsuzatsu"	"sloppy"	"RNAdj"	"T"	"sloppy"	"Y"	71
+"325-8"	"hiku"	"agitated"	"SRI"	"T"	"agitated"	"Y"	72

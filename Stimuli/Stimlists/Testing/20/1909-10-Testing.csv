@@ -1,0 +1,73 @@
+"Id"	"Word"	"TrueMeaning"	"WordType"	"TrialType"	"TargetMeaning"	"LegalTrial"	"TrialNum"
+"1909-10"	"debu"	"fat"	"SRI"	"D"	"deficient"	"Y"	1
+"1909-10"	"zoku"	"vulgar"	"NAdj"	"D"	"stupid"	"Y"	2
+"1909-10"	"hokahoka"	"steaming"	"RI"	"T"	"steaming"	"Y"	3
+"1909-10"	"gowa"	"stiff"	"SRI"	"D"	"beneficial"	"Y"	4
+"1909-10"	"mucha"	"rash"	"NAdj"	"T"	"rash"	"Y"	5
+"1909-10"	"kokukoku"	"harsh"	"RNAdj"	"T"	"harsh"	"Y"	6
+"1909-10"	"kachin"	"offended"	"NRI"	"D"	"suspenseful"	"Y"	7
+"1909-10"	"zuke"	"rude"	"SRI"	"T"	"rude"	"Y"	8
+"1909-10"	"kizakiza"	"smug"	"RNAdj"	"T"	"smug"	"Y"	9
+"1909-10"	"gussuri"	"fast asleep"	"NRI"	"T"	"fast asleep"	"Y"	10
+"1909-10"	"debu"	"fat"	"SRI"	"T"	"fat"	"Y"	11
+"1909-10"	"hokahoka"	"steaming"	"RI"	"D"	"clear"	"Y"	12
+"1909-10"	"potcharipotchari"	"plump"	"RNRI"	"T"	"plump"	"Y"	13
+"1909-10"	"shinnari"	"supple"	"NRI"	"D"	"crowded"	"Y"	14
+"1909-10"	"bisshiribisshiri"	"crowded"	"RNRI"	"D"	"noisy"	"Y"	15
+"1909-10"	"kibi"	"energetic"	"SRI"	"T"	"energetic"	"Y"	16
+"1909-10"	"jimi"	"subdued"	"NAdj"	"T"	"subdued"	"Y"	17
+"1909-10"	"kukkiri"	"clear"	"NRI"	"D"	"energetic"	"Y"	18
+"1909-10"	"bisshiribisshiri"	"crowded"	"RNRI"	"T"	"crowded"	"Y"	19
+"1909-10"	"pishapisha"	"decisive"	"RNRI"	"T"	"decisive"	"Y"	20
+"1909-10"	"gayagaya"	"noisy"	"RI"	"D"	"agitated"	"Y"	21
+"1909-10"	"garagara"	"to change ocmpletely"	"RNRI"	"D"	"gaudy"	"Y"	22
+"1909-10"	"baka"	"stupid"	"NAdj"	"T"	"stupid"	"Y"	23
+"1909-10"	"potcharipotchari"	"plump"	"RNRI"	"D"	"decisive"	"Y"	24
+"1909-10"	"kakkirikakkiri"	"exact"	"RNRI"	"D"	"subdued"	"Y"	25
+"1909-10"	"kibi"	"energetic"	"SRI"	"D"	"plump"	"Y"	26
+"1909-10"	"berabera"	"chatty"	"RI"	"T"	"chatty"	"Y"	27
+"1909-10"	"tokutoku"	"beneficial"	"RNAdj"	"T"	"beneficial"	"Y"	28
+"1909-10"	"pishapisha"	"decisive"	"RNRI"	"D"	"chubby"	"Y"	29
+"1909-10"	"garagara"	"to change ocmpletely"	"RNRI"	"T"	"to change ocmpletely"	"Y"	30
+"1909-10"	"hikuhiku"	"agitated"	"RI"	"D"	"resolute"	"Y"	31
+"1909-10"	"kukkiri"	"clear"	"NRI"	"T"	"clear"	"Y"	32
+"1909-10"	"harahara"	"suspenseful"	"RI"	"D"	"rash"	"Y"	33
+"1909-10"	"kabikabi"	"gaudy"	"RNAdj"	"T"	"gaudy"	"Y"	34
+"1909-10"	"baka"	"stupid"	"NAdj"	"D"	"useless"	"Y"	35
+"1909-10"	"fubifubi"	"deficient"	"RNAdj"	"D"	"exact"	"Y"	36
+"1909-10"	"gocha"	"messy"	"SRI"	"T"	"messy"	"Y"	37
+"1909-10"	"boroboro"	"worn out"	"RI"	"T"	"worn out"	"Y"	38
+"1909-10"	"raku"	"comfortable"	"NAdj"	"T"	"comfortable"	"Y"	39
+"1909-10"	"kizakiza"	"smug"	"RNAdj"	"D"	"offended"	"Y"	40
+"1909-10"	"shinnari"	"supple"	"NRI"	"T"	"supple"	"Y"	41
+"1909-10"	"fubifubi"	"deficient"	"RNAdj"	"T"	"deficient"	"Y"	42
+"1909-10"	"zoku"	"vulgar"	"NAdj"	"T"	"vulgar"	"Y"	43
+"1909-10"	"berabera"	"chatty"	"RI"	"D"	"worn out"	"Y"	44
+"1909-10"	"nopperi"	"smooth"	"NRI"	"T"	"smooth"	"Y"	45
+"1909-10"	"batchiri"	"perfect"	"NRI"	"D"	"steaming"	"Y"	46
+"1909-10"	"kakkirikakkiri"	"exact"	"RNRI"	"T"	"exact"	"Y"	47
+"1909-10"	"yabo"	"tasteless"	"NAdj"	"D"	"fast asleep"	"Y"	48
+"1909-10"	"bassaribassari"	"resolute"	"RNRI"	"D"	"perfect"	"Y"	49
+"1909-10"	"gayagaya"	"noisy"	"RI"	"T"	"noisy"	"Y"	50
+"1909-10"	"harahara"	"suspenseful"	"RI"	"T"	"suspenseful"	"Y"	51
+"1909-10"	"raku"	"comfortable"	"NAdj"	"D"	"smug"	"Y"	52
+"1909-10"	"tokutoku"	"beneficial"	"RNAdj"	"D"	"comfortable"	"Y"	53
+"1909-10"	"gocha"	"messy"	"SRI"	"D"	"harsh"	"Y"	54
+"1909-10"	"gowa"	"stiff"	"SRI"	"T"	"stiff"	"Y"	55
+"1909-10"	"mucha"	"rash"	"NAdj"	"D"	"messy"	"Y"	56
+"1909-10"	"hikuhiku"	"agitated"	"RI"	"T"	"agitated"	"Y"	57
+"1909-10"	"kokukoku"	"harsh"	"RNAdj"	"D"	"smooth"	"Y"	58
+"1909-10"	"nopperi"	"smooth"	"NRI"	"D"	"to change ocmpletely"	"Y"	59
+"1909-10"	"zuke"	"rude"	"SRI"	"D"	"fat"	"Y"	60
+"1909-10"	"kabikabi"	"gaudy"	"RNAdj"	"D"	"tasteless"	"Y"	61
+"1909-10"	"batchiri"	"perfect"	"NRI"	"T"	"perfect"	"Y"	62
+"1909-10"	"bassaribassari"	"resolute"	"RNRI"	"T"	"resolute"	"Y"	63
+"1909-10"	"damedame"	"useless"	"RNAdj"	"D"	"supple"	"Y"	64
+"1909-10"	"yabo"	"tasteless"	"NAdj"	"T"	"tasteless"	"Y"	65
+"1909-10"	"gussuri"	"fast asleep"	"NRI"	"D"	"vulgar"	"Y"	66
+"1909-10"	"kachin"	"offended"	"NRI"	"T"	"offended"	"Y"	67
+"1909-10"	"damedame"	"useless"	"RNAdj"	"T"	"useless"	"Y"	68
+"1909-10"	"boroboro"	"worn out"	"RI"	"D"	"chatty"	"Y"	69
+"1909-10"	"jimi"	"subdued"	"NAdj"	"D"	"stiff"	"Y"	70
+"1909-10"	"buku"	"chubby"	"SRI"	"D"	"rude"	"Y"	71
+"1909-10"	"buku"	"chubby"	"SRI"	"T"	"chubby"	"Y"	72

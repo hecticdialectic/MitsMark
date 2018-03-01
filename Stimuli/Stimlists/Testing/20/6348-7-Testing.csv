@@ -1,0 +1,73 @@
+"Id"	"Word"	"TrueMeaning"	"WordType"	"TrialType"	"TargetMeaning"	"LegalTrial"	"TrialNum"
+"6348-7"	"hara"	"suspenseful"	"SRI"	"D"	"worn out"	"Y"	1
+"6348-7"	"pata"	"sudden"	"NRI"	"T"	"sudden"	"Y"	2
+"6348-7"	"yura"	"wobbly"	"SRI"	"D"	"whole"	"Y"	3
+"6348-7"	"musu"	"sullen"	"NRI"	"T"	"sullen"	"Y"	4
+"6348-7"	"mushi"	"humid"	"SRI"	"T"	"humid"	"Y"	5
+"6348-7"	"gochagocha"	"messy"	"RI"	"D"	"rare"	"Y"	6
+"6348-7"	"gussurigussuri"	"fast asleep"	"RNRI"	"T"	"fast asleep"	"Y"	7
+"6348-7"	"buruburu"	"shivering"	"RI"	"T"	"shivering"	"Y"	8
+"6348-7"	"rakuraku"	"comfortable"	"RNAdj"	"D"	"wobbly"	"Y"	9
+"6348-7"	"himahima"	"free"	"RNAdj"	"T"	"free"	"Y"	10
+"6348-7"	"zokuzoku"	"vulgar"	"RNAdj"	"T"	"vulgar"	"Y"	11
+"6348-7"	"hikuhiku"	"agitated"	"RI"	"T"	"agitated"	"Y"	12
+"6348-7"	"mushi"	"humid"	"SRI"	"D"	"careful"	"Y"	13
+"6348-7"	"bera"	"chatty"	"SRI"	"D"	"whispering"	"Y"	14
+"6348-7"	"zatsu"	"sloppy"	"NAdj"	"D"	"agitated"	"Y"	15
+"6348-7"	"hara"	"suspenseful"	"SRI"	"T"	"suspenseful"	"Y"	16
+"6348-7"	"hiso"	"whispering"	"SRI"	"T"	"whispering"	"Y"	17
+"6348-7"	"potcharipotchari"	"plump"	"RNRI"	"D"	"chatty"	"Y"	18
+"6348-7"	"gashigashi"	"sturdy"	"RNRI"	"D"	"offended"	"Y"	19
+"6348-7"	"mare"	"rare"	"NAdj"	"T"	"rare"	"Y"	20
+"6348-7"	"mucha"	"rash"	"NAdj"	"T"	"rash"	"Y"	21
+"6348-7"	"batchiri"	"perfect"	"NRI"	"D"	"useless"	"Y"	22
+"6348-7"	"baka"	"stupid"	"NAdj"	"T"	"stupid"	"Y"	23
+"6348-7"	"murimuri"	"impossible"	"RNAdj"	"T"	"impossible"	"Y"	24
+"6348-7"	"zokuzoku"	"vulgar"	"RNAdj"	"D"	"energetic"	"Y"	25
+"6348-7"	"kizakiza"	"smug"	"RNAdj"	"T"	"smug"	"Y"	26
+"6348-7"	"jimi"	"subdued"	"NAdj"	"T"	"subdued"	"Y"	27
+"6348-7"	"gashigashi"	"sturdy"	"RNRI"	"T"	"sturdy"	"Y"	28
+"6348-7"	"toku"	"beneficial"	"NAdj"	"D"	"messy"	"Y"	29
+"6348-7"	"batchiri"	"perfect"	"NRI"	"T"	"perfect"	"Y"	30
+"6348-7"	"nopperinopperi"	"smooth"	"RNRI"	"T"	"smooth"	"Y"	31
+"6348-7"	"mare"	"rare"	"NAdj"	"D"	"shivering"	"Y"	32
+"6348-7"	"rakuraku"	"comfortable"	"RNAdj"	"T"	"comfortable"	"Y"	33
+"6348-7"	"kizakiza"	"smug"	"RNAdj"	"D"	"sturdy"	"Y"	34
+"6348-7"	"kero"	"nonchalantly"	"NRI"	"D"	"rude"	"Y"	35
+"6348-7"	"kero"	"nonchalantly"	"NRI"	"T"	"nonchalantly"	"Y"	36
+"6348-7"	"jimi"	"subdued"	"NAdj"	"D"	"stupid"	"Y"	37
+"6348-7"	"baka"	"stupid"	"NAdj"	"D"	"rash"	"Y"	38
+"6348-7"	"pisha"	"decisive"	"NRI"	"D"	"smooth"	"Y"	39
+"6348-7"	"kachinkachin"	"offended"	"RNRI"	"T"	"offended"	"Y"	40
+"6348-7"	"hiso"	"whispering"	"SRI"	"D"	"impossible"	"Y"	41
+"6348-7"	"musu"	"sullen"	"NRI"	"D"	"subdued"	"Y"	42
+"6348-7"	"boro"	"worn out"	"SRI"	"D"	"sullen"	"Y"	43
+"6348-7"	"hikuhiku"	"agitated"	"RI"	"D"	"beneficial"	"Y"	44
+"6348-7"	"kachinkachin"	"offended"	"RNRI"	"D"	"perfect"	"Y"	45
+"6348-7"	"boro"	"worn out"	"SRI"	"T"	"worn out"	"Y"	46
+"6348-7"	"toku"	"beneficial"	"NAdj"	"T"	"beneficial"	"Y"	47
+"6348-7"	"himahima"	"free"	"RNAdj"	"D"	"steaming"	"Y"	48
+"6348-7"	"potcharipotchari"	"plump"	"RNRI"	"T"	"plump"	"Y"	49
+"6348-7"	"zukezuke"	"rude"	"RI"	"D"	"suspenseful"	"Y"	50
+"6348-7"	"gochagocha"	"messy"	"RI"	"T"	"messy"	"Y"	51
+"6348-7"	"gosogoso"	"whole"	"RNRI"	"T"	"whole"	"Y"	52
+"6348-7"	"zukezuke"	"rude"	"RI"	"T"	"rude"	"Y"	53
+"6348-7"	"mucha"	"rash"	"NAdj"	"D"	"sloppy"	"Y"	54
+"6348-7"	"jikkuri"	"careful"	"NRI"	"D"	"smug"	"Y"	55
+"6348-7"	"buruburu"	"shivering"	"RI"	"D"	"sudden"	"Y"	56
+"6348-7"	"bera"	"chatty"	"SRI"	"T"	"chatty"	"Y"	57
+"6348-7"	"kibikibi"	"energetic"	"RI"	"D"	"humid"	"Y"	58
+"6348-7"	"yura"	"wobbly"	"SRI"	"T"	"wobbly"	"Y"	59
+"6348-7"	"pata"	"sudden"	"NRI"	"D"	"plump"	"Y"	60
+"6348-7"	"kibikibi"	"energetic"	"RI"	"T"	"energetic"	"Y"	61
+"6348-7"	"damedame"	"useless"	"RNAdj"	"T"	"useless"	"Y"	62
+"6348-7"	"gosogoso"	"whole"	"RNRI"	"D"	"nonchalantly"	"Y"	63
+"6348-7"	"zatsu"	"sloppy"	"NAdj"	"T"	"sloppy"	"Y"	64
+"6348-7"	"gussurigussuri"	"fast asleep"	"RNRI"	"D"	"decisive"	"Y"	65
+"6348-7"	"nopperinopperi"	"smooth"	"RNRI"	"D"	"vulgar"	"Y"	66
+"6348-7"	"murimuri"	"impossible"	"RNAdj"	"D"	"free"	"Y"	67
+"6348-7"	"hokahoka"	"steaming"	"RI"	"T"	"steaming"	"Y"	68
+"6348-7"	"jikkuri"	"careful"	"NRI"	"T"	"careful"	"Y"	69
+"6348-7"	"pisha"	"decisive"	"NRI"	"T"	"decisive"	"Y"	70
+"6348-7"	"hokahoka"	"steaming"	"RI"	"D"	"fast asleep"	"Y"	71
+"6348-7"	"damedame"	"useless"	"RNAdj"	"D"	"comfortable"	"Y"	72

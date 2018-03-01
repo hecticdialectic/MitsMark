@@ -1,0 +1,73 @@
+"Id"	"Word"	"TrueMeaning"	"WordType"	"TrialType"	"TargetMeaning"	"LegalTrial"	"TrialNum"
+"5603-1"	"rakuraku"	"comfortable"	"RNAdj"	"D"	"stupid"	"Y"	1
+"5603-1"	"gakugaku"	"dejected"	"RNRI"	"D"	"to change ocmpletely"	"Y"	2
+"5603-1"	"murimuri"	"impossible"	"RNAdj"	"D"	"gaping"	"Y"	3
+"5603-1"	"damedame"	"useless"	"RNAdj"	"T"	"useless"	"Y"	4
+"5603-1"	"hisohiso"	"whispering"	"RI"	"D"	"humid"	"Y"	5
+"5603-1"	"yura"	"wobbly"	"SRI"	"D"	"impossible"	"Y"	6
+"5603-1"	"mucha"	"rash"	"NAdj"	"D"	"useless"	"Y"	7
+"5603-1"	"nopperi"	"smooth"	"NRI"	"T"	"smooth"	"Y"	8
+"5603-1"	"pisha"	"decisive"	"NRI"	"T"	"decisive"	"Y"	9
+"5603-1"	"garagara"	"to change ocmpletely"	"RNRI"	"T"	"to change ocmpletely"	"Y"	10
+"5603-1"	"mushi"	"humid"	"SRI"	"T"	"humid"	"Y"	11
+"5603-1"	"mucha"	"rash"	"NAdj"	"T"	"rash"	"Y"	12
+"5603-1"	"sekaseka"	"hasty"	"RI"	"T"	"hasty"	"Y"	13
+"5603-1"	"jikkurijikkuri"	"careful"	"RNRI"	"D"	"vulgar"	"Y"	14
+"5603-1"	"patapata"	"sudden"	"RNRI"	"D"	"rash"	"Y"	15
+"5603-1"	"tokutoku"	"beneficial"	"RNAdj"	"D"	"happy"	"Y"	16
+"5603-1"	"debudebu"	"fat"	"RI"	"T"	"fat"	"Y"	17
+"5603-1"	"hiku"	"agitated"	"SRI"	"D"	"chubby"	"Y"	18
+"5603-1"	"jikkurijikkuri"	"careful"	"RNRI"	"T"	"careful"	"Y"	19
+"5603-1"	"bassaribassari"	"resolute"	"RNRI"	"T"	"resolute"	"Y"	20
+"5603-1"	"hokahoka"	"steaming"	"RI"	"T"	"steaming"	"Y"	21
+"5603-1"	"hisohiso"	"whispering"	"RI"	"T"	"whispering"	"Y"	22
+"5603-1"	"kabikabi"	"gaudy"	"RNAdj"	"D"	"wobbly"	"Y"	23
+"5603-1"	"pisha"	"decisive"	"NRI"	"D"	"rude"	"Y"	24
+"5603-1"	"buruburu"	"shivering"	"RI"	"D"	"smooth"	"Y"	25
+"5603-1"	"kabikabi"	"gaudy"	"RNAdj"	"T"	"gaudy"	"Y"	26
+"5603-1"	"zuke"	"rude"	"SRI"	"D"	"hesitant"	"Y"	27
+"5603-1"	"kero"	"nonchalantly"	"NRI"	"T"	"nonchalantly"	"Y"	28
+"5603-1"	"rakuraku"	"comfortable"	"RNAdj"	"T"	"comfortable"	"Y"	29
+"5603-1"	"garagara"	"to change ocmpletely"	"RNRI"	"D"	"whispering"	"Y"	30
+"5603-1"	"bakabaka"	"stupid"	"RNAdj"	"D"	"decisive"	"Y"	31
+"5603-1"	"mare"	"rare"	"NAdj"	"D"	"hasty"	"Y"	32
+"5603-1"	"yura"	"wobbly"	"SRI"	"T"	"wobbly"	"Y"	33
+"5603-1"	"murimuri"	"impossible"	"RNAdj"	"T"	"impossible"	"Y"	34
+"5603-1"	"kero"	"nonchalantly"	"NRI"	"D"	"rare"	"Y"	35
+"5603-1"	"mushi"	"humid"	"SRI"	"D"	"comfortable"	"Y"	36
+"5603-1"	"damedame"	"useless"	"RNAdj"	"D"	"gaudy"	"Y"	37
+"5603-1"	"zatsu"	"sloppy"	"NAdj"	"D"	"exact"	"Y"	38
+"5603-1"	"goso"	"whole"	"NRI"	"T"	"whole"	"Y"	39
+"5603-1"	"uki"	"happy"	"SRI"	"T"	"happy"	"Y"	40
+"5603-1"	"goso"	"whole"	"NRI"	"D"	"careful"	"Y"	41
+"5603-1"	"fubi"	"deficient"	"NAdj"	"T"	"deficient"	"Y"	42
+"5603-1"	"nopperi"	"smooth"	"NRI"	"D"	"fast asleep"	"Y"	43
+"5603-1"	"moji"	"hesitant"	"SRI"	"T"	"hesitant"	"Y"	44
+"5603-1"	"mare"	"rare"	"NAdj"	"T"	"rare"	"Y"	45
+"5603-1"	"kakkiri"	"exact"	"NRI"	"D"	"steaming"	"Y"	46
+"5603-1"	"gakugaku"	"dejected"	"RNRI"	"T"	"dejected"	"Y"	47
+"5603-1"	"furi"	"disadvantaged"	"NAdj"	"T"	"disadvantaged"	"Y"	48
+"5603-1"	"kakkiri"	"exact"	"NRI"	"T"	"exact"	"Y"	49
+"5603-1"	"zoku"	"vulgar"	"NAdj"	"T"	"vulgar"	"Y"	50
+"5603-1"	"uki"	"happy"	"SRI"	"D"	"whole"	"Y"	51
+"5603-1"	"gussuri"	"fast asleep"	"NRI"	"D"	"nonchalantly"	"Y"	52
+"5603-1"	"bukubuku"	"chubby"	"RI"	"T"	"chubby"	"Y"	53
+"5603-1"	"bakabaka"	"stupid"	"RNAdj"	"T"	"stupid"	"Y"	54
+"5603-1"	"bukubuku"	"chubby"	"RI"	"D"	"shivering"	"Y"	55
+"5603-1"	"pokapoka"	"gaping"	"RNRI"	"T"	"gaping"	"Y"	56
+"5603-1"	"debudebu"	"fat"	"RI"	"D"	"beneficial"	"Y"	57
+"5603-1"	"tokutoku"	"beneficial"	"RNAdj"	"T"	"beneficial"	"Y"	58
+"5603-1"	"pokapoka"	"gaping"	"RNRI"	"D"	"dejected"	"Y"	59
+"5603-1"	"bassaribassari"	"resolute"	"RNRI"	"D"	"fat"	"Y"	60
+"5603-1"	"hiku"	"agitated"	"SRI"	"T"	"agitated"	"Y"	61
+"5603-1"	"zatsu"	"sloppy"	"NAdj"	"T"	"sloppy"	"Y"	62
+"5603-1"	"zuke"	"rude"	"SRI"	"T"	"rude"	"Y"	63
+"5603-1"	"sekaseka"	"hasty"	"RI"	"D"	"resolute"	"Y"	64
+"5603-1"	"moji"	"hesitant"	"SRI"	"D"	"disadvantaged"	"Y"	65
+"5603-1"	"hokahoka"	"steaming"	"RI"	"D"	"deficient"	"Y"	66
+"5603-1"	"furi"	"disadvantaged"	"NAdj"	"D"	"agitated"	"Y"	67
+"5603-1"	"patapata"	"sudden"	"RNRI"	"T"	"sudden"	"Y"	68
+"5603-1"	"fubi"	"deficient"	"NAdj"	"D"	"sloppy"	"Y"	69
+"5603-1"	"gussuri"	"fast asleep"	"NRI"	"T"	"fast asleep"	"Y"	70
+"5603-1"	"buruburu"	"shivering"	"RI"	"T"	"shivering"	"Y"	71
+"5603-1"	"zoku"	"vulgar"	"NAdj"	"D"	"sudden"	"Y"	72

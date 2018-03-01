@@ -1,0 +1,73 @@
+"Id"	"Word"	"TrueMeaning"	"WordType"	"TrialType"	"TargetMeaning"	"LegalTrial"	"TrialNum"
+"7176-10"	"kibi"	"energetic"	"SRI"	"T"	"energetic"	"Y"	1
+"7176-10"	"hiku"	"agitated"	"SRI"	"T"	"agitated"	"Y"	2
+"7176-10"	"gowa"	"stiff"	"SRI"	"D"	"sturdy"	"Y"	3
+"7176-10"	"gashi"	"sturdy"	"NRI"	"T"	"sturdy"	"Y"	4
+"7176-10"	"pokapoka"	"gaping"	"RNRI"	"D"	"deficient"	"Y"	5
+"7176-10"	"kabi"	"gaudy"	"NAdj"	"T"	"gaudy"	"Y"	6
+"7176-10"	"buruburu"	"shivering"	"RI"	"D"	"comfortable"	"Y"	7
+"7176-10"	"zoku"	"vulgar"	"NAdj"	"T"	"vulgar"	"Y"	8
+"7176-10"	"pata"	"sudden"	"NRI"	"D"	"rude"	"Y"	9
+"7176-10"	"seka"	"hasty"	"SRI"	"T"	"hasty"	"Y"	10
+"7176-10"	"gussuri"	"fast asleep"	"NRI"	"D"	"excessive"	"Y"	11
+"7176-10"	"kukkirikukkiri"	"clear"	"RNRI"	"D"	"suspenseful"	"Y"	12
+"7176-10"	"kakkiri"	"exact"	"NRI"	"D"	"nonchalantly"	"Y"	13
+"7176-10"	"kadokado"	"excessive"	"RNAdj"	"T"	"excessive"	"Y"	14
+"7176-10"	"pishapisha"	"decisive"	"RNRI"	"T"	"decisive"	"Y"	15
+"7176-10"	"fubi"	"deficient"	"NAdj"	"D"	"stiff"	"Y"	16
+"7176-10"	"kadokado"	"excessive"	"RNAdj"	"D"	"sullen"	"Y"	17
+"7176-10"	"muchamucha"	"rash"	"RNAdj"	"T"	"rash"	"Y"	18
+"7176-10"	"pokapoka"	"gaping"	"RNRI"	"T"	"gaping"	"Y"	19
+"7176-10"	"musumusu"	"sullen"	"RNRI"	"D"	"hasty"	"Y"	20
+"7176-10"	"gara"	"to change ocmpletely"	"NRI"	"T"	"to change ocmpletely"	"Y"	21
+"7176-10"	"kukkirikukkiri"	"clear"	"RNRI"	"T"	"clear"	"Y"	22
+"7176-10"	"gochagocha"	"messy"	"RI"	"D"	"beneficial"	"Y"	23
+"7176-10"	"gaya"	"noisy"	"SRI"	"T"	"noisy"	"Y"	24
+"7176-10"	"berabera"	"chatty"	"RI"	"D"	"gaudy"	"Y"	25
+"7176-10"	"rakuraku"	"comfortable"	"RNAdj"	"D"	"sudden"	"Y"	26
+"7176-10"	"potcharipotchari"	"plump"	"RNRI"	"T"	"plump"	"Y"	27
+"7176-10"	"zukezuke"	"rude"	"RI"	"D"	"sloppy"	"Y"	28
+"7176-10"	"gara"	"to change ocmpletely"	"NRI"	"D"	"plump"	"Y"	29
+"7176-10"	"seka"	"hasty"	"SRI"	"D"	"messy"	"Y"	30
+"7176-10"	"buruburu"	"shivering"	"RI"	"T"	"shivering"	"Y"	31
+"7176-10"	"boro"	"worn out"	"SRI"	"T"	"worn out"	"Y"	32
+"7176-10"	"gussuri"	"fast asleep"	"NRI"	"T"	"fast asleep"	"Y"	33
+"7176-10"	"jikkurijikkuri"	"careful"	"RNRI"	"T"	"careful"	"Y"	34
+"7176-10"	"hisohiso"	"whispering"	"RI"	"D"	"careful"	"Y"	35
+"7176-10"	"fubi"	"deficient"	"NAdj"	"T"	"deficient"	"Y"	36
+"7176-10"	"harahara"	"suspenseful"	"RI"	"T"	"suspenseful"	"Y"	37
+"7176-10"	"zoku"	"vulgar"	"NAdj"	"D"	"noisy"	"Y"	38
+"7176-10"	"toku"	"beneficial"	"NAdj"	"D"	"agitated"	"Y"	39
+"7176-10"	"yabo"	"tasteless"	"NAdj"	"T"	"tasteless"	"Y"	40
+"7176-10"	"boro"	"worn out"	"SRI"	"D"	"clear"	"Y"	41
+"7176-10"	"pishapisha"	"decisive"	"RNRI"	"D"	"harsh"	"Y"	42
+"7176-10"	"kibi"	"energetic"	"SRI"	"D"	"exact"	"Y"	43
+"7176-10"	"gowa"	"stiff"	"SRI"	"T"	"stiff"	"Y"	44
+"7176-10"	"muchamucha"	"rash"	"RNAdj"	"D"	"shivering"	"Y"	45
+"7176-10"	"zatsuzatsu"	"sloppy"	"RNAdj"	"T"	"sloppy"	"Y"	46
+"7176-10"	"dame"	"useless"	"NAdj"	"D"	"decisive"	"Y"	47
+"7176-10"	"jimijimi"	"subdued"	"RNAdj"	"D"	"rash"	"Y"	48
+"7176-10"	"pata"	"sudden"	"NRI"	"T"	"sudden"	"Y"	49
+"7176-10"	"hisohiso"	"whispering"	"RI"	"T"	"whispering"	"Y"	50
+"7176-10"	"kokukoku"	"harsh"	"RNAdj"	"D"	"vulgar"	"Y"	51
+"7176-10"	"yabo"	"tasteless"	"NAdj"	"D"	"fast asleep"	"Y"	52
+"7176-10"	"kero"	"nonchalantly"	"NRI"	"D"	"gaping"	"Y"	53
+"7176-10"	"toku"	"beneficial"	"NAdj"	"T"	"beneficial"	"Y"	54
+"7176-10"	"jimijimi"	"subdued"	"RNAdj"	"T"	"subdued"	"Y"	55
+"7176-10"	"potcharipotchari"	"plump"	"RNRI"	"D"	"tasteless"	"Y"	56
+"7176-10"	"jikkurijikkuri"	"careful"	"RNRI"	"D"	"worn out"	"Y"	57
+"7176-10"	"kokukoku"	"harsh"	"RNAdj"	"T"	"harsh"	"Y"	58
+"7176-10"	"kakkiri"	"exact"	"NRI"	"T"	"exact"	"Y"	59
+"7176-10"	"berabera"	"chatty"	"RI"	"T"	"chatty"	"Y"	60
+"7176-10"	"dame"	"useless"	"NAdj"	"T"	"useless"	"Y"	61
+"7176-10"	"hiku"	"agitated"	"SRI"	"D"	"useless"	"Y"	62
+"7176-10"	"kero"	"nonchalantly"	"NRI"	"T"	"nonchalantly"	"Y"	63
+"7176-10"	"zatsuzatsu"	"sloppy"	"RNAdj"	"D"	"chatty"	"Y"	64
+"7176-10"	"gashi"	"sturdy"	"NRI"	"D"	"subdued"	"Y"	65
+"7176-10"	"musumusu"	"sullen"	"RNRI"	"T"	"sullen"	"Y"	66
+"7176-10"	"gaya"	"noisy"	"SRI"	"D"	"to change ocmpletely"	"Y"	67
+"7176-10"	"harahara"	"suspenseful"	"RI"	"D"	"whispering"	"Y"	68
+"7176-10"	"zukezuke"	"rude"	"RI"	"T"	"rude"	"Y"	69
+"7176-10"	"rakuraku"	"comfortable"	"RNAdj"	"T"	"comfortable"	"Y"	70
+"7176-10"	"kabi"	"gaudy"	"NAdj"	"D"	"energetic"	"Y"	71
+"7176-10"	"gochagocha"	"messy"	"RI"	"T"	"messy"	"Y"	72

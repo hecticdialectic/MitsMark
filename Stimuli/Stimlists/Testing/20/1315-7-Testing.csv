@@ -1,0 +1,73 @@
+"Id"	"Word"	"TrueMeaning"	"WordType"	"TrialType"	"TargetMeaning"	"LegalTrial"	"TrialNum"
+"1315-7"	"goso"	"whole"	"NRI"	"T"	"whole"	"Y"	1
+"1315-7"	"boro"	"worn out"	"SRI"	"T"	"worn out"	"Y"	2
+"1315-7"	"pata"	"sudden"	"NRI"	"D"	"harsh"	"Y"	3
+"1315-7"	"yura"	"wobbly"	"SRI"	"T"	"wobbly"	"Y"	4
+"1315-7"	"gussurigussuri"	"fast asleep"	"RNRI"	"T"	"fast asleep"	"Y"	5
+"1315-7"	"raku"	"comfortable"	"NAdj"	"D"	"exact"	"Y"	6
+"1315-7"	"zuke"	"rude"	"SRI"	"T"	"rude"	"Y"	7
+"1315-7"	"mukumuku"	"pure"	"RNAdj"	"D"	"crowded"	"Y"	8
+"1315-7"	"furifuri"	"disadvantaged"	"RNAdj"	"D"	"resolute"	"Y"	9
+"1315-7"	"uki"	"happy"	"SRI"	"T"	"happy"	"Y"	10
+"1315-7"	"hikuhiku"	"agitated"	"RI"	"T"	"agitated"	"Y"	11
+"1315-7"	"bassari"	"resolute"	"NRI"	"T"	"resolute"	"Y"	12
+"1315-7"	"buruburu"	"shivering"	"RI"	"D"	"sullen"	"Y"	13
+"1315-7"	"gakugaku"	"dejected"	"RNRI"	"D"	"steaming"	"Y"	14
+"1315-7"	"pata"	"sudden"	"NRI"	"T"	"sudden"	"Y"	15
+"1315-7"	"mushimushi"	"humid"	"RI"	"T"	"humid"	"Y"	16
+"1315-7"	"musu"	"sullen"	"NRI"	"T"	"sullen"	"Y"	17
+"1315-7"	"tsuya"	"glossy"	"SRI"	"T"	"glossy"	"Y"	18
+"1315-7"	"bisshiribisshiri"	"crowded"	"RNRI"	"T"	"crowded"	"Y"	19
+"1315-7"	"uki"	"happy"	"SRI"	"D"	"sloppy"	"Y"	20
+"1315-7"	"kukkirikukkiri"	"clear"	"RNRI"	"D"	"pure"	"Y"	21
+"1315-7"	"gussurigussuri"	"fast asleep"	"RNRI"	"D"	"agitated"	"Y"	22
+"1315-7"	"mukumuku"	"pure"	"RNAdj"	"T"	"pure"	"Y"	23
+"1315-7"	"zatsuzatsu"	"sloppy"	"RNAdj"	"T"	"sloppy"	"Y"	24
+"1315-7"	"kibi"	"energetic"	"SRI"	"T"	"energetic"	"Y"	25
+"1315-7"	"kakkiri"	"exact"	"NRI"	"D"	"impossible"	"Y"	26
+"1315-7"	"fubi"	"deficient"	"NAdj"	"D"	"smooth"	"Y"	27
+"1315-7"	"hima"	"free"	"NAdj"	"T"	"free"	"Y"	28
+"1315-7"	"bisshiribisshiri"	"crowded"	"RNRI"	"D"	"disadvantaged"	"Y"	29
+"1315-7"	"zuke"	"rude"	"SRI"	"D"	"excessive"	"Y"	30
+"1315-7"	"kadokado"	"excessive"	"RNAdj"	"D"	"clear"	"Y"	31
+"1315-7"	"bukubuku"	"chubby"	"RI"	"T"	"chubby"	"Y"	32
+"1315-7"	"debudebu"	"fat"	"RI"	"T"	"fat"	"Y"	33
+"1315-7"	"kakkiri"	"exact"	"NRI"	"T"	"exact"	"Y"	34
+"1315-7"	"kadokado"	"excessive"	"RNAdj"	"T"	"excessive"	"Y"	35
+"1315-7"	"furifuri"	"disadvantaged"	"RNAdj"	"T"	"disadvantaged"	"Y"	36
+"1315-7"	"hima"	"free"	"NAdj"	"D"	"chubby"	"Y"	37
+"1315-7"	"nopperinopperi"	"smooth"	"RNRI"	"T"	"smooth"	"Y"	38
+"1315-7"	"murimuri"	"impossible"	"RNAdj"	"T"	"impossible"	"Y"	39
+"1315-7"	"murimuri"	"impossible"	"RNAdj"	"D"	"fat"	"Y"	40
+"1315-7"	"koku"	"harsh"	"NAdj"	"T"	"harsh"	"Y"	41
+"1315-7"	"gakugaku"	"dejected"	"RNRI"	"T"	"dejected"	"Y"	42
+"1315-7"	"tsuya"	"glossy"	"SRI"	"D"	"whole"	"Y"	43
+"1315-7"	"yura"	"wobbly"	"SRI"	"D"	"free"	"Y"	44
+"1315-7"	"musu"	"sullen"	"NRI"	"D"	"subdued"	"Y"	45
+"1315-7"	"kukkirikukkiri"	"clear"	"RNRI"	"T"	"clear"	"Y"	46
+"1315-7"	"pishapisha"	"decisive"	"RNRI"	"D"	"gaudy"	"Y"	47
+"1315-7"	"shinnari"	"supple"	"NRI"	"T"	"supple"	"Y"	48
+"1315-7"	"dame"	"useless"	"NAdj"	"T"	"useless"	"Y"	49
+"1315-7"	"bassari"	"resolute"	"NRI"	"D"	"decisive"	"Y"	50
+"1315-7"	"jimi"	"subdued"	"NAdj"	"T"	"subdued"	"Y"	51
+"1315-7"	"boro"	"worn out"	"SRI"	"D"	"glossy"	"Y"	52
+"1315-7"	"kabikabi"	"gaudy"	"RNAdj"	"T"	"gaudy"	"Y"	53
+"1315-7"	"nopperinopperi"	"smooth"	"RNRI"	"D"	"energetic"	"Y"	54
+"1315-7"	"zatsuzatsu"	"sloppy"	"RNAdj"	"D"	"humid"	"Y"	55
+"1315-7"	"koku"	"harsh"	"NAdj"	"D"	"rude"	"Y"	56
+"1315-7"	"debudebu"	"fat"	"RI"	"D"	"happy"	"Y"	57
+"1315-7"	"shinnari"	"supple"	"NRI"	"D"	"fast asleep"	"Y"	58
+"1315-7"	"pishapisha"	"decisive"	"RNRI"	"T"	"decisive"	"Y"	59
+"1315-7"	"hokahoka"	"steaming"	"RI"	"D"	"worn out"	"Y"	60
+"1315-7"	"kabikabi"	"gaudy"	"RNAdj"	"D"	"wobbly"	"Y"	61
+"1315-7"	"jimi"	"subdued"	"NAdj"	"D"	"supple"	"Y"	62
+"1315-7"	"goso"	"whole"	"NRI"	"D"	"sudden"	"Y"	63
+"1315-7"	"dame"	"useless"	"NAdj"	"D"	"deficient"	"Y"	64
+"1315-7"	"hikuhiku"	"agitated"	"RI"	"D"	"useless"	"Y"	65
+"1315-7"	"mushimushi"	"humid"	"RI"	"D"	"shivering"	"Y"	66
+"1315-7"	"fubi"	"deficient"	"NAdj"	"T"	"deficient"	"Y"	67
+"1315-7"	"buruburu"	"shivering"	"RI"	"T"	"shivering"	"Y"	68
+"1315-7"	"raku"	"comfortable"	"NAdj"	"T"	"comfortable"	"Y"	69
+"1315-7"	"kibi"	"energetic"	"SRI"	"D"	"dejected"	"Y"	70
+"1315-7"	"bukubuku"	"chubby"	"RI"	"D"	"comfortable"	"Y"	71
+"1315-7"	"hokahoka"	"steaming"	"RI"	"T"	"steaming"	"Y"	72
