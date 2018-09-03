@@ -1,0 +1,49 @@
+"Id"	"Word"	"TrueMeaning"	"WordType"	"TrialType"	"TargetMeaning"	"LegalTrial"	"TrialNum"
+"451-3"	"kero"	"nonchalantly"	"NRI"	"T"	"nonchalantly"	"Y"	1
+"451-3"	"moji"	"hesitant"	"SRI"	"T"	"hesitant"	"Y"	2
+"451-3"	"poka"	"gaping"	"NRI"	"D"	"whispering"	"Y"	3
+"451-3"	"hisohiso"	"whispering"	"RI"	"D"	"chatty"	"Y"	4
+"451-3"	"goso"	"whole"	"NRI"	"T"	"whole"	"Y"	5
+"451-3"	"buru"	"shivering"	"SRI"	"D"	"to change ocmpletely"	"Y"	6
+"451-3"	"damedame"	"useless"	"RNAdj"	"D"	"plump"	"Y"	7
+"451-3"	"harahara"	"suspenseful"	"RI"	"D"	"useless"	"Y"	8
+"451-3"	"gayagaya"	"noisy"	"RI"	"T"	"noisy"	"Y"	9
+"451-3"	"koku"	"harsh"	"NAdj"	"D"	"gaping"	"Y"	10
+"451-3"	"shinnari"	"supple"	"NRI"	"D"	"worn out"	"Y"	11
+"451-3"	"koku"	"harsh"	"NAdj"	"T"	"harsh"	"Y"	12
+"451-3"	"yawayawa"	"fragile"	"RNAdj"	"T"	"fragile"	"Y"	13
+"451-3"	"potcharipotchari"	"plump"	"RNRI"	"D"	"hesitant"	"Y"	14
+"451-3"	"kabi"	"gaudy"	"NAdj"	"T"	"gaudy"	"Y"	15
+"451-3"	"harahara"	"suspenseful"	"RI"	"T"	"suspenseful"	"Y"	16
+"451-3"	"yawayawa"	"fragile"	"RNAdj"	"D"	"whole"	"Y"	17
+"451-3"	"shinnari"	"supple"	"NRI"	"T"	"supple"	"Y"	18
+"451-3"	"kero"	"nonchalantly"	"NRI"	"D"	"gaudy"	"Y"	19
+"451-3"	"gayagaya"	"noisy"	"RI"	"D"	"harsh"	"Y"	20
+"451-3"	"zatsu"	"sloppy"	"NAdj"	"D"	"shivering"	"Y"	21
+"451-3"	"bera"	"chatty"	"SRI"	"D"	"wobbly"	"Y"	22
+"451-3"	"yura"	"wobbly"	"SRI"	"T"	"wobbly"	"Y"	23
+"451-3"	"poka"	"gaping"	"NRI"	"T"	"gaping"	"Y"	24
+"451-3"	"potcharipotchari"	"plump"	"RNRI"	"T"	"plump"	"Y"	25
+"451-3"	"bisshiribisshiri"	"crowded"	"RNRI"	"T"	"crowded"	"Y"	26
+"451-3"	"zokuzoku"	"vulgar"	"RNAdj"	"D"	"supple"	"Y"	27
+"451-3"	"moji"	"hesitant"	"SRI"	"D"	"crowded"	"Y"	28
+"451-3"	"zatsu"	"sloppy"	"NAdj"	"T"	"sloppy"	"Y"	29
+"451-3"	"damedame"	"useless"	"RNAdj"	"T"	"useless"	"Y"	30
+"451-3"	"muri"	"impossible"	"NAdj"	"D"	"nonchalantly"	"Y"	31
+"451-3"	"bera"	"chatty"	"SRI"	"T"	"chatty"	"Y"	32
+"451-3"	"muri"	"impossible"	"NAdj"	"T"	"impossible"	"Y"	33
+"451-3"	"garagara"	"to change ocmpletely"	"RNRI"	"D"	"vulgar"	"Y"	34
+"451-3"	"gussurigussuri"	"fast asleep"	"RNRI"	"D"	"subdued"	"Y"	35
+"451-3"	"hisohiso"	"whispering"	"RI"	"T"	"whispering"	"Y"	36
+"451-3"	"bisshiribisshiri"	"crowded"	"RNRI"	"D"	"impossible"	"Y"	37
+"451-3"	"boroboro"	"worn out"	"RI"	"T"	"worn out"	"Y"	38
+"451-3"	"jimijimi"	"subdued"	"RNAdj"	"T"	"subdued"	"Y"	39
+"451-3"	"kabi"	"gaudy"	"NAdj"	"D"	"sloppy"	"Y"	40
+"451-3"	"gussurigussuri"	"fast asleep"	"RNRI"	"T"	"fast asleep"	"Y"	41
+"451-3"	"garagara"	"to change ocmpletely"	"RNRI"	"T"	"to change ocmpletely"	"Y"	42
+"451-3"	"goso"	"whole"	"NRI"	"D"	"suspenseful"	"Y"	43
+"451-3"	"boroboro"	"worn out"	"RI"	"D"	"fragile"	"Y"	44
+"451-3"	"zokuzoku"	"vulgar"	"RNAdj"	"T"	"vulgar"	"Y"	45
+"451-3"	"buru"	"shivering"	"SRI"	"T"	"shivering"	"Y"	46
+"451-3"	"jimijimi"	"subdued"	"RNAdj"	"D"	"noisy"	"Y"	47
+"451-3"	"yura"	"wobbly"	"SRI"	"D"	"fast asleep"	"Y"	48

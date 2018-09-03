@@ -1,0 +1,49 @@
+"Id"	"Word"	"TrueMeaning"	"WordType"	"TrialType"	"TargetMeaning"	"LegalTrial"	"TrialNum"
+"131-7"	"mukumuku"	"pure"	"RNAdj"	"T"	"pure"	"Y"	1
+"131-7"	"debu"	"fat"	"SRI"	"T"	"fat"	"Y"	2
+"131-7"	"damedame"	"useless"	"RNAdj"	"T"	"useless"	"Y"	3
+"131-7"	"kerokero"	"nonchalantly"	"RNRI"	"D"	"fat"	"Y"	4
+"131-7"	"maremare"	"rare"	"RNAdj"	"T"	"rare"	"Y"	5
+"131-7"	"mushimushi"	"humid"	"RI"	"D"	"sloppy"	"Y"	6
+"131-7"	"mukumuku"	"pure"	"RNAdj"	"D"	"chubby"	"Y"	7
+"131-7"	"hara"	"suspenseful"	"SRI"	"D"	"beneficial"	"Y"	8
+"131-7"	"potcharipotchari"	"plump"	"RNRI"	"D"	"rare"	"Y"	9
+"131-7"	"bukubuku"	"chubby"	"RI"	"T"	"chubby"	"Y"	10
+"131-7"	"toku"	"beneficial"	"NAdj"	"D"	"clear"	"Y"	11
+"131-7"	"kukkiri"	"clear"	"NRI"	"T"	"clear"	"Y"	12
+"131-7"	"boroboro"	"worn out"	"RI"	"T"	"worn out"	"Y"	13
+"131-7"	"boroboro"	"worn out"	"RI"	"D"	"sullen"	"Y"	14
+"131-7"	"kadokado"	"excessive"	"RNAdj"	"D"	"nonchalantly"	"Y"	15
+"131-7"	"kukkiri"	"clear"	"NRI"	"D"	"suspenseful"	"Y"	16
+"131-7"	"debu"	"fat"	"SRI"	"D"	"humid"	"Y"	17
+"131-7"	"kadokado"	"excessive"	"RNAdj"	"T"	"excessive"	"Y"	18
+"131-7"	"gaya"	"noisy"	"SRI"	"D"	"stupid"	"Y"	19
+"131-7"	"damedame"	"useless"	"RNAdj"	"D"	"fast asleep"	"Y"	20
+"131-7"	"bera"	"chatty"	"SRI"	"D"	"glossy"	"Y"	21
+"131-7"	"jikkurijikkuri"	"careful"	"RNRI"	"D"	"useless"	"Y"	22
+"131-7"	"tsuyatsuya"	"glossy"	"RI"	"T"	"glossy"	"Y"	23
+"131-7"	"zatsu"	"sloppy"	"NAdj"	"T"	"sloppy"	"Y"	24
+"131-7"	"gaya"	"noisy"	"SRI"	"T"	"noisy"	"Y"	25
+"131-7"	"hara"	"suspenseful"	"SRI"	"T"	"suspenseful"	"Y"	26
+"131-7"	"jikkurijikkuri"	"careful"	"RNRI"	"T"	"careful"	"Y"	27
+"131-7"	"kerokero"	"nonchalantly"	"RNRI"	"T"	"nonchalantly"	"Y"	28
+"131-7"	"zatsu"	"sloppy"	"NAdj"	"D"	"chatty"	"Y"	29
+"131-7"	"tsuyatsuya"	"glossy"	"RI"	"D"	"crowded"	"Y"	30
+"131-7"	"bisshiribisshiri"	"crowded"	"RNRI"	"D"	"noisy"	"Y"	31
+"131-7"	"bukubuku"	"chubby"	"RI"	"D"	"worn out"	"Y"	32
+"131-7"	"bera"	"chatty"	"SRI"	"T"	"chatty"	"Y"	33
+"131-7"	"pata"	"sudden"	"NRI"	"T"	"sudden"	"Y"	34
+"131-7"	"koku"	"harsh"	"NAdj"	"D"	"careful"	"Y"	35
+"131-7"	"musu"	"sullen"	"NRI"	"T"	"sullen"	"Y"	36
+"131-7"	"potcharipotchari"	"plump"	"RNRI"	"T"	"plump"	"Y"	37
+"131-7"	"maremare"	"rare"	"RNAdj"	"D"	"sudden"	"Y"	38
+"131-7"	"pata"	"sudden"	"NRI"	"D"	"excessive"	"Y"	39
+"131-7"	"toku"	"beneficial"	"NAdj"	"T"	"beneficial"	"Y"	40
+"131-7"	"gussuri"	"fast asleep"	"NRI"	"D"	"harsh"	"Y"	41
+"131-7"	"koku"	"harsh"	"NAdj"	"T"	"harsh"	"Y"	42
+"131-7"	"mushimushi"	"humid"	"RI"	"T"	"humid"	"Y"	43
+"131-7"	"bisshiribisshiri"	"crowded"	"RNRI"	"T"	"crowded"	"Y"	44
+"131-7"	"baka"	"stupid"	"NAdj"	"T"	"stupid"	"Y"	45
+"131-7"	"baka"	"stupid"	"NAdj"	"D"	"pure"	"Y"	46
+"131-7"	"musu"	"sullen"	"NRI"	"D"	"plump"	"Y"	47
+"131-7"	"gussuri"	"fast asleep"	"NRI"	"T"	"fast asleep"	"Y"	48

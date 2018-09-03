@@ -1,0 +1,49 @@
+"Id"	"Word"	"TrueMeaning"	"WordType"	"TrialType"	"TargetMeaning"	"LegalTrial"	"TrialNum"
+"4028-4"	"kadokado"	"excessive"	"RNAdj"	"T"	"excessive"	"Y"	1
+"4028-4"	"buruburu"	"shivering"	"RI"	"T"	"shivering"	"Y"	2
+"4028-4"	"patapata"	"sudden"	"RNRI"	"T"	"sudden"	"Y"	3
+"4028-4"	"tokutoku"	"beneficial"	"RNAdj"	"T"	"beneficial"	"Y"	4
+"4028-4"	"yawayawa"	"fragile"	"RNAdj"	"T"	"fragile"	"Y"	5
+"4028-4"	"tokutoku"	"beneficial"	"RNAdj"	"D"	"smug"	"Y"	6
+"4028-4"	"yura"	"wobbly"	"SRI"	"D"	"fast asleep"	"Y"	7
+"4028-4"	"goso"	"whole"	"NRI"	"D"	"hesitant"	"Y"	8
+"4028-4"	"jimijimi"	"subdued"	"RNAdj"	"D"	"fragile"	"Y"	9
+"4028-4"	"raku"	"comfortable"	"NAdj"	"D"	"shivering"	"Y"	10
+"4028-4"	"moji"	"hesitant"	"SRI"	"T"	"hesitant"	"Y"	11
+"4028-4"	"tsuyatsuya"	"glossy"	"RI"	"T"	"glossy"	"Y"	12
+"4028-4"	"gussuri"	"fast asleep"	"NRI"	"T"	"fast asleep"	"Y"	13
+"4028-4"	"debudebu"	"fat"	"RI"	"D"	"useless"	"Y"	14
+"4028-4"	"moji"	"hesitant"	"SRI"	"D"	"perfect"	"Y"	15
+"4028-4"	"kibikibi"	"energetic"	"RI"	"T"	"energetic"	"Y"	16
+"4028-4"	"debudebu"	"fat"	"RI"	"T"	"fat"	"Y"	17
+"4028-4"	"kiza"	"smug"	"NAdj"	"T"	"smug"	"Y"	18
+"4028-4"	"boro"	"worn out"	"SRI"	"D"	"sudden"	"Y"	19
+"4028-4"	"boro"	"worn out"	"SRI"	"T"	"worn out"	"Y"	20
+"4028-4"	"batchiribatchiri"	"perfect"	"RNRI"	"D"	"worn out"	"Y"	21
+"4028-4"	"shinnari"	"supple"	"NRI"	"D"	"excessive"	"Y"	22
+"4028-4"	"zuke"	"rude"	"SRI"	"D"	"fat"	"Y"	23
+"4028-4"	"patapata"	"sudden"	"RNRI"	"D"	"supple"	"Y"	24
+"4028-4"	"bassari"	"resolute"	"NRI"	"D"	"subdued"	"Y"	25
+"4028-4"	"kiza"	"smug"	"NAdj"	"D"	"plump"	"Y"	26
+"4028-4"	"zuke"	"rude"	"SRI"	"T"	"rude"	"Y"	27
+"4028-4"	"goso"	"whole"	"NRI"	"T"	"whole"	"Y"	28
+"4028-4"	"raku"	"comfortable"	"NAdj"	"T"	"comfortable"	"Y"	29
+"4028-4"	"batchiribatchiri"	"perfect"	"RNRI"	"T"	"perfect"	"Y"	30
+"4028-4"	"potcharipotchari"	"plump"	"RNRI"	"D"	"rude"	"Y"	31
+"4028-4"	"dame"	"useless"	"NAdj"	"T"	"useless"	"Y"	32
+"4028-4"	"potcharipotchari"	"plump"	"RNRI"	"T"	"plump"	"Y"	33
+"4028-4"	"pishapisha"	"decisive"	"RNRI"	"D"	"glossy"	"Y"	34
+"4028-4"	"buruburu"	"shivering"	"RI"	"D"	"beneficial"	"Y"	35
+"4028-4"	"yura"	"wobbly"	"SRI"	"T"	"wobbly"	"Y"	36
+"4028-4"	"yawayawa"	"fragile"	"RNAdj"	"D"	"resolute"	"Y"	37
+"4028-4"	"gussuri"	"fast asleep"	"NRI"	"D"	"whole"	"Y"	38
+"4028-4"	"pishapisha"	"decisive"	"RNRI"	"T"	"decisive"	"Y"	39
+"4028-4"	"hima"	"free"	"NAdj"	"D"	"energetic"	"Y"	40
+"4028-4"	"kadokado"	"excessive"	"RNAdj"	"D"	"wobbly"	"Y"	41
+"4028-4"	"kibikibi"	"energetic"	"RI"	"D"	"decisive"	"Y"	42
+"4028-4"	"bassari"	"resolute"	"NRI"	"T"	"resolute"	"Y"	43
+"4028-4"	"tsuyatsuya"	"glossy"	"RI"	"D"	"comfortable"	"Y"	44
+"4028-4"	"shinnari"	"supple"	"NRI"	"T"	"supple"	"Y"	45
+"4028-4"	"dame"	"useless"	"NAdj"	"D"	"free"	"Y"	46
+"4028-4"	"hima"	"free"	"NAdj"	"T"	"free"	"Y"	47
+"4028-4"	"jimijimi"	"subdued"	"RNAdj"	"T"	"subdued"	"Y"	48

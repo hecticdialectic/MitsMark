@@ -1,0 +1,49 @@
+"Id"	"Word"	"TrueMeaning"	"WordType"	"TrialType"	"TargetMeaning"	"LegalTrial"	"TrialNum"
+"6269-5"	"yawa"	"fragile"	"NAdj"	"T"	"fragile"	"Y"	1
+"6269-5"	"hikuhiku"	"agitated"	"RI"	"T"	"agitated"	"Y"	2
+"6269-5"	"furifuri"	"disadvantaged"	"RNAdj"	"T"	"disadvantaged"	"Y"	3
+"6269-5"	"gashi"	"sturdy"	"NRI"	"D"	"disadvantaged"	"Y"	4
+"6269-5"	"boroboro"	"worn out"	"RI"	"D"	"offended"	"Y"	5
+"6269-5"	"furifuri"	"disadvantaged"	"RNAdj"	"D"	"careful"	"Y"	6
+"6269-5"	"jikkurijikkuri"	"careful"	"RNRI"	"T"	"careful"	"Y"	7
+"6269-5"	"bassari"	"resolute"	"NRI"	"T"	"resolute"	"Y"	8
+"6269-5"	"tsuya"	"glossy"	"SRI"	"D"	"perfect"	"Y"	9
+"6269-5"	"gara"	"to change ocmpletely"	"NRI"	"T"	"to change ocmpletely"	"Y"	10
+"6269-5"	"bassari"	"resolute"	"NRI"	"D"	"hesitant"	"Y"	11
+"6269-5"	"zokuzoku"	"vulgar"	"RNAdj"	"T"	"vulgar"	"Y"	12
+"6269-5"	"mushimushi"	"humid"	"RI"	"D"	"happy"	"Y"	13
+"6269-5"	"jimijimi"	"subdued"	"RNAdj"	"D"	"sturdy"	"Y"	14
+"6269-5"	"uki"	"happy"	"SRI"	"D"	"to change ocmpletely"	"Y"	15
+"6269-5"	"seka"	"hasty"	"SRI"	"T"	"hasty"	"Y"	16
+"6269-5"	"jimijimi"	"subdued"	"RNAdj"	"T"	"subdued"	"Y"	17
+"6269-5"	"yabo"	"tasteless"	"NAdj"	"T"	"tasteless"	"Y"	18
+"6269-5"	"batchiribatchiri"	"perfect"	"RNRI"	"T"	"perfect"	"Y"	19
+"6269-5"	"gakugaku"	"dejected"	"RNRI"	"T"	"dejected"	"Y"	20
+"6269-5"	"moji"	"hesitant"	"SRI"	"D"	"dejected"	"Y"	21
+"6269-5"	"dame"	"useless"	"NAdj"	"T"	"useless"	"Y"	22
+"6269-5"	"kachin"	"offended"	"NRI"	"T"	"offended"	"Y"	23
+"6269-5"	"gara"	"to change ocmpletely"	"NRI"	"D"	"rude"	"Y"	24
+"6269-5"	"zokuzoku"	"vulgar"	"RNAdj"	"D"	"tasteless"	"Y"	25
+"6269-5"	"kachin"	"offended"	"NRI"	"D"	"hasty"	"Y"	26
+"6269-5"	"zukezuke"	"rude"	"RI"	"T"	"rude"	"Y"	27
+"6269-5"	"tsuya"	"glossy"	"SRI"	"T"	"glossy"	"Y"	28
+"6269-5"	"gosogoso"	"whole"	"RNRI"	"D"	"pure"	"Y"	29
+"6269-5"	"gosogoso"	"whole"	"RNRI"	"T"	"whole"	"Y"	30
+"6269-5"	"yawa"	"fragile"	"NAdj"	"D"	"resolute"	"Y"	31
+"6269-5"	"mushimushi"	"humid"	"RI"	"T"	"humid"	"Y"	32
+"6269-5"	"hikuhiku"	"agitated"	"RI"	"D"	"humid"	"Y"	33
+"6269-5"	"koku"	"harsh"	"NAdj"	"D"	"useless"	"Y"	34
+"6269-5"	"koku"	"harsh"	"NAdj"	"T"	"harsh"	"Y"	35
+"6269-5"	"batchiribatchiri"	"perfect"	"RNRI"	"D"	"harsh"	"Y"	36
+"6269-5"	"yabo"	"tasteless"	"NAdj"	"D"	"fragile"	"Y"	37
+"6269-5"	"uki"	"happy"	"SRI"	"T"	"happy"	"Y"	38
+"6269-5"	"gashi"	"sturdy"	"NRI"	"T"	"sturdy"	"Y"	39
+"6269-5"	"dame"	"useless"	"NAdj"	"D"	"agitated"	"Y"	40
+"6269-5"	"mukumuku"	"pure"	"RNAdj"	"T"	"pure"	"Y"	41
+"6269-5"	"mukumuku"	"pure"	"RNAdj"	"D"	"vulgar"	"Y"	42
+"6269-5"	"zukezuke"	"rude"	"RI"	"D"	"whole"	"Y"	43
+"6269-5"	"seka"	"hasty"	"SRI"	"D"	"subdued"	"Y"	44
+"6269-5"	"gakugaku"	"dejected"	"RNRI"	"D"	"worn out"	"Y"	45
+"6269-5"	"boroboro"	"worn out"	"RI"	"T"	"worn out"	"Y"	46
+"6269-5"	"jikkurijikkuri"	"careful"	"RNRI"	"D"	"glossy"	"Y"	47
+"6269-5"	"moji"	"hesitant"	"SRI"	"T"	"hesitant"	"Y"	48

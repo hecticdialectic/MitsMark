@@ -1,0 +1,49 @@
+"Id"	"Word"	"TrueMeaning"	"WordType"	"TrialType"	"TargetMeaning"	"LegalTrial"	"TrialNum"
+"539-8"	"uki"	"happy"	"SRI"	"T"	"happy"	"Y"	1
+"539-8"	"bera"	"chatty"	"SRI"	"T"	"chatty"	"Y"	2
+"539-8"	"jikkuri"	"careful"	"NRI"	"T"	"careful"	"Y"	3
+"539-8"	"gashi"	"sturdy"	"NRI"	"T"	"sturdy"	"Y"	4
+"539-8"	"zukezuke"	"rude"	"RI"	"T"	"rude"	"Y"	5
+"539-8"	"bisshiribisshiri"	"crowded"	"RNRI"	"T"	"crowded"	"Y"	6
+"539-8"	"buruburu"	"shivering"	"RI"	"T"	"shivering"	"Y"	7
+"539-8"	"bisshiribisshiri"	"crowded"	"RNRI"	"D"	"careful"	"Y"	8
+"539-8"	"kokukoku"	"harsh"	"RNAdj"	"D"	"crowded"	"Y"	9
+"539-8"	"patapata"	"sudden"	"RNRI"	"T"	"sudden"	"Y"	10
+"539-8"	"mojimoji"	"hesitant"	"RI"	"T"	"hesitant"	"Y"	11
+"539-8"	"uki"	"happy"	"SRI"	"D"	"agitated"	"Y"	12
+"539-8"	"toku"	"beneficial"	"NAdj"	"T"	"beneficial"	"Y"	13
+"539-8"	"rakuraku"	"comfortable"	"RNAdj"	"D"	"happy"	"Y"	14
+"539-8"	"fubifubi"	"deficient"	"RNAdj"	"T"	"deficient"	"Y"	15
+"539-8"	"hiso"	"whispering"	"SRI"	"D"	"resolute"	"Y"	16
+"539-8"	"fubifubi"	"deficient"	"RNAdj"	"D"	"sudden"	"Y"	17
+"539-8"	"bassari"	"resolute"	"NRI"	"T"	"resolute"	"Y"	18
+"539-8"	"hikuhiku"	"agitated"	"RI"	"T"	"agitated"	"Y"	19
+"539-8"	"bera"	"chatty"	"SRI"	"D"	"to change ocmpletely"	"Y"	20
+"539-8"	"buruburu"	"shivering"	"RI"	"D"	"vulgar"	"Y"	21
+"539-8"	"gussurigussuri"	"fast asleep"	"RNRI"	"D"	"fat"	"Y"	22
+"539-8"	"debu"	"fat"	"SRI"	"D"	"beneficial"	"Y"	23
+"539-8"	"kabikabi"	"gaudy"	"RNAdj"	"D"	"fast asleep"	"Y"	24
+"539-8"	"zoku"	"vulgar"	"NAdj"	"D"	"sullen"	"Y"	25
+"539-8"	"gara"	"to change ocmpletely"	"NRI"	"D"	"harsh"	"Y"	26
+"539-8"	"gussurigussuri"	"fast asleep"	"RNRI"	"T"	"fast asleep"	"Y"	27
+"539-8"	"hikuhiku"	"agitated"	"RI"	"D"	"sturdy"	"Y"	28
+"539-8"	"jimi"	"subdued"	"NAdj"	"T"	"subdued"	"Y"	29
+"539-8"	"toku"	"beneficial"	"NAdj"	"D"	"whispering"	"Y"	30
+"539-8"	"zukezuke"	"rude"	"RI"	"D"	"hesitant"	"Y"	31
+"539-8"	"debu"	"fat"	"SRI"	"T"	"fat"	"Y"	32
+"539-8"	"kokukoku"	"harsh"	"RNAdj"	"T"	"harsh"	"Y"	33
+"539-8"	"bassari"	"resolute"	"NRI"	"D"	"shivering"	"Y"	34
+"539-8"	"rakuraku"	"comfortable"	"RNAdj"	"T"	"comfortable"	"Y"	35
+"539-8"	"zoku"	"vulgar"	"NAdj"	"T"	"vulgar"	"Y"	36
+"539-8"	"gashi"	"sturdy"	"NRI"	"D"	"stupid"	"Y"	37
+"539-8"	"hiso"	"whispering"	"SRI"	"T"	"whispering"	"Y"	38
+"539-8"	"jikkuri"	"careful"	"NRI"	"D"	"comfortable"	"Y"	39
+"539-8"	"mojimoji"	"hesitant"	"RI"	"D"	"rude"	"Y"	40
+"539-8"	"gara"	"to change ocmpletely"	"NRI"	"T"	"to change ocmpletely"	"Y"	41
+"539-8"	"musumusu"	"sullen"	"RNRI"	"T"	"sullen"	"Y"	42
+"539-8"	"baka"	"stupid"	"NAdj"	"T"	"stupid"	"Y"	43
+"539-8"	"musumusu"	"sullen"	"RNRI"	"D"	"subdued"	"Y"	44
+"539-8"	"jimi"	"subdued"	"NAdj"	"D"	"chatty"	"Y"	45
+"539-8"	"baka"	"stupid"	"NAdj"	"D"	"deficient"	"Y"	46
+"539-8"	"patapata"	"sudden"	"RNRI"	"D"	"gaudy"	"Y"	47
+"539-8"	"kabikabi"	"gaudy"	"RNAdj"	"T"	"gaudy"	"Y"	48

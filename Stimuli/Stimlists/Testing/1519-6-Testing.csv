@@ -1,0 +1,49 @@
+"Id"	"Word"	"TrueMeaning"	"WordType"	"TrialType"	"TargetMeaning"	"LegalTrial"	"TrialNum"
+"1519-6"	"kakkirikakkiri"	"exact"	"RNRI"	"D"	"whole"	"Y"	1
+"1519-6"	"maremare"	"rare"	"RNAdj"	"T"	"rare"	"Y"	2
+"1519-6"	"gochagocha"	"messy"	"RI"	"D"	"rude"	"Y"	3
+"1519-6"	"buruburu"	"shivering"	"RI"	"D"	"beneficial"	"Y"	4
+"1519-6"	"fubifubi"	"deficient"	"RNAdj"	"D"	"gaping"	"Y"	5
+"1519-6"	"kachinkachin"	"offended"	"RNRI"	"D"	"deficient"	"Y"	6
+"1519-6"	"poka"	"gaping"	"NRI"	"T"	"gaping"	"Y"	7
+"1519-6"	"mushi"	"humid"	"SRI"	"D"	"worn out"	"Y"	8
+"1519-6"	"gochagocha"	"messy"	"RI"	"T"	"messy"	"Y"	9
+"1519-6"	"fubifubi"	"deficient"	"RNAdj"	"T"	"deficient"	"Y"	10
+"1519-6"	"boroboro"	"worn out"	"RI"	"T"	"worn out"	"Y"	11
+"1519-6"	"hisohiso"	"whispering"	"RI"	"T"	"whispering"	"Y"	12
+"1519-6"	"muku"	"pure"	"NAdj"	"D"	"humid"	"Y"	13
+"1519-6"	"batchiri"	"perfect"	"NRI"	"T"	"perfect"	"Y"	14
+"1519-6"	"kachinkachin"	"offended"	"RNRI"	"T"	"offended"	"Y"	15
+"1519-6"	"batchiri"	"perfect"	"NRI"	"D"	"glossy"	"Y"	16
+"1519-6"	"jikkurijikkuri"	"careful"	"RNRI"	"D"	"rare"	"Y"	17
+"1519-6"	"maremare"	"rare"	"RNAdj"	"D"	"exact"	"Y"	18
+"1519-6"	"zoku"	"vulgar"	"NAdj"	"D"	"harsh"	"Y"	19
+"1519-6"	"gussurigussuri"	"fast asleep"	"RNRI"	"T"	"fast asleep"	"Y"	20
+"1519-6"	"tsuya"	"glossy"	"SRI"	"D"	"fast asleep"	"Y"	21
+"1519-6"	"buruburu"	"shivering"	"RI"	"T"	"shivering"	"Y"	22
+"1519-6"	"tokutoku"	"beneficial"	"RNAdj"	"D"	"offended"	"Y"	23
+"1519-6"	"hisohiso"	"whispering"	"RI"	"D"	"vulgar"	"Y"	24
+"1519-6"	"hara"	"suspenseful"	"SRI"	"T"	"suspenseful"	"Y"	25
+"1519-6"	"mucha"	"rash"	"NAdj"	"T"	"rash"	"Y"	26
+"1519-6"	"tsuya"	"glossy"	"SRI"	"T"	"glossy"	"Y"	27
+"1519-6"	"mucha"	"rash"	"NAdj"	"D"	"dejected"	"Y"	28
+"1519-6"	"jikkurijikkuri"	"careful"	"RNRI"	"T"	"careful"	"Y"	29
+"1519-6"	"boroboro"	"worn out"	"RI"	"D"	"perfect"	"Y"	30
+"1519-6"	"zuke"	"rude"	"SRI"	"D"	"shivering"	"Y"	31
+"1519-6"	"hara"	"suspenseful"	"SRI"	"D"	"stupid"	"Y"	32
+"1519-6"	"poka"	"gaping"	"NRI"	"D"	"messy"	"Y"	33
+"1519-6"	"tokutoku"	"beneficial"	"RNAdj"	"T"	"beneficial"	"Y"	34
+"1519-6"	"goso"	"whole"	"NRI"	"T"	"whole"	"Y"	35
+"1519-6"	"baka"	"stupid"	"NAdj"	"T"	"stupid"	"Y"	36
+"1519-6"	"zoku"	"vulgar"	"NAdj"	"T"	"vulgar"	"Y"	37
+"1519-6"	"kokukoku"	"harsh"	"RNAdj"	"T"	"harsh"	"Y"	38
+"1519-6"	"baka"	"stupid"	"NAdj"	"D"	"whispering"	"Y"	39
+"1519-6"	"kokukoku"	"harsh"	"RNAdj"	"D"	"pure"	"Y"	40
+"1519-6"	"kakkirikakkiri"	"exact"	"RNRI"	"T"	"exact"	"Y"	41
+"1519-6"	"gussurigussuri"	"fast asleep"	"RNRI"	"D"	"suspenseful"	"Y"	42
+"1519-6"	"zuke"	"rude"	"SRI"	"T"	"rude"	"Y"	43
+"1519-6"	"muku"	"pure"	"NAdj"	"T"	"pure"	"Y"	44
+"1519-6"	"gaku"	"dejected"	"NRI"	"D"	"rash"	"Y"	45
+"1519-6"	"gaku"	"dejected"	"NRI"	"T"	"dejected"	"Y"	46
+"1519-6"	"goso"	"whole"	"NRI"	"D"	"careful"	"Y"	47
+"1519-6"	"mushi"	"humid"	"SRI"	"T"	"humid"	"Y"	48

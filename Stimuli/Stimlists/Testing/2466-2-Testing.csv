@@ -1,0 +1,49 @@
+"Id"	"Word"	"TrueMeaning"	"WordType"	"TrialType"	"TargetMeaning"	"LegalTrial"	"TrialNum"
+"2466-2"	"buku"	"chubby"	"SRI"	"T"	"chubby"	"Y"	1
+"2466-2"	"zoku"	"vulgar"	"NAdj"	"T"	"vulgar"	"Y"	2
+"2466-2"	"fubifubi"	"deficient"	"RNAdj"	"T"	"deficient"	"Y"	3
+"2466-2"	"ukiuki"	"happy"	"RI"	"D"	"exact"	"Y"	4
+"2466-2"	"ukiuki"	"happy"	"RI"	"T"	"happy"	"Y"	5
+"2466-2"	"harahara"	"suspenseful"	"RI"	"T"	"suspenseful"	"Y"	6
+"2466-2"	"kakkiri"	"exact"	"NRI"	"D"	"vulgar"	"Y"	7
+"2466-2"	"kabi"	"gaudy"	"NAdj"	"D"	"suspenseful"	"Y"	8
+"2466-2"	"boro"	"worn out"	"SRI"	"T"	"worn out"	"Y"	9
+"2466-2"	"yaboyabo"	"tasteless"	"RNAdj"	"T"	"tasteless"	"Y"	10
+"2466-2"	"pata"	"sudden"	"NRI"	"T"	"sudden"	"Y"	11
+"2466-2"	"kerokero"	"nonchalantly"	"RNRI"	"T"	"nonchalantly"	"Y"	12
+"2466-2"	"mukumuku"	"pure"	"RNAdj"	"T"	"pure"	"Y"	13
+"2466-2"	"pata"	"sudden"	"NRI"	"D"	"offended"	"Y"	14
+"2466-2"	"buru"	"shivering"	"SRI"	"T"	"shivering"	"Y"	15
+"2466-2"	"batchiribatchiri"	"perfect"	"RNRI"	"T"	"perfect"	"Y"	16
+"2466-2"	"buru"	"shivering"	"SRI"	"D"	"sturdy"	"Y"	17
+"2466-2"	"gochagocha"	"messy"	"RI"	"T"	"messy"	"Y"	18
+"2466-2"	"zoku"	"vulgar"	"NAdj"	"D"	"shivering"	"Y"	19
+"2466-2"	"yaboyabo"	"tasteless"	"RNAdj"	"D"	"worn out"	"Y"	20
+"2466-2"	"bisshiribisshiri"	"crowded"	"RNRI"	"T"	"crowded"	"Y"	21
+"2466-2"	"kachin"	"offended"	"NRI"	"T"	"offended"	"Y"	22
+"2466-2"	"dame"	"useless"	"NAdj"	"D"	"fat"	"Y"	23
+"2466-2"	"bisshiribisshiri"	"crowded"	"RNRI"	"D"	"chubby"	"Y"	24
+"2466-2"	"gashi"	"sturdy"	"NRI"	"D"	"deficient"	"Y"	25
+"2466-2"	"garagara"	"to change ocmpletely"	"RNRI"	"T"	"to change ocmpletely"	"Y"	26
+"2466-2"	"bakabaka"	"stupid"	"RNAdj"	"T"	"stupid"	"Y"	27
+"2466-2"	"gashi"	"sturdy"	"NRI"	"T"	"sturdy"	"Y"	28
+"2466-2"	"debu"	"fat"	"SRI"	"T"	"fat"	"Y"	29
+"2466-2"	"furi"	"disadvantaged"	"NAdj"	"D"	"stupid"	"Y"	30
+"2466-2"	"batchiribatchiri"	"perfect"	"RNRI"	"D"	"to change ocmpletely"	"Y"	31
+"2466-2"	"harahara"	"suspenseful"	"RI"	"D"	"perfect"	"Y"	32
+"2466-2"	"buku"	"chubby"	"SRI"	"D"	"nonchalantly"	"Y"	33
+"2466-2"	"garagara"	"to change ocmpletely"	"RNRI"	"D"	"messy"	"Y"	34
+"2466-2"	"gochagocha"	"messy"	"RI"	"D"	"disadvantaged"	"Y"	35
+"2466-2"	"gowagowa"	"stiff"	"RI"	"D"	"pure"	"Y"	36
+"2466-2"	"gowagowa"	"stiff"	"RI"	"T"	"stiff"	"Y"	37
+"2466-2"	"kabi"	"gaudy"	"NAdj"	"T"	"gaudy"	"Y"	38
+"2466-2"	"kachin"	"offended"	"NRI"	"D"	"useless"	"Y"	39
+"2466-2"	"furi"	"disadvantaged"	"NAdj"	"T"	"disadvantaged"	"Y"	40
+"2466-2"	"kerokero"	"nonchalantly"	"RNRI"	"D"	"tasteless"	"Y"	41
+"2466-2"	"bakabaka"	"stupid"	"RNAdj"	"D"	"crowded"	"Y"	42
+"2466-2"	"fubifubi"	"deficient"	"RNAdj"	"D"	"sudden"	"Y"	43
+"2466-2"	"boro"	"worn out"	"SRI"	"D"	"stiff"	"Y"	44
+"2466-2"	"mukumuku"	"pure"	"RNAdj"	"D"	"gaudy"	"Y"	45
+"2466-2"	"debu"	"fat"	"SRI"	"D"	"happy"	"Y"	46
+"2466-2"	"kakkiri"	"exact"	"NRI"	"T"	"exact"	"Y"	47
+"2466-2"	"dame"	"useless"	"NAdj"	"T"	"useless"	"Y"	48

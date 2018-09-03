@@ -1,0 +1,49 @@
+"Id"	"Word"	"TrueMeaning"	"WordType"	"TrialType"	"TargetMeaning"	"LegalTrial"	"TrialNum"
+"8526-6"	"sekaseka"	"hasty"	"RI"	"T"	"hasty"	"Y"	1
+"8526-6"	"hima"	"free"	"NAdj"	"T"	"free"	"Y"	2
+"8526-6"	"patapata"	"sudden"	"RNRI"	"D"	"messy"	"Y"	3
+"8526-6"	"pisha"	"decisive"	"NRI"	"D"	"steaming"	"Y"	4
+"8526-6"	"boroboro"	"worn out"	"RI"	"T"	"worn out"	"Y"	5
+"8526-6"	"hima"	"free"	"NAdj"	"D"	"worn out"	"Y"	6
+"8526-6"	"pisha"	"decisive"	"NRI"	"T"	"decisive"	"Y"	7
+"8526-6"	"yurayura"	"wobbly"	"RI"	"T"	"wobbly"	"Y"	8
+"8526-6"	"mushi"	"humid"	"SRI"	"D"	"fat"	"Y"	9
+"8526-6"	"bakabaka"	"stupid"	"RNAdj"	"D"	"plump"	"Y"	10
+"8526-6"	"fubi"	"deficient"	"NAdj"	"T"	"deficient"	"Y"	11
+"8526-6"	"bassari"	"resolute"	"NRI"	"T"	"resolute"	"Y"	12
+"8526-6"	"goso"	"whole"	"NRI"	"D"	"crowded"	"Y"	13
+"8526-6"	"garagara"	"to change ocmpletely"	"RNRI"	"D"	"sudden"	"Y"	14
+"8526-6"	"yawayawa"	"fragile"	"RNAdj"	"D"	"resolute"	"Y"	15
+"8526-6"	"shinnari"	"supple"	"NRI"	"T"	"supple"	"Y"	16
+"8526-6"	"garagara"	"to change ocmpletely"	"RNRI"	"T"	"to change ocmpletely"	"Y"	17
+"8526-6"	"hoka"	"steaming"	"SRI"	"D"	"hasty"	"Y"	18
+"8526-6"	"patapata"	"sudden"	"RNRI"	"T"	"sudden"	"Y"	19
+"8526-6"	"gocha"	"messy"	"SRI"	"D"	"whole"	"Y"	20
+"8526-6"	"potcharipotchari"	"plump"	"RNRI"	"T"	"plump"	"Y"	21
+"8526-6"	"bassari"	"resolute"	"NRI"	"D"	"humid"	"Y"	22
+"8526-6"	"furi"	"disadvantaged"	"NAdj"	"D"	"supple"	"Y"	23
+"8526-6"	"kabi"	"gaudy"	"NAdj"	"D"	"free"	"Y"	24
+"8526-6"	"kadokado"	"excessive"	"RNAdj"	"D"	"gaudy"	"Y"	25
+"8526-6"	"boroboro"	"worn out"	"RI"	"D"	"wobbly"	"Y"	26
+"8526-6"	"kokukoku"	"harsh"	"RNAdj"	"D"	"disadvantaged"	"Y"	27
+"8526-6"	"sekaseka"	"hasty"	"RI"	"D"	"deficient"	"Y"	28
+"8526-6"	"potcharipotchari"	"plump"	"RNRI"	"D"	"stupid"	"Y"	29
+"8526-6"	"gowagowa"	"stiff"	"RI"	"T"	"stiff"	"Y"	30
+"8526-6"	"gocha"	"messy"	"SRI"	"T"	"messy"	"Y"	31
+"8526-6"	"bisshiribisshiri"	"crowded"	"RNRI"	"D"	"excessive"	"Y"	32
+"8526-6"	"kokukoku"	"harsh"	"RNAdj"	"T"	"harsh"	"Y"	33
+"8526-6"	"bakabaka"	"stupid"	"RNAdj"	"T"	"stupid"	"Y"	34
+"8526-6"	"shinnari"	"supple"	"NRI"	"D"	"stiff"	"Y"	35
+"8526-6"	"kabi"	"gaudy"	"NAdj"	"T"	"gaudy"	"Y"	36
+"8526-6"	"mushi"	"humid"	"SRI"	"T"	"humid"	"Y"	37
+"8526-6"	"yawayawa"	"fragile"	"RNAdj"	"T"	"fragile"	"Y"	38
+"8526-6"	"bisshiribisshiri"	"crowded"	"RNRI"	"T"	"crowded"	"Y"	39
+"8526-6"	"gowagowa"	"stiff"	"RI"	"D"	"to change ocmpletely"	"Y"	40
+"8526-6"	"goso"	"whole"	"NRI"	"T"	"whole"	"Y"	41
+"8526-6"	"furi"	"disadvantaged"	"NAdj"	"T"	"disadvantaged"	"Y"	42
+"8526-6"	"yurayura"	"wobbly"	"RI"	"D"	"harsh"	"Y"	43
+"8526-6"	"debu"	"fat"	"SRI"	"T"	"fat"	"Y"	44
+"8526-6"	"debu"	"fat"	"SRI"	"D"	"decisive"	"Y"	45
+"8526-6"	"kadokado"	"excessive"	"RNAdj"	"T"	"excessive"	"Y"	46
+"8526-6"	"fubi"	"deficient"	"NAdj"	"D"	"fragile"	"Y"	47
+"8526-6"	"hoka"	"steaming"	"SRI"	"T"	"steaming"	"Y"	48

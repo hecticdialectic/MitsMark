@@ -1,0 +1,49 @@
+"Id"	"Word"	"TrueMeaning"	"WordType"	"TrialType"	"TargetMeaning"	"LegalTrial"	"TrialNum"
+"1519-2"	"batchiri"	"perfect"	"NRI"	"T"	"perfect"	"Y"	1
+"1519-2"	"gochagocha"	"messy"	"RI"	"D"	"fast asleep"	"Y"	2
+"1519-2"	"kokukoku"	"harsh"	"RNAdj"	"D"	"perfect"	"Y"	3
+"1519-2"	"kakkirikakkiri"	"exact"	"RNRI"	"T"	"exact"	"Y"	4
+"1519-2"	"maremare"	"rare"	"RNAdj"	"D"	"dejected"	"Y"	5
+"1519-2"	"zoku"	"vulgar"	"NAdj"	"T"	"vulgar"	"Y"	6
+"1519-2"	"baka"	"stupid"	"NAdj"	"D"	"vulgar"	"Y"	7
+"1519-2"	"maremare"	"rare"	"RNAdj"	"T"	"rare"	"Y"	8
+"1519-2"	"batchiri"	"perfect"	"NRI"	"D"	"rare"	"Y"	9
+"1519-2"	"mushi"	"humid"	"SRI"	"D"	"messy"	"Y"	10
+"1519-2"	"zuke"	"rude"	"SRI"	"T"	"rude"	"Y"	11
+"1519-2"	"poka"	"gaping"	"NRI"	"D"	"rude"	"Y"	12
+"1519-2"	"zoku"	"vulgar"	"NAdj"	"D"	"whole"	"Y"	13
+"1519-2"	"fubifubi"	"deficient"	"RNAdj"	"D"	"suspenseful"	"Y"	14
+"1519-2"	"muku"	"pure"	"NAdj"	"D"	"offended"	"Y"	15
+"1519-2"	"goso"	"whole"	"NRI"	"D"	"humid"	"Y"	16
+"1519-2"	"hara"	"suspenseful"	"SRI"	"T"	"suspenseful"	"Y"	17
+"1519-2"	"kokukoku"	"harsh"	"RNAdj"	"T"	"harsh"	"Y"	18
+"1519-2"	"fubifubi"	"deficient"	"RNAdj"	"T"	"deficient"	"Y"	19
+"1519-2"	"hisohiso"	"whispering"	"RI"	"T"	"whispering"	"Y"	20
+"1519-2"	"kachinkachin"	"offended"	"RNRI"	"T"	"offended"	"Y"	21
+"1519-2"	"boroboro"	"worn out"	"RI"	"T"	"worn out"	"Y"	22
+"1519-2"	"goso"	"whole"	"NRI"	"T"	"whole"	"Y"	23
+"1519-2"	"tokutoku"	"beneficial"	"RNAdj"	"T"	"beneficial"	"Y"	24
+"1519-2"	"buruburu"	"shivering"	"RI"	"T"	"shivering"	"Y"	25
+"1519-2"	"buruburu"	"shivering"	"RI"	"D"	"worn out"	"Y"	26
+"1519-2"	"hisohiso"	"whispering"	"RI"	"D"	"harsh"	"Y"	27
+"1519-2"	"jikkurijikkuri"	"careful"	"RNRI"	"D"	"stupid"	"Y"	28
+"1519-2"	"gaku"	"dejected"	"NRI"	"T"	"dejected"	"Y"	29
+"1519-2"	"gussurigussuri"	"fast asleep"	"RNRI"	"D"	"pure"	"Y"	30
+"1519-2"	"gaku"	"dejected"	"NRI"	"D"	"shivering"	"Y"	31
+"1519-2"	"mucha"	"rash"	"NAdj"	"T"	"rash"	"Y"	32
+"1519-2"	"hara"	"suspenseful"	"SRI"	"D"	"rash"	"Y"	33
+"1519-2"	"mucha"	"rash"	"NAdj"	"D"	"exact"	"Y"	34
+"1519-2"	"zuke"	"rude"	"SRI"	"D"	"glossy"	"Y"	35
+"1519-2"	"gochagocha"	"messy"	"RI"	"T"	"messy"	"Y"	36
+"1519-2"	"jikkurijikkuri"	"careful"	"RNRI"	"T"	"careful"	"Y"	37
+"1519-2"	"tsuya"	"glossy"	"SRI"	"T"	"glossy"	"Y"	38
+"1519-2"	"gussurigussuri"	"fast asleep"	"RNRI"	"T"	"fast asleep"	"Y"	39
+"1519-2"	"mushi"	"humid"	"SRI"	"T"	"humid"	"Y"	40
+"1519-2"	"tsuya"	"glossy"	"SRI"	"D"	"deficient"	"Y"	41
+"1519-2"	"kachinkachin"	"offended"	"RNRI"	"D"	"beneficial"	"Y"	42
+"1519-2"	"baka"	"stupid"	"NAdj"	"T"	"stupid"	"Y"	43
+"1519-2"	"muku"	"pure"	"NAdj"	"T"	"pure"	"Y"	44
+"1519-2"	"poka"	"gaping"	"NRI"	"T"	"gaping"	"Y"	45
+"1519-2"	"tokutoku"	"beneficial"	"RNAdj"	"D"	"whispering"	"Y"	46
+"1519-2"	"kakkirikakkiri"	"exact"	"RNRI"	"D"	"careful"	"Y"	47
+"1519-2"	"boroboro"	"worn out"	"RI"	"D"	"gaping"	"Y"	48

@@ -1,0 +1,49 @@
+"Id"	"Word"	"TrueMeaning"	"WordType"	"TrialType"	"TargetMeaning"	"LegalTrial"	"TrialNum"
+"131-6"	"toku"	"beneficial"	"NAdj"	"T"	"beneficial"	"Y"	1
+"131-6"	"bukubuku"	"chubby"	"RI"	"T"	"chubby"	"Y"	2
+"131-6"	"bisshiribisshiri"	"crowded"	"RNRI"	"T"	"crowded"	"Y"	3
+"131-6"	"gaya"	"noisy"	"SRI"	"T"	"noisy"	"Y"	4
+"131-6"	"debu"	"fat"	"SRI"	"T"	"fat"	"Y"	5
+"131-6"	"bera"	"chatty"	"SRI"	"D"	"careful"	"Y"	6
+"131-6"	"baka"	"stupid"	"NAdj"	"D"	"worn out"	"Y"	7
+"131-6"	"toku"	"beneficial"	"NAdj"	"D"	"plump"	"Y"	8
+"131-6"	"gaya"	"noisy"	"SRI"	"D"	"crowded"	"Y"	9
+"131-6"	"musu"	"sullen"	"NRI"	"D"	"suspenseful"	"Y"	10
+"131-6"	"hara"	"suspenseful"	"SRI"	"D"	"useless"	"Y"	11
+"131-6"	"bukubuku"	"chubby"	"RI"	"D"	"clear"	"Y"	12
+"131-6"	"debu"	"fat"	"SRI"	"D"	"nonchalantly"	"Y"	13
+"131-6"	"bisshiribisshiri"	"crowded"	"RNRI"	"D"	"pure"	"Y"	14
+"131-6"	"boroboro"	"worn out"	"RI"	"T"	"worn out"	"Y"	15
+"131-6"	"zatsu"	"sloppy"	"NAdj"	"D"	"fast asleep"	"Y"	16
+"131-6"	"tsuyatsuya"	"glossy"	"RI"	"D"	"excessive"	"Y"	17
+"131-6"	"pata"	"sudden"	"NRI"	"T"	"sudden"	"Y"	18
+"131-6"	"mukumuku"	"pure"	"RNAdj"	"D"	"chubby"	"Y"	19
+"131-6"	"maremare"	"rare"	"RNAdj"	"T"	"rare"	"Y"	20
+"131-6"	"kukkiri"	"clear"	"NRI"	"T"	"clear"	"Y"	21
+"131-6"	"kerokero"	"nonchalantly"	"RNRI"	"D"	"stupid"	"Y"	22
+"131-6"	"mushimushi"	"humid"	"RI"	"T"	"humid"	"Y"	23
+"131-6"	"musu"	"sullen"	"NRI"	"T"	"sullen"	"Y"	24
+"131-6"	"pata"	"sudden"	"NRI"	"D"	"chatty"	"Y"	25
+"131-6"	"potcharipotchari"	"plump"	"RNRI"	"T"	"plump"	"Y"	26
+"131-6"	"damedame"	"useless"	"RNAdj"	"T"	"useless"	"Y"	27
+"131-6"	"baka"	"stupid"	"NAdj"	"T"	"stupid"	"Y"	28
+"131-6"	"boroboro"	"worn out"	"RI"	"D"	"fat"	"Y"	29
+"131-6"	"potcharipotchari"	"plump"	"RNRI"	"D"	"glossy"	"Y"	30
+"131-6"	"bera"	"chatty"	"SRI"	"T"	"chatty"	"Y"	31
+"131-6"	"koku"	"harsh"	"NAdj"	"T"	"harsh"	"Y"	32
+"131-6"	"zatsu"	"sloppy"	"NAdj"	"T"	"sloppy"	"Y"	33
+"131-6"	"jikkurijikkuri"	"careful"	"RNRI"	"D"	"beneficial"	"Y"	34
+"131-6"	"damedame"	"useless"	"RNAdj"	"D"	"humid"	"Y"	35
+"131-6"	"hara"	"suspenseful"	"SRI"	"T"	"suspenseful"	"Y"	36
+"131-6"	"kadokado"	"excessive"	"RNAdj"	"D"	"sullen"	"Y"	37
+"131-6"	"mushimushi"	"humid"	"RI"	"D"	"harsh"	"Y"	38
+"131-6"	"kerokero"	"nonchalantly"	"RNRI"	"T"	"nonchalantly"	"Y"	39
+"131-6"	"gussuri"	"fast asleep"	"NRI"	"T"	"fast asleep"	"Y"	40
+"131-6"	"kadokado"	"excessive"	"RNAdj"	"T"	"excessive"	"Y"	41
+"131-6"	"jikkurijikkuri"	"careful"	"RNRI"	"T"	"careful"	"Y"	42
+"131-6"	"kukkiri"	"clear"	"NRI"	"D"	"noisy"	"Y"	43
+"131-6"	"tsuyatsuya"	"glossy"	"RI"	"T"	"glossy"	"Y"	44
+"131-6"	"maremare"	"rare"	"RNAdj"	"D"	"sudden"	"Y"	45
+"131-6"	"koku"	"harsh"	"NAdj"	"D"	"rare"	"Y"	46
+"131-6"	"gussuri"	"fast asleep"	"NRI"	"D"	"sloppy"	"Y"	47
+"131-6"	"mukumuku"	"pure"	"RNAdj"	"T"	"pure"	"Y"	48

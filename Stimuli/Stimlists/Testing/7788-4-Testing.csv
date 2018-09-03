@@ -1,0 +1,49 @@
+"Id"	"Word"	"TrueMeaning"	"WordType"	"TrialType"	"TargetMeaning"	"LegalTrial"	"TrialNum"
+"7788-4"	"furifuri"	"disadvantaged"	"RNAdj"	"T"	"disadvantaged"	"Y"	1
+"7788-4"	"zukezuke"	"rude"	"RI"	"D"	"sudden"	"Y"	2
+"7788-4"	"muku"	"pure"	"NAdj"	"D"	"beneficial"	"Y"	3
+"7788-4"	"kukkirikukkiri"	"clear"	"RNRI"	"D"	"suspenseful"	"Y"	4
+"7788-4"	"nopperi"	"smooth"	"NRI"	"D"	"impossible"	"Y"	5
+"7788-4"	"hara"	"suspenseful"	"SRI"	"T"	"suspenseful"	"Y"	6
+"7788-4"	"sekaseka"	"hasty"	"RI"	"T"	"hasty"	"Y"	7
+"7788-4"	"muku"	"pure"	"NAdj"	"T"	"pure"	"Y"	8
+"7788-4"	"garagara"	"to change ocmpletely"	"RNRI"	"T"	"to change ocmpletely"	"Y"	9
+"7788-4"	"gowa"	"stiff"	"SRI"	"D"	"pure"	"Y"	10
+"7788-4"	"kabi"	"gaudy"	"NAdj"	"D"	"excessive"	"Y"	11
+"7788-4"	"sekaseka"	"hasty"	"RI"	"D"	"happy"	"Y"	12
+"7788-4"	"gaku"	"dejected"	"NRI"	"D"	"smooth"	"Y"	13
+"7788-4"	"ukiuki"	"happy"	"RI"	"T"	"happy"	"Y"	14
+"7788-4"	"hiku"	"agitated"	"SRI"	"D"	"crowded"	"Y"	15
+"7788-4"	"bisshiri"	"crowded"	"NRI"	"D"	"free"	"Y"	16
+"7788-4"	"muri"	"impossible"	"NAdj"	"D"	"hasty"	"Y"	17
+"7788-4"	"musumusu"	"sullen"	"RNRI"	"D"	"disadvantaged"	"Y"	18
+"7788-4"	"tokutoku"	"beneficial"	"RNAdj"	"D"	"useless"	"Y"	19
+"7788-4"	"gussuri"	"fast asleep"	"NRI"	"T"	"fast asleep"	"Y"	20
+"7788-4"	"kadokado"	"excessive"	"RNAdj"	"T"	"excessive"	"Y"	21
+"7788-4"	"zukezuke"	"rude"	"RI"	"T"	"rude"	"Y"	22
+"7788-4"	"kukkirikukkiri"	"clear"	"RNRI"	"T"	"clear"	"Y"	23
+"7788-4"	"tsuya"	"glossy"	"SRI"	"D"	"clear"	"Y"	24
+"7788-4"	"gaku"	"dejected"	"NRI"	"T"	"dejected"	"Y"	25
+"7788-4"	"dame"	"useless"	"NAdj"	"T"	"useless"	"Y"	26
+"7788-4"	"debudebu"	"fat"	"RI"	"T"	"fat"	"Y"	27
+"7788-4"	"nopperi"	"smooth"	"NRI"	"T"	"smooth"	"Y"	28
+"7788-4"	"furifuri"	"disadvantaged"	"RNAdj"	"D"	"fast asleep"	"Y"	29
+"7788-4"	"patapata"	"sudden"	"RNRI"	"T"	"sudden"	"Y"	30
+"7788-4"	"gussuri"	"fast asleep"	"NRI"	"D"	"fat"	"Y"	31
+"7788-4"	"himahima"	"free"	"RNAdj"	"D"	"gaudy"	"Y"	32
+"7788-4"	"musumusu"	"sullen"	"RNRI"	"T"	"sullen"	"Y"	33
+"7788-4"	"garagara"	"to change ocmpletely"	"RNRI"	"D"	"agitated"	"Y"	34
+"7788-4"	"himahima"	"free"	"RNAdj"	"T"	"free"	"Y"	35
+"7788-4"	"kabi"	"gaudy"	"NAdj"	"T"	"gaudy"	"Y"	36
+"7788-4"	"debudebu"	"fat"	"RI"	"D"	"glossy"	"Y"	37
+"7788-4"	"gowa"	"stiff"	"SRI"	"T"	"stiff"	"Y"	38
+"7788-4"	"ukiuki"	"happy"	"RI"	"D"	"sullen"	"Y"	39
+"7788-4"	"hara"	"suspenseful"	"SRI"	"D"	"to change ocmpletely"	"Y"	40
+"7788-4"	"tsuya"	"glossy"	"SRI"	"T"	"glossy"	"Y"	41
+"7788-4"	"muri"	"impossible"	"NAdj"	"T"	"impossible"	"Y"	42
+"7788-4"	"bisshiri"	"crowded"	"NRI"	"T"	"crowded"	"Y"	43
+"7788-4"	"dame"	"useless"	"NAdj"	"D"	"rude"	"Y"	44
+"7788-4"	"kadokado"	"excessive"	"RNAdj"	"D"	"dejected"	"Y"	45
+"7788-4"	"hiku"	"agitated"	"SRI"	"T"	"agitated"	"Y"	46
+"7788-4"	"patapata"	"sudden"	"RNRI"	"D"	"stiff"	"Y"	47
+"7788-4"	"tokutoku"	"beneficial"	"RNAdj"	"T"	"beneficial"	"Y"	48

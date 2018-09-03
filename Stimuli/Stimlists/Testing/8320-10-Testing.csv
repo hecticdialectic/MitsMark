@@ -1,0 +1,49 @@
+"Id"	"Word"	"TrueMeaning"	"WordType"	"TrialType"	"TargetMeaning"	"LegalTrial"	"TrialNum"
+"8320-10"	"furifuri"	"disadvantaged"	"RNAdj"	"D"	"chubby"	"Y"	1
+"8320-10"	"mushimushi"	"humid"	"RI"	"T"	"humid"	"Y"	2
+"8320-10"	"fubi"	"deficient"	"NAdj"	"T"	"deficient"	"Y"	3
+"8320-10"	"kibikibi"	"energetic"	"RI"	"T"	"energetic"	"Y"	4
+"8320-10"	"gashigashi"	"sturdy"	"RNRI"	"T"	"sturdy"	"Y"	5
+"8320-10"	"baka"	"stupid"	"NAdj"	"D"	"sturdy"	"Y"	6
+"8320-10"	"kibikibi"	"energetic"	"RI"	"D"	"resolute"	"Y"	7
+"8320-10"	"harahara"	"suspenseful"	"RI"	"T"	"suspenseful"	"Y"	8
+"8320-10"	"hima"	"free"	"NAdj"	"T"	"free"	"Y"	9
+"8320-10"	"furifuri"	"disadvantaged"	"RNAdj"	"T"	"disadvantaged"	"Y"	10
+"8320-10"	"batchiri"	"perfect"	"NRI"	"D"	"whispering"	"Y"	11
+"8320-10"	"gocha"	"messy"	"SRI"	"D"	"stupid"	"Y"	12
+"8320-10"	"bukubuku"	"chubby"	"RI"	"T"	"chubby"	"Y"	13
+"8320-10"	"hiso"	"whispering"	"SRI"	"T"	"whispering"	"Y"	14
+"8320-10"	"mushimushi"	"humid"	"RI"	"D"	"free"	"Y"	15
+"8320-10"	"kadokado"	"excessive"	"RNAdj"	"T"	"excessive"	"Y"	16
+"8320-10"	"kukkirikukkiri"	"clear"	"RNRI"	"T"	"clear"	"Y"	17
+"8320-10"	"gussuri"	"fast asleep"	"NRI"	"T"	"fast asleep"	"Y"	18
+"8320-10"	"kabi"	"gaudy"	"NAdj"	"D"	"suspenseful"	"Y"	19
+"8320-10"	"tokutoku"	"beneficial"	"RNAdj"	"D"	"decisive"	"Y"	20
+"8320-10"	"gussuri"	"fast asleep"	"NRI"	"D"	"gaping"	"Y"	21
+"8320-10"	"kabi"	"gaudy"	"NAdj"	"T"	"gaudy"	"Y"	22
+"8320-10"	"hiso"	"whispering"	"SRI"	"D"	"fast asleep"	"Y"	23
+"8320-10"	"gowa"	"stiff"	"SRI"	"D"	"humid"	"Y"	24
+"8320-10"	"zokuzoku"	"vulgar"	"RNAdj"	"T"	"vulgar"	"Y"	25
+"8320-10"	"batchiri"	"perfect"	"NRI"	"T"	"perfect"	"Y"	26
+"8320-10"	"pisha"	"decisive"	"NRI"	"T"	"decisive"	"Y"	27
+"8320-10"	"pisha"	"decisive"	"NRI"	"D"	"beneficial"	"Y"	28
+"8320-10"	"baka"	"stupid"	"NAdj"	"T"	"stupid"	"Y"	29
+"8320-10"	"gocha"	"messy"	"SRI"	"T"	"messy"	"Y"	30
+"8320-10"	"harahara"	"suspenseful"	"RI"	"D"	"energetic"	"Y"	31
+"8320-10"	"gowa"	"stiff"	"SRI"	"T"	"stiff"	"Y"	32
+"8320-10"	"poka"	"gaping"	"NRI"	"D"	"clear"	"Y"	33
+"8320-10"	"bassaribassari"	"resolute"	"RNRI"	"T"	"resolute"	"Y"	34
+"8320-10"	"gosogoso"	"whole"	"RNRI"	"T"	"whole"	"Y"	35
+"8320-10"	"boro"	"worn out"	"SRI"	"D"	"stiff"	"Y"	36
+"8320-10"	"fubi"	"deficient"	"NAdj"	"D"	"whole"	"Y"	37
+"8320-10"	"tokutoku"	"beneficial"	"RNAdj"	"T"	"beneficial"	"Y"	38
+"8320-10"	"zokuzoku"	"vulgar"	"RNAdj"	"D"	"gaudy"	"Y"	39
+"8320-10"	"hima"	"free"	"NAdj"	"D"	"messy"	"Y"	40
+"8320-10"	"bassaribassari"	"resolute"	"RNRI"	"D"	"perfect"	"Y"	41
+"8320-10"	"kadokado"	"excessive"	"RNAdj"	"D"	"worn out"	"Y"	42
+"8320-10"	"gosogoso"	"whole"	"RNRI"	"D"	"deficient"	"Y"	43
+"8320-10"	"poka"	"gaping"	"NRI"	"T"	"gaping"	"Y"	44
+"8320-10"	"gashigashi"	"sturdy"	"RNRI"	"D"	"vulgar"	"Y"	45
+"8320-10"	"kukkirikukkiri"	"clear"	"RNRI"	"D"	"excessive"	"Y"	46
+"8320-10"	"boro"	"worn out"	"SRI"	"T"	"worn out"	"Y"	47
+"8320-10"	"bukubuku"	"chubby"	"RI"	"D"	"disadvantaged"	"Y"	48

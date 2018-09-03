@@ -1,0 +1,49 @@
+"Id"	"Word"	"TrueMeaning"	"WordType"	"TrialType"	"TargetMeaning"	"LegalTrial"	"TrialNum"
+"5122-5"	"gussuri"	"fast asleep"	"NRI"	"D"	"sloppy"	"Y"	1
+"5122-5"	"jimi"	"subdued"	"NAdj"	"D"	"rash"	"Y"	2
+"5122-5"	"gakugaku"	"dejected"	"RNRI"	"D"	"smug"	"Y"	3
+"5122-5"	"pata"	"sudden"	"NRI"	"D"	"to change ocmpletely"	"Y"	4
+"5122-5"	"dame"	"useless"	"NAdj"	"D"	"fat"	"Y"	5
+"5122-5"	"kibi"	"energetic"	"SRI"	"D"	"subdued"	"Y"	6
+"5122-5"	"yaboyabo"	"tasteless"	"RNAdj"	"T"	"tasteless"	"Y"	7
+"5122-5"	"kiza"	"smug"	"NAdj"	"D"	"sullen"	"Y"	8
+"5122-5"	"mushi"	"humid"	"SRI"	"T"	"humid"	"Y"	9
+"5122-5"	"debudebu"	"fat"	"RI"	"T"	"fat"	"Y"	10
+"5122-5"	"pata"	"sudden"	"NRI"	"T"	"sudden"	"Y"	11
+"5122-5"	"bera"	"chatty"	"SRI"	"T"	"chatty"	"Y"	12
+"5122-5"	"jimi"	"subdued"	"NAdj"	"T"	"subdued"	"Y"	13
+"5122-5"	"yurayura"	"wobbly"	"RI"	"D"	"free"	"Y"	14
+"5122-5"	"kukkiri"	"clear"	"NRI"	"T"	"clear"	"Y"	15
+"5122-5"	"kiza"	"smug"	"NAdj"	"T"	"smug"	"Y"	16
+"5122-5"	"debudebu"	"fat"	"RI"	"D"	"clear"	"Y"	17
+"5122-5"	"furifuri"	"disadvantaged"	"RNAdj"	"T"	"disadvantaged"	"Y"	18
+"5122-5"	"tsuya"	"glossy"	"SRI"	"D"	"dejected"	"Y"	19
+"5122-5"	"hikuhiku"	"agitated"	"RI"	"T"	"agitated"	"Y"	20
+"5122-5"	"himahima"	"free"	"RNAdj"	"T"	"free"	"Y"	21
+"5122-5"	"sekaseka"	"hasty"	"RI"	"T"	"hasty"	"Y"	22
+"5122-5"	"garagara"	"to change ocmpletely"	"RNRI"	"D"	"disadvantaged"	"Y"	23
+"5122-5"	"pishapisha"	"decisive"	"RNRI"	"T"	"decisive"	"Y"	24
+"5122-5"	"pishapisha"	"decisive"	"RNRI"	"D"	"sudden"	"Y"	25
+"5122-5"	"garagara"	"to change ocmpletely"	"RNRI"	"T"	"to change ocmpletely"	"Y"	26
+"5122-5"	"gakugaku"	"dejected"	"RNRI"	"T"	"dejected"	"Y"	27
+"5122-5"	"yaboyabo"	"tasteless"	"RNAdj"	"D"	"glossy"	"Y"	28
+"5122-5"	"gussuri"	"fast asleep"	"NRI"	"T"	"fast asleep"	"Y"	29
+"5122-5"	"yurayura"	"wobbly"	"RI"	"T"	"wobbly"	"Y"	30
+"5122-5"	"bera"	"chatty"	"SRI"	"D"	"wobbly"	"Y"	31
+"5122-5"	"bassaribassari"	"resolute"	"RNRI"	"D"	"energetic"	"Y"	32
+"5122-5"	"zatsu"	"sloppy"	"NAdj"	"D"	"tasteless"	"Y"	33
+"5122-5"	"dame"	"useless"	"NAdj"	"T"	"useless"	"Y"	34
+"5122-5"	"zatsu"	"sloppy"	"NAdj"	"T"	"sloppy"	"Y"	35
+"5122-5"	"muchamucha"	"rash"	"RNAdj"	"T"	"rash"	"Y"	36
+"5122-5"	"musu"	"sullen"	"NRI"	"T"	"sullen"	"Y"	37
+"5122-5"	"furifuri"	"disadvantaged"	"RNAdj"	"D"	"decisive"	"Y"	38
+"5122-5"	"muchamucha"	"rash"	"RNAdj"	"D"	"chatty"	"Y"	39
+"5122-5"	"musu"	"sullen"	"NRI"	"D"	"resolute"	"Y"	40
+"5122-5"	"sekaseka"	"hasty"	"RI"	"D"	"agitated"	"Y"	41
+"5122-5"	"bassaribassari"	"resolute"	"RNRI"	"T"	"resolute"	"Y"	42
+"5122-5"	"kukkiri"	"clear"	"NRI"	"D"	"useless"	"Y"	43
+"5122-5"	"kibi"	"energetic"	"SRI"	"T"	"energetic"	"Y"	44
+"5122-5"	"himahima"	"free"	"RNAdj"	"D"	"fast asleep"	"Y"	45
+"5122-5"	"hikuhiku"	"agitated"	"RI"	"D"	"humid"	"Y"	46
+"5122-5"	"tsuya"	"glossy"	"SRI"	"T"	"glossy"	"Y"	47
+"5122-5"	"mushi"	"humid"	"SRI"	"D"	"hasty"	"Y"	48

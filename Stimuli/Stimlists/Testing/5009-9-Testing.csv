@@ -1,0 +1,49 @@
+"Id"	"Word"	"TrueMeaning"	"WordType"	"TrialType"	"TargetMeaning"	"LegalTrial"	"TrialNum"
+"5009-9"	"kerokero"	"nonchalantly"	"RNRI"	"D"	"stupid"	"Y"	1
+"5009-9"	"goso"	"whole"	"NRI"	"D"	"sturdy"	"Y"	2
+"5009-9"	"kizakiza"	"smug"	"RNAdj"	"D"	"perfect"	"Y"	3
+"5009-9"	"kabi"	"gaudy"	"NAdj"	"D"	"crowded"	"Y"	4
+"5009-9"	"kado"	"excessive"	"NAdj"	"T"	"excessive"	"Y"	5
+"5009-9"	"zuke"	"rude"	"SRI"	"D"	"to change ocmpletely"	"Y"	6
+"5009-9"	"garagara"	"to change ocmpletely"	"RNRI"	"T"	"to change ocmpletely"	"Y"	7
+"5009-9"	"bassari"	"resolute"	"NRI"	"T"	"resolute"	"Y"	8
+"5009-9"	"batchiri"	"perfect"	"NRI"	"D"	"gaudy"	"Y"	9
+"5009-9"	"kabi"	"gaudy"	"NAdj"	"T"	"gaudy"	"Y"	10
+"5009-9"	"gashigashi"	"sturdy"	"RNRI"	"D"	"smug"	"Y"	11
+"5009-9"	"muchamucha"	"rash"	"RNAdj"	"D"	"steaming"	"Y"	12
+"5009-9"	"hikuhiku"	"agitated"	"RI"	"T"	"agitated"	"Y"	13
+"5009-9"	"tokutoku"	"beneficial"	"RNAdj"	"T"	"beneficial"	"Y"	14
+"5009-9"	"gaya"	"noisy"	"SRI"	"T"	"noisy"	"Y"	15
+"5009-9"	"gashigashi"	"sturdy"	"RNRI"	"T"	"sturdy"	"Y"	16
+"5009-9"	"muchamucha"	"rash"	"RNAdj"	"T"	"rash"	"Y"	17
+"5009-9"	"hikuhiku"	"agitated"	"RI"	"D"	"rude"	"Y"	18
+"5009-9"	"kado"	"excessive"	"NAdj"	"D"	"worn out"	"Y"	19
+"5009-9"	"potcharipotchari"	"plump"	"RNRI"	"T"	"plump"	"Y"	20
+"5009-9"	"tsuyatsuya"	"glossy"	"RI"	"D"	"whole"	"Y"	21
+"5009-9"	"garagara"	"to change ocmpletely"	"RNRI"	"D"	"plump"	"Y"	22
+"5009-9"	"kizakiza"	"smug"	"RNAdj"	"T"	"smug"	"Y"	23
+"5009-9"	"goso"	"whole"	"NRI"	"T"	"whole"	"Y"	24
+"5009-9"	"gaya"	"noisy"	"SRI"	"D"	"impossible"	"Y"	25
+"5009-9"	"boro"	"worn out"	"SRI"	"T"	"worn out"	"Y"	26
+"5009-9"	"hokahoka"	"steaming"	"RI"	"D"	"rash"	"Y"	27
+"5009-9"	"hokahoka"	"steaming"	"RI"	"T"	"steaming"	"Y"	28
+"5009-9"	"muri"	"impossible"	"NAdj"	"D"	"beneficial"	"Y"	29
+"5009-9"	"muri"	"impossible"	"NAdj"	"T"	"impossible"	"Y"	30
+"5009-9"	"kerokero"	"nonchalantly"	"RNRI"	"T"	"nonchalantly"	"Y"	31
+"5009-9"	"baka"	"stupid"	"NAdj"	"D"	"free"	"Y"	32
+"5009-9"	"tsuyatsuya"	"glossy"	"RI"	"T"	"glossy"	"Y"	33
+"5009-9"	"bisshiri"	"crowded"	"NRI"	"D"	"hasty"	"Y"	34
+"5009-9"	"sekaseka"	"hasty"	"RI"	"T"	"hasty"	"Y"	35
+"5009-9"	"bisshiri"	"crowded"	"NRI"	"T"	"crowded"	"Y"	36
+"5009-9"	"himahima"	"free"	"RNAdj"	"T"	"free"	"Y"	37
+"5009-9"	"potcharipotchari"	"plump"	"RNRI"	"D"	"excessive"	"Y"	38
+"5009-9"	"batchiri"	"perfect"	"NRI"	"T"	"perfect"	"Y"	39
+"5009-9"	"mushi"	"humid"	"SRI"	"T"	"humid"	"Y"	40
+"5009-9"	"mushi"	"humid"	"SRI"	"D"	"agitated"	"Y"	41
+"5009-9"	"boro"	"worn out"	"SRI"	"D"	"nonchalantly"	"Y"	42
+"5009-9"	"tokutoku"	"beneficial"	"RNAdj"	"D"	"humid"	"Y"	43
+"5009-9"	"bassari"	"resolute"	"NRI"	"D"	"noisy"	"Y"	44
+"5009-9"	"baka"	"stupid"	"NAdj"	"T"	"stupid"	"Y"	45
+"5009-9"	"sekaseka"	"hasty"	"RI"	"D"	"glossy"	"Y"	46
+"5009-9"	"himahima"	"free"	"RNAdj"	"D"	"resolute"	"Y"	47
+"5009-9"	"zuke"	"rude"	"SRI"	"T"	"rude"	"Y"	48

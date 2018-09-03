@@ -1,0 +1,49 @@
+"Id"	"Word"	"TrueMeaning"	"WordType"	"TrialType"	"TargetMeaning"	"LegalTrial"	"TrialNum"
+"6269-2"	"gara"	"to change ocmpletely"	"NRI"	"D"	"fragile"	"Y"	1
+"6269-2"	"dame"	"useless"	"NAdj"	"D"	"worn out"	"Y"	2
+"6269-2"	"zokuzoku"	"vulgar"	"RNAdj"	"D"	"disadvantaged"	"Y"	3
+"6269-2"	"furifuri"	"disadvantaged"	"RNAdj"	"D"	"to change ocmpletely"	"Y"	4
+"6269-2"	"jimijimi"	"subdued"	"RNAdj"	"T"	"subdued"	"Y"	5
+"6269-2"	"seka"	"hasty"	"SRI"	"D"	"subdued"	"Y"	6
+"6269-2"	"koku"	"harsh"	"NAdj"	"T"	"harsh"	"Y"	7
+"6269-2"	"jikkurijikkuri"	"careful"	"RNRI"	"T"	"careful"	"Y"	8
+"6269-2"	"gosogoso"	"whole"	"RNRI"	"T"	"whole"	"Y"	9
+"6269-2"	"moji"	"hesitant"	"SRI"	"D"	"resolute"	"Y"	10
+"6269-2"	"batchiribatchiri"	"perfect"	"RNRI"	"D"	"sturdy"	"Y"	11
+"6269-2"	"tsuya"	"glossy"	"SRI"	"T"	"glossy"	"Y"	12
+"6269-2"	"hikuhiku"	"agitated"	"RI"	"T"	"agitated"	"Y"	13
+"6269-2"	"boroboro"	"worn out"	"RI"	"T"	"worn out"	"Y"	14
+"6269-2"	"zokuzoku"	"vulgar"	"RNAdj"	"T"	"vulgar"	"Y"	15
+"6269-2"	"yawa"	"fragile"	"NAdj"	"D"	"hesitant"	"Y"	16
+"6269-2"	"jikkurijikkuri"	"careful"	"RNRI"	"D"	"rude"	"Y"	17
+"6269-2"	"mukumuku"	"pure"	"RNAdj"	"D"	"humid"	"Y"	18
+"6269-2"	"furifuri"	"disadvantaged"	"RNAdj"	"T"	"disadvantaged"	"Y"	19
+"6269-2"	"gosogoso"	"whole"	"RNRI"	"D"	"useless"	"Y"	20
+"6269-2"	"uki"	"happy"	"SRI"	"T"	"happy"	"Y"	21
+"6269-2"	"gashi"	"sturdy"	"NRI"	"D"	"agitated"	"Y"	22
+"6269-2"	"koku"	"harsh"	"NAdj"	"D"	"offended"	"Y"	23
+"6269-2"	"boroboro"	"worn out"	"RI"	"D"	"dejected"	"Y"	24
+"6269-2"	"batchiribatchiri"	"perfect"	"RNRI"	"T"	"perfect"	"Y"	25
+"6269-2"	"mukumuku"	"pure"	"RNAdj"	"T"	"pure"	"Y"	26
+"6269-2"	"mushimushi"	"humid"	"RI"	"D"	"careful"	"Y"	27
+"6269-2"	"mushimushi"	"humid"	"RI"	"T"	"humid"	"Y"	28
+"6269-2"	"gara"	"to change ocmpletely"	"NRI"	"T"	"to change ocmpletely"	"Y"	29
+"6269-2"	"uki"	"happy"	"SRI"	"D"	"pure"	"Y"	30
+"6269-2"	"dame"	"useless"	"NAdj"	"T"	"useless"	"Y"	31
+"6269-2"	"kachin"	"offended"	"NRI"	"T"	"offended"	"Y"	32
+"6269-2"	"zukezuke"	"rude"	"RI"	"D"	"vulgar"	"Y"	33
+"6269-2"	"zukezuke"	"rude"	"RI"	"T"	"rude"	"Y"	34
+"6269-2"	"gakugaku"	"dejected"	"RNRI"	"T"	"dejected"	"Y"	35
+"6269-2"	"kachin"	"offended"	"NRI"	"D"	"happy"	"Y"	36
+"6269-2"	"yawa"	"fragile"	"NAdj"	"T"	"fragile"	"Y"	37
+"6269-2"	"tsuya"	"glossy"	"SRI"	"D"	"perfect"	"Y"	38
+"6269-2"	"gakugaku"	"dejected"	"RNRI"	"D"	"whole"	"Y"	39
+"6269-2"	"seka"	"hasty"	"SRI"	"T"	"hasty"	"Y"	40
+"6269-2"	"jimijimi"	"subdued"	"RNAdj"	"D"	"harsh"	"Y"	41
+"6269-2"	"yabo"	"tasteless"	"NAdj"	"T"	"tasteless"	"Y"	42
+"6269-2"	"moji"	"hesitant"	"SRI"	"T"	"hesitant"	"Y"	43
+"6269-2"	"yabo"	"tasteless"	"NAdj"	"D"	"hasty"	"Y"	44
+"6269-2"	"bassari"	"resolute"	"NRI"	"D"	"tasteless"	"Y"	45
+"6269-2"	"hikuhiku"	"agitated"	"RI"	"D"	"glossy"	"Y"	46
+"6269-2"	"bassari"	"resolute"	"NRI"	"T"	"resolute"	"Y"	47
+"6269-2"	"gashi"	"sturdy"	"NRI"	"T"	"sturdy"	"Y"	48

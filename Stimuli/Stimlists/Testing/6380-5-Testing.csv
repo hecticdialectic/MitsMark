@@ -1,0 +1,49 @@
+"Id"	"Word"	"TrueMeaning"	"WordType"	"TrialType"	"TargetMeaning"	"LegalTrial"	"TrialNum"
+"6380-5"	"hisohiso"	"whispering"	"RI"	"T"	"whispering"	"Y"	1
+"6380-5"	"ukiuki"	"happy"	"RI"	"T"	"happy"	"Y"	2
+"6380-5"	"kiza"	"smug"	"NAdj"	"T"	"smug"	"Y"	3
+"6380-5"	"shinnarishinnari"	"supple"	"RNRI"	"D"	"worn out"	"Y"	4
+"6380-5"	"pisha"	"decisive"	"NRI"	"D"	"sturdy"	"Y"	5
+"6380-5"	"shinnarishinnari"	"supple"	"RNRI"	"T"	"supple"	"Y"	6
+"6380-5"	"gashigashi"	"sturdy"	"RNRI"	"T"	"sturdy"	"Y"	7
+"6380-5"	"pisha"	"decisive"	"NRI"	"T"	"decisive"	"Y"	8
+"6380-5"	"hima"	"free"	"NAdj"	"T"	"free"	"Y"	9
+"6380-5"	"pata"	"sudden"	"NRI"	"T"	"sudden"	"Y"	10
+"6380-5"	"kakkirikakkiri"	"exact"	"RNRI"	"T"	"exact"	"Y"	11
+"6380-5"	"mushi"	"humid"	"SRI"	"T"	"humid"	"Y"	12
+"6380-5"	"hima"	"free"	"NAdj"	"D"	"decisive"	"Y"	13
+"6380-5"	"murimuri"	"impossible"	"RNAdj"	"D"	"sloppy"	"Y"	14
+"6380-5"	"zuke"	"rude"	"SRI"	"D"	"free"	"Y"	15
+"6380-5"	"yurayura"	"wobbly"	"RI"	"T"	"wobbly"	"Y"	16
+"6380-5"	"kero"	"nonchalantly"	"NRI"	"D"	"fast asleep"	"Y"	17
+"6380-5"	"gussuri"	"fast asleep"	"NRI"	"T"	"fast asleep"	"Y"	18
+"6380-5"	"kakkirikakkiri"	"exact"	"RNRI"	"D"	"comfortable"	"Y"	19
+"6380-5"	"boro"	"worn out"	"SRI"	"T"	"worn out"	"Y"	20
+"6380-5"	"raku"	"comfortable"	"NAdj"	"T"	"comfortable"	"Y"	21
+"6380-5"	"zuke"	"rude"	"SRI"	"T"	"rude"	"Y"	22
+"6380-5"	"kero"	"nonchalantly"	"NRI"	"T"	"nonchalantly"	"Y"	23
+"6380-5"	"gashigashi"	"sturdy"	"RNRI"	"D"	"fat"	"Y"	24
+"6380-5"	"gakugaku"	"dejected"	"RNRI"	"D"	"exact"	"Y"	25
+"6380-5"	"ukiuki"	"happy"	"RI"	"D"	"smug"	"Y"	26
+"6380-5"	"zatsuzatsu"	"sloppy"	"RNAdj"	"T"	"sloppy"	"Y"	27
+"6380-5"	"raku"	"comfortable"	"NAdj"	"D"	"whispering"	"Y"	28
+"6380-5"	"debu"	"fat"	"SRI"	"D"	"dejected"	"Y"	29
+"6380-5"	"pata"	"sudden"	"NRI"	"D"	"wobbly"	"Y"	30
+"6380-5"	"kiza"	"smug"	"NAdj"	"D"	"happy"	"Y"	31
+"6380-5"	"mare"	"rare"	"NAdj"	"T"	"rare"	"Y"	32
+"6380-5"	"hokahoka"	"steaming"	"RI"	"T"	"steaming"	"Y"	33
+"6380-5"	"kabikabi"	"gaudy"	"RNAdj"	"D"	"humid"	"Y"	34
+"6380-5"	"jimijimi"	"subdued"	"RNAdj"	"D"	"steaming"	"Y"	35
+"6380-5"	"mushi"	"humid"	"SRI"	"D"	"nonchalantly"	"Y"	36
+"6380-5"	"debu"	"fat"	"SRI"	"T"	"fat"	"Y"	37
+"6380-5"	"jimijimi"	"subdued"	"RNAdj"	"T"	"subdued"	"Y"	38
+"6380-5"	"gakugaku"	"dejected"	"RNRI"	"T"	"dejected"	"Y"	39
+"6380-5"	"hisohiso"	"whispering"	"RI"	"D"	"supple"	"Y"	40
+"6380-5"	"zatsuzatsu"	"sloppy"	"RNAdj"	"D"	"sudden"	"Y"	41
+"6380-5"	"yurayura"	"wobbly"	"RI"	"D"	"gaudy"	"Y"	42
+"6380-5"	"murimuri"	"impossible"	"RNAdj"	"T"	"impossible"	"Y"	43
+"6380-5"	"kabikabi"	"gaudy"	"RNAdj"	"T"	"gaudy"	"Y"	44
+"6380-5"	"boro"	"worn out"	"SRI"	"D"	"rude"	"Y"	45
+"6380-5"	"gussuri"	"fast asleep"	"NRI"	"D"	"rare"	"Y"	46
+"6380-5"	"mare"	"rare"	"NAdj"	"D"	"subdued"	"Y"	47
+"6380-5"	"hokahoka"	"steaming"	"RI"	"D"	"impossible"	"Y"	48

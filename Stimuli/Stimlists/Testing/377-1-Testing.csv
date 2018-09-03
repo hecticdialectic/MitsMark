@@ -1,0 +1,49 @@
+"Id"	"Word"	"TrueMeaning"	"WordType"	"TrialType"	"TargetMeaning"	"LegalTrial"	"TrialNum"
+"377-1"	"zoku"	"vulgar"	"NAdj"	"D"	"pure"	"Y"	1
+"377-1"	"patapata"	"sudden"	"RNRI"	"T"	"sudden"	"Y"	2
+"377-1"	"gashi"	"sturdy"	"NRI"	"T"	"sturdy"	"Y"	3
+"377-1"	"jikkuri"	"careful"	"NRI"	"D"	"beneficial"	"Y"	4
+"377-1"	"zoku"	"vulgar"	"NAdj"	"T"	"vulgar"	"Y"	5
+"377-1"	"harahara"	"suspenseful"	"RI"	"T"	"suspenseful"	"Y"	6
+"377-1"	"hikuhiku"	"agitated"	"RI"	"D"	"sturdy"	"Y"	7
+"377-1"	"bisshiribisshiri"	"crowded"	"RNRI"	"T"	"crowded"	"Y"	8
+"377-1"	"koku"	"harsh"	"NAdj"	"T"	"harsh"	"Y"	9
+"377-1"	"boro"	"worn out"	"SRI"	"T"	"worn out"	"Y"	10
+"377-1"	"mukumuku"	"pure"	"RNAdj"	"T"	"pure"	"Y"	11
+"377-1"	"kakkirikakkiri"	"exact"	"RNRI"	"T"	"exact"	"Y"	12
+"377-1"	"ukiuki"	"happy"	"RI"	"D"	"careful"	"Y"	13
+"377-1"	"moji"	"hesitant"	"SRI"	"D"	"harsh"	"Y"	14
+"377-1"	"gosogoso"	"whole"	"RNRI"	"T"	"whole"	"Y"	15
+"377-1"	"patapata"	"sudden"	"RNRI"	"D"	"rash"	"Y"	16
+"377-1"	"dame"	"useless"	"NAdj"	"T"	"useless"	"Y"	17
+"377-1"	"boro"	"worn out"	"SRI"	"D"	"useless"	"Y"	18
+"377-1"	"dame"	"useless"	"NAdj"	"D"	"disadvantaged"	"Y"	19
+"377-1"	"ukiuki"	"happy"	"RI"	"T"	"happy"	"Y"	20
+"377-1"	"gaku"	"dejected"	"NRI"	"T"	"dejected"	"Y"	21
+"377-1"	"toku"	"beneficial"	"NAdj"	"D"	"vulgar"	"Y"	22
+"377-1"	"moji"	"hesitant"	"SRI"	"T"	"hesitant"	"Y"	23
+"377-1"	"muchamucha"	"rash"	"RNAdj"	"D"	"suspenseful"	"Y"	24
+"377-1"	"toku"	"beneficial"	"NAdj"	"T"	"beneficial"	"Y"	25
+"377-1"	"gowa"	"stiff"	"SRI"	"T"	"stiff"	"Y"	26
+"377-1"	"gosogoso"	"whole"	"RNRI"	"D"	"chubby"	"Y"	27
+"377-1"	"furifuri"	"disadvantaged"	"RNAdj"	"T"	"disadvantaged"	"Y"	28
+"377-1"	"gashi"	"sturdy"	"NRI"	"D"	"agitated"	"Y"	29
+"377-1"	"yaboyabo"	"tasteless"	"RNAdj"	"T"	"tasteless"	"Y"	30
+"377-1"	"muchamucha"	"rash"	"RNAdj"	"T"	"rash"	"Y"	31
+"377-1"	"yaboyabo"	"tasteless"	"RNAdj"	"D"	"whole"	"Y"	32
+"377-1"	"gara"	"to change ocmpletely"	"NRI"	"T"	"to change ocmpletely"	"Y"	33
+"377-1"	"furifuri"	"disadvantaged"	"RNAdj"	"D"	"exact"	"Y"	34
+"377-1"	"harahara"	"suspenseful"	"RI"	"D"	"worn out"	"Y"	35
+"377-1"	"zukezuke"	"rude"	"RI"	"T"	"rude"	"Y"	36
+"377-1"	"bisshiribisshiri"	"crowded"	"RNRI"	"D"	"tasteless"	"Y"	37
+"377-1"	"buku"	"chubby"	"SRI"	"T"	"chubby"	"Y"	38
+"377-1"	"hikuhiku"	"agitated"	"RI"	"T"	"agitated"	"Y"	39
+"377-1"	"zukezuke"	"rude"	"RI"	"D"	"dejected"	"Y"	40
+"377-1"	"kakkirikakkiri"	"exact"	"RNRI"	"D"	"to change ocmpletely"	"Y"	41
+"377-1"	"gowa"	"stiff"	"SRI"	"D"	"sudden"	"Y"	42
+"377-1"	"gara"	"to change ocmpletely"	"NRI"	"D"	"crowded"	"Y"	43
+"377-1"	"buku"	"chubby"	"SRI"	"D"	"hesitant"	"Y"	44
+"377-1"	"gaku"	"dejected"	"NRI"	"D"	"rude"	"Y"	45
+"377-1"	"mukumuku"	"pure"	"RNAdj"	"D"	"stiff"	"Y"	46
+"377-1"	"jikkuri"	"careful"	"NRI"	"T"	"careful"	"Y"	47
+"377-1"	"koku"	"harsh"	"NAdj"	"D"	"happy"	"Y"	48
