@@ -179,8 +179,8 @@ SelectBalanced <- function(TargetSD, MaxTries, TryNum) {
 
  writestimuli(25,20)
 
-   files  <- list.files(path = "F:/Google Drive/Experiments/Collaborations/MitsMark/Stimuli/stimlists/testing/", pattern = '\\-1-Testing.csv',
-                        full.names= TRUE)          
+   files  <- list.files(path = "F:/Google Drive/Experiments/Collaborations/MitsMark/Stimuli/stimlists/testing/", pattern = '\\-1-Testing.csv',full.names= TRUE)          
+   
    tables <- lapply(files, read.csv, header = TRUE, sep = '\t')
    AllTrials <- do.call(rbind , tables)
  

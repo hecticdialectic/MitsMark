@@ -1,0 +1,160 @@
+---
+title: "MitsMark - Pilot - Data Analysis"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+library(tidyverse)
+```
+
+First, we need to collect all of the data into one place
+
+```{r Data Merging}
+
+files  <- list.files(path = "C:/Users/Alan/Documents/GitHub/MitsMark/Data/Pilot50/", pattern = '.csv',full.names= TRUE)  
+
+tables <- lapply(files, read.csv, header = TRUE, sep = ',')
+PilotRaw <- do.call(rbind , tables)             
+
+```
+
+That's all the raw data, but jsPsych outputs everythign together- including the answers to the explanation trials, the answers to the ethics approval questions, etc (participants who do not give full consent are not allowed to do the experiment, so we can ignore those things).
+
+So lets just separate this into Training Trials (which we won't look at likely) and Testing Trials (which we are interested in)
+
+
+```{r Data Formatting}
+
+#Fortunately we can subset these really easily out by their trial_indexes
+PilotTraining <- subset(PilotRaw, trial_index >= 15 & trial_index <63)
+
+PilotTesting <- subset(PilotRaw, trial_index >= 64 & trial_index <=111)
+
+#Now we can get rid of a bunch of columns
+PilotTesting$ParticipantID <- rep(1:(nrow(PilotTesting)/48), each = 48)
+PilotTesting$ParticipantID <- paste("x", PilotTesting$ParticipantID, sep = '')
+
+PilotTesting <- subset(PilotTesting, select = c("ParticipantID", 'trialNum', 'TrialType', 'word', "sound", 'WordType',
+                                                'TrueMeaning', 'TargetMeaning', 'answer', 'correct', 'rt'))
+
+
+colnames(PilotTesting) <- c("ParticipantID", "TrialNum", "TrialType", "English", "Japanese", "WordType", "TrueMeaning",
+                            "TargetMeaning", "Answer", "Correct", "RT")
+
+round(mean((PilotTesting$Correct)*100), digits =2) 
+
+```
+
+
+So that's the basic data - the first thing we can obviously look at is just omnibus performance - how good were people at the task overall
+
+That's pretty easy, it's `r round(mean((PilotTesting$Correct)*100), digits =2)`%, which isn't great but is better than the preliminary pilot data
+
+What we're really interested in though, is the difference between the 6 types of words: most simply we can look at each type with as single tapply, and we can also visualise easily enough
+
+```{r Data Formatting and First Look}
+
+tapply(PilotTesting$Correct, PilotTesting$WordType, mean)
+
+PilotTestingAgg <- aggregate(Correct ~ WordType ,
+                  data= PilotTesting, 
+                  mean)
+
+PilotTestingAggSD <- aggregate(Correct ~ WordType ,
+                  data= PilotTesting, 
+                  sd)
+
+PilotTestingAgg$SE <- PilotTestingAggSD$Correct/sqrt(432)
+
+library(ggplot2)
+library(ggthemes)
+
+
+ggplot(data=PilotTestingAgg, aes(x=WordType, y=Correct), group = 6) +
+  geom_bar(stat = "summary", fun.y = "mean") +
+  geom_errorbar(aes(ymin= Correct - SE, ymax= Correct + SE, width = 0.2)) +
+  labs(x="Word Type", y="Proportion Correct") +
+  guides(colour=FALSE) +
+  scale_y_continuous(breaks = c(0, 0.25, 0.5, 0.75, 1.00), limits = c(0,1)) +
+  theme_tufte()
+
+```
+
+So that's super surprising- Normal Adjectives are the best, which is definitely not what we've found in previous work
+
+Why might this be the case? It could be the effects of individual words or sets (yoked participants), but we won't have data to look at those - what we can look at however is trial type (targets vs. distractors)
+
+```{r Targets vs Distractors}
+
+PilotTestingAgg2 <- aggregate(Correct ~ WordType + TrialType,
+                  data= PilotTesting, 
+                  mean)
+
+PilotTestingAggSD2 <- aggregate(Correct ~ WordType + TrialType ,
+                  data= PilotTesting, 
+                  sd)
+
+PilotTestingAgg2$SE <- PilotTestingAggSD2$Correct/sqrt(216)
+
+library(ggplot2)
+library(ggthemes)
+
+
+ggplot(data=PilotTestingAgg2, aes(x=WordType, y=Correct), group = 6) +
+  geom_bar(stat = "summary", fun.y = "mean", aes(fill = TrialType), position = position_dodge(width=0.9)) +
+  #geom_errorbar(aes(ymin= Correct - SE, ymax= Correct + SE, width = 0.2)) +
+  labs(x="Word Type", y="Proportion Correct") +
+  scale_y_continuous(breaks = c(0, 0.25, 0.5, 0.75, 1.00), limits = c(0,1)) +
+  theme_tufte()
+
+```
+
+
+So that's actually pretty interesting- the main reason Normal Adjectives appear to be best is that they are robust to distractors - for everything else (except maybe Split Reduplicative Ideophones) Target Trials are performed about equally well, but Normal Adjectives have a pertty clear advantage for Distractor Trials
+
+The statistical Analysis might look a bit like this:
+
+
+```{r StatPlaying}
+library(lme4)
+library(lmerTest)
+library(plyr)
+#First we need to add some columns to the PilotTesting file
+
+PilotTesting$Ideo <- mapvalues(PilotTesting$WordType,
+                               from = c("RI", "SRI", "NRI", "RNRI", "NAdj", "RNAdj"),
+                               to = c("Y", "Y", "Y", "Y", "N", "N"))
+
+
+PilotTesting$Redup <- mapvalues(PilotTesting$WordType,
+                               from = c("RI", "SRI", "NRI", "RNRI", "NAdj", "RNAdj"),
+                               to = c("Y", "N", "N", "Y", "N", "Y"))
+
+PilotTesting$Nat <- mapvalues(PilotTesting$WordType,
+                               from = c("RI", "SRI", "NRI", "RNRI", "NAdj", "RNAdj"),
+                               to = c("Y", "N", "Y", "N", "Y", "N"))
+
+
+PilotTestingAgg3 <- aggregate(Correct ~ Ideo + Redup + Nat + TrialType + ParticipantID,
+                  data= PilotTesting, 
+                  mean)
+
+FirstModel <- lmer(Correct ~ Ideo*Redup*Nat*TrialType + (1|ParticipantID) + (1|Ideo:ParticipantID) + (1|Redup:ParticipantID), data= PilotTestingAgg3)
+
+stepFM <- step(FirstModel)
+
+FinalModel <- get_model(stepFM)
+
+anova(FinalModel)
+
+
+
+```
+
+
+
+
+
+
+
+
