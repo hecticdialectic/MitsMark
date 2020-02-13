@@ -1,0 +1,6 @@
+"0",""
+"0","files  <- list.files(path = ""C:/Users/Alan/Documents/GitHub/MitsMark/Data/Pilot50/"", pattern = '.csv',full.names= TRUE)  "
+"0",""
+"0","tables <- lapply(files, read.csv, header = TRUE, sep = ',')"
+"0","PilotRaw <- do.call(rbind , tables)             "
+"0",""

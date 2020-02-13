@@ -1,0 +1,10 @@
+"0","alldata.WordType <- summarySE(data=allTesting,
+                             measurevar = ""Correct"",
+                             groupvars = ""WordType"")
+
+alldata.WordType.EM <- emmeans(afex1, ~WordType)
+"
+"2","Error in ref_grid(object, ...) : 
+  Can't handle an object of class  “mixed” 
+ Use help(""models"", package = ""emmeans"") for information on supported models.
+"

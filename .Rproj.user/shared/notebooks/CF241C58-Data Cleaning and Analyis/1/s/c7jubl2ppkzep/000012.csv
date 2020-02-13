@@ -1,0 +1,97 @@
+"0",""
+"0","allTesting$Ideo <- mapvalues(allTesting$WordType,"
+"0","                               from = c(""RI"", ""SRI"", ""NRI"", ""RNRI"", ""NAdj"", ""RNAdj""),"
+"0","                               to = c(""Y"", ""Y"", ""Y"", ""Y"", ""N"", ""N""))"
+"0",""
+"0",""
+"0","allTesting$Redup <- mapvalues(allTesting$WordType,"
+"0","                               from = c(""RI"", ""SRI"", ""NRI"", ""RNRI"", ""NAdj"", ""RNAdj""),"
+"0","                               to = c(""Y"", ""N"", ""N"", ""Y"", ""N"", ""Y""))"
+"0",""
+"0","allTesting$Nat <- mapvalues(allTesting$WordType,"
+"0","                               from = c(""RI"", ""SRI"", ""NRI"", ""RNRI"", ""NAdj"", ""RNAdj""),"
+"0","                               to = c(""Y"", ""N"", ""Y"", ""N"", ""Y"", ""N""))"
+"0",""
+"0",""
+"0",""
+"0",""
+"0","afex2 <- mixed(correct ~ Ideo + Redup + Nat + (1|Id),"
+"0","                         data=allTesting,"
+"0","                         family=binomial,"
+"0","                         control=glmerControl(optimizer=""bobyqa""),"
+"0","                         method = 'LRT',"
+"0","                         progress=FALSE,"
+"0","                         all_fit= TRUE)"
+"2","Contrasts set to contr.sum for the following variables: Ideo, Redup, Nat, Id
+"
+"2","contrasts dropped from factor Ideo due to missing levels"
+"2","contrasts dropped from factor Redup due to missing levels"
+"2","contrasts dropped from factor Nat due to missing levels"
+"2","contrasts dropped from factor Id due to missing levels"
+"2","contrasts dropped from factor Ideo due to missing levels"
+"2","contrasts dropped from factor Redup due to missing levels"
+"2","contrasts dropped from factor Nat due to missing levels"
+"2","contrasts dropped from factor Id due to missing levels"
+"2","contrasts dropped from factor Id due to missing levels"
+"2","contrasts dropped from factor Id due to missing levels"
+"2","fixed-effect model matrix is rank deficient so dropping 2 columns / coefficients
+"
+"2","fixed-effect model matrix is rank deficient so dropping 2 columns / coefficients
+"
+"2","fixed-effect model matrix is rank deficient so dropping 2 columns / coefficients
+"
+"2","fixed-effect model matrix is rank deficient so dropping 2 columns / coefficients
+"
+"2","fixed-effect model matrix is rank deficient so dropping 2 columns / coefficients
+"
+"2","fixed-effect model matrix is rank deficient so dropping 2 columns / coefficients
+"
+"2","fixed-effect model matrix is rank deficient so dropping 2 columns / coefficients
+"
+"2","fixed-effect model matrix is rank deficient so dropping 2 columns / coefficients
+"
+"2","contrasts dropped from factor Id due to missing levels"
+"2","contrasts dropped from factor Id due to missing levels"
+"2","fixed-effect model matrix is rank deficient so dropping 2 columns / coefficients
+"
+"2","fixed-effect model matrix is rank deficient so dropping 2 columns / coefficients
+"
+"2","fixed-effect model matrix is rank deficient so dropping 2 columns / coefficients
+"
+"2","fixed-effect model matrix is rank deficient so dropping 2 columns / coefficients
+"
+"2","fixed-effect model matrix is rank deficient so dropping 2 columns / coefficients
+"
+"2","fixed-effect model matrix is rank deficient so dropping 2 columns / coefficients
+"
+"2","fixed-effect model matrix is rank deficient so dropping 2 columns / coefficients
+"
+"2","fixed-effect model matrix is rank deficient so dropping 2 columns / coefficients
+"
+"2","contrasts dropped from factor Id due to missing levels"
+"2","contrasts dropped from factor Id due to missing levels"
+"2","fixed-effect model matrix is rank deficient so dropping 2 columns / coefficients
+"
+"2","fixed-effect model matrix is rank deficient so dropping 2 columns / coefficients
+"
+"2","fixed-effect model matrix is rank deficient so dropping 2 columns / coefficients
+"
+"2","fixed-effect model matrix is rank deficient so dropping 2 columns / coefficients
+"
+"2","fixed-effect model matrix is rank deficient so dropping 2 columns / coefficients
+"
+"2","fixed-effect model matrix is rank deficient so dropping 2 columns / coefficients
+"
+"2","fixed-effect model matrix is rank deficient so dropping 2 columns / coefficients
+"
+"2","fixed-effect model matrix is rank deficient so dropping 2 columns / coefficients
+"
+"0","##ANOVA Table for P Values of Main effects and Interactions"
+"0","afex2$anova_table %>% "
+"0","  data.frame() %>% "
+"0","    tibble::rownames_to_column(var= ""Variable"") %>% "
+"0","      mutate_if(is.numeric, round, digits = 3) %>% "
+"0","        mutate_all(funs(ifelse(.<0.001, ""<0.001"", .))) %>%"
+"0","          `colnames<-`(c(""Variable"", ""df"", ""Chi Sq"", ""Chi df"", ""p"")) %>%"
+"0","            knitr::kable(caption = ""Word Type Comparison"", ) %>%"
+"0","              kable_styling(full_width= F)"

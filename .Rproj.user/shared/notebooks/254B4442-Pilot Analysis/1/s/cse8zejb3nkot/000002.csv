@@ -1,0 +1,6 @@
+"0",""
+"0","#Fortunately we can subset these really easily out by their trial_indexes"
+"0","PilotTraining <- subset(PilotRaw, trial_index >= 15 & trial_index <63)"
+"2","Error in subset.default(PilotRaw, trial_index >= 15 & trial_index < 63) : 
+  object 'trial_index' not found
+"

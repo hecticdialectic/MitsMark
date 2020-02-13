@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1581428414971.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "D1227BF8",
+    "lastKnownWriteTime" : 2203860274072,
+    "last_content_update" : 1581428414971,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "70332AD2",
+        "caption" : "trimdata.3",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=trimdata.3&cache_key=70332AD2",
+        "displayedObservations" : 24960,
+        "environment" : "",
+        "expression" : "trimdata.3",
+        "object" : "trimdata.3",
+        "preview" : 0,
+        "totalObservations" : 24960,
+        "variables" : 19
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
